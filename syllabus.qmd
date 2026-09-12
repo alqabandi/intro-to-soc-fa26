@@ -1,0 +1,66 @@
+---
+title: "Course Syllabus"
+subtitle: "Introduction to Sociology · Fall 2026"
+toc: true
+toc-depth: 2
+---
+
+::: {.document-actions}
+[Draft preview]{.badge .bg-warning}
+[PDF coming soon]{.btn .btn-primary .disabled role="button" aria-disabled="true"}
+:::
+
+::: {.callout-warning title="Not yet final"}
+This preview shows how the syllabus will appear on the course website. The finalized syllabus and its downloadable PDF will replace this draft before the semester begins.
+:::
+
+# Course Information
+
+**Institution:** Kuwait University  
+**Course title:** Introduction to Sociology  
+**Course number:** SOC 101  
+**Semester:** Fall 2026  
+**Meeting days:** Mondays and Wednesdays  
+**Teaching period:** September 14 through December 21, 2026  
+**Classroom:** Shadadiyah Campus, College of Arts North Building, Room 4010  
+**Course platform:** Microsoft Teams
+
+## Instructor
+
+**Instructor:** Dr. Fatima Alqabandi  
+**Office hours:** To be confirmed  
+**Email:** To be confirmed
+
+# Course Description
+
+Sociology is the study of how groups, institutions, and broader social forces influence individuals, and how individuals, in turn, shape the society around them. This course introduces the central questions sociologists ask, the foundational theories they use, and the research methods used to investigate social life.
+
+# Learning Outcomes
+
+By the end of the course, students should be able to:
+
+1. Apply the sociological imagination to relationships between personal experiences and wider social forces.
+2. Compare functionalist, conflict, and interactionist explanations of social phenomena.
+3. Identify the strengths, limitations, and ethical concerns of common sociological research methods.
+4. Interpret basic sociological evidence and construct a clear sociological argument.
+5. Communicate sociological knowledge to an audience beyond the classroom.
+
+# Assessment and Grading
+
+| Assessment | Weight |
+|---|---:|
+| Final examination | 50% |
+| Public Sociology Project | 30% |
+| In-class quizzes | 10% |
+| Attendance and participation | 10% |
+| **Total** | **100%** |
+
+The detailed [Public Sociology Project rubric](rubric.qmd) will explain how the project is evaluated.
+
+# Course Policies
+
+The final syllabus will include complete policies concerning attendance, late work, respectful discussion, academic integrity, generative AI, privacy, course materials, and syllabus changes.
+
+# Tentative Schedule
+
+See the live [course schedule](schedule.qmd) for weekly topics, materials, and milestones. The schedule page will be updated throughout the semester.

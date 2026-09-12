@@ -1,0 +1,284 @@
+/*-- scss:defaults --*/
+
+// Adapted from the downloaded Bootswatch Brite 5.3.8 theme.
+$theme: "brite";
+
+$white: #fff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-600: #868e96;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black: #000;
+
+$blue: #61bcff;
+$indigo: #828df9;
+$purple: #be82fa;
+$pink: #ea4998;
+$red: #f56565;
+$orange: #fa984a;
+$yellow: #ffc700;
+$green: #68d391;
+$teal: #2ed3be;
+$cyan: #22d2ed;
+$lime: #a2e436;
+
+$primary: $lime;
+$secondary: $white;
+$success: $green;
+$info: $cyan;
+$warning: $yellow;
+$danger: $red;
+$light: $gray-200;
+$dark: $black;
+
+$link-color: $black;
+$headings-font-weight: 600;
+$border-radius: .375rem;
+$border-radius-lg: .5rem;
+$border-width: 2px;
+$border-color: $black;
+
+$navbar-padding-y: .75rem;
+$navbar-nav-link-padding-x: 1rem;
+$navbar-light-color: $black;
+$navbar-light-hover-color: $black;
+$navbar-light-active-color: $black;
+$navbar-light-toggler-border-color: $black;
+
+$card-border-color: $black;
+$table-border-color: $black;
+$table-cell-padding-y: .75rem;
+$table-cell-padding-x: .75rem;
+$dropdown-border-color: $black;
+$dropdown-border-width: 2px;
+$dropdown-link-hover-bg: $primary;
+$accordion-button-active-bg: $primary;
+$accordion-button-active-color: $black;
+$badge-color: $black;
+
+/*-- scss:rules --*/
+
+:root {
+  --bs-border-width: 2px;
+  --bs-border-color: #000;
+}
+
+body {
+  font-size: 1rem;
+}
+
+a {
+  font-weight: 600;
+  text-underline-offset: .16em;
+}
+
+.navbar {
+  border-bottom: 2px solid $black;
+  font-weight: 600;
+}
+
+.navbar .nav-link {
+  border-radius: $border-radius;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  background: $white;
+  outline: 2px solid $black;
+}
+
+.navbar-toggler,
+.dropdown-menu,
+.card,
+.table,
+.alert {
+  border: 2px solid $black;
+}
+
+.dropdown-menu,
+.card,
+.alert {
+  box-shadow: 3px 3px 0 0 $black;
+}
+
+.btn {
+  margin: 3px 0 0 3px;
+  border: 2px solid $black;
+  box-shadow: 3px 3px 0 0 $black;
+  font-weight: 700;
+  transform: translate(-3px, -3px);
+  transition: box-shadow .2s ease, transform .2s ease;
+}
+
+.btn:hover,
+.btn:focus {
+  border-color: $black;
+  box-shadow: none;
+  transform: translate(0, 0);
+}
+
+.btn.disabled,
+.btn:disabled {
+  border-color: $black;
+  box-shadow: none;
+  opacity: .62;
+  transform: none;
+}
+
+.table {
+  margin-top: 1rem;
+}
+
+.table > thead {
+  background: $primary;
+}
+
+.table > :not(caption) > * > * {
+  border-color: $black;
+}
+
+.badge {
+  border: 2px solid $black;
+  font-weight: 700;
+}
+
+.hero {
+  margin: 1.5rem 0 2.75rem;
+  padding: clamp(1.5rem, 4vw, 3.5rem);
+  background: $primary;
+  border: 2px solid $black;
+  border-radius: $border-radius-lg;
+  box-shadow: 7px 7px 0 0 $black;
+}
+
+.hero h1 {
+  max-width: 14ch;
+  margin: .75rem 0;
+  font-size: clamp(2.3rem, 7vw, 4.8rem);
+  line-height: .98;
+}
+
+.hero p {
+  max-width: 62ch;
+  font-size: 1.15rem;
+}
+
+.hero .badge {
+  background: $white;
+  color: $black;
+}
+
+.quick-link-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.25rem 0 2.5rem;
+}
+
+.quick-link-card {
+  display: flex;
+  min-height: 12rem;
+  flex-direction: column;
+  padding: 1.25rem;
+  color: $black;
+  background: $white;
+  border: 2px solid $black;
+  border-radius: $border-radius-lg;
+  box-shadow: 4px 4px 0 0 $black;
+  transition: box-shadow .2s ease, transform .2s ease;
+}
+
+.quick-link-card:nth-child(2) {
+  background: #d3f6fb;
+}
+
+.quick-link-card:nth-child(3) {
+  background: #fff4cc;
+}
+
+.quick-link-card:hover {
+  color: $black;
+  box-shadow: none;
+  transform: translate(4px, 4px);
+}
+
+.quick-link-card h3 {
+  margin-top: 0;
+}
+
+.quick-link-card h3 a {
+  color: $black;
+  text-decoration: none;
+}
+
+.quick-link-card > p:last-child {
+  margin-top: auto;
+  margin-bottom: 0;
+}
+
+.quick-link-card .card-arrow {
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.course-facts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.course-fact {
+  padding: 1rem;
+  border-left: .5rem solid $primary;
+  background: $gray-100;
+}
+
+.course-fact strong {
+  display: block;
+  margin-bottom: .2rem;
+}
+
+.status-coming-soon {
+  display: inline-block;
+  padding: .18rem .5rem;
+  white-space: nowrap;
+  background: $gray-200;
+  border: 1px solid $black;
+  border-radius: 999px;
+  font-size: .82rem;
+  font-weight: 700;
+}
+
+.document-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .75rem;
+  margin: 1rem 0 2rem;
+}
+
+.rubric-preview th:first-child {
+  min-width: 13rem;
+}
+
+.quarto-title-block .quarto-title-banner {
+  border-bottom: 2px solid $black;
+}
+
+.nav-footer {
+  border-top: 2px solid $black;
+}
+
+@media (max-width: 760px) {
+  .quick-link-grid,
+  .course-facts {
+    grid-template-columns: 1fr;
+  }
+
+  .hero {
+    box-shadow: 4px 4px 0 0 $black;
+  }
+}

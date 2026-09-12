@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - downloads/**
+
+website:
+  title: "Introduction to Sociology"
+  site-url: "https://alqabandi.github.io/intro-to-soc-fa26/"
+  description: "Course website for Introduction to Sociology, Fall 2026, Kuwait University"
+  navbar:
+    background: primary
+    foreground: dark
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: schedule.qmd
+        text: Schedule
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: rubric.qmd
+        text: Project Rubric
+    right:
+      - icon: github
+        href: "https://github.com/alqabandi/intro-to-soc-fa26"
+        aria-label: "Course website source on GitHub"
+  page-footer:
+    left: "SOC 101 · Fall 2026 · Kuwait University"
+    right: "Course materials may be updated during the semester."
+  open-graph: true
+  search: true
+
+format:
+  html:
+    theme: assets/brite.scss
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true
+
+execute:
+  freeze: auto

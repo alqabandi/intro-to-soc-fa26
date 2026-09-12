@@ -1,0 +1,91 @@
+---
+title: "Introduction to Sociology"
+page-layout: full
+toc: false
+title-block-banner: false
+---
+
+::: {.hero}
+[Fall 2026 · SOC 101]{.badge}
+
+# Introduction to Sociology
+
+Explore how groups, institutions, and wider social forces shape everyday life—and how people shape society in return.
+
+**Dr. Fatima Alqabandi · Kuwait University**
+
+::: {.document-actions}
+[View the course schedule](schedule.qmd){.btn .btn-dark role="button"}
+[Read the syllabus](syllabus.qmd){.btn .btn-secondary role="button"}
+:::
+:::
+
+## Welcome
+
+This will be the central home for course dates, slides, readings, assignments, and announcements. Materials will be added as the semester progresses, so check the schedule regularly.
+
+::: {.callout-note title="Website preview"}
+The site is being prepared for Fall 2026. Dates, policies, and course materials shown here are placeholders until the course documents are finalized.
+:::
+
+## Start here
+
+::: {.quick-link-grid}
+::: {.quick-link-card}
+### [Course schedule](schedule.qmd)
+
+Weekly topics, due dates, slides, readings, and class resources.
+
+[Open schedule →](schedule.qmd){.card-arrow}
+:::
+
+::: {.quick-link-card}
+### [Syllabus](syllabus.qmd)
+
+Course expectations, assessments, policies, and a downloadable PDF.
+
+[Open syllabus →](syllabus.qmd){.card-arrow}
+:::
+
+::: {.quick-link-card}
+### [Project rubric](rubric.qmd)
+
+How the Public Sociology Project will be evaluated.
+
+[Open rubric →](rubric.qmd){.card-arrow}
+:::
+:::
+
+## Course at a glance
+
+::: {.course-facts}
+::: {.course-fact}
+**Meeting days**
+
+Mondays and Wednesdays
+:::
+
+::: {.course-fact}
+**Teaching period**
+
+September 14–December 21, 2026
+:::
+
+::: {.course-fact}
+**Classroom**
+
+College of Arts North, Room 4010
+:::
+
+::: {.course-fact}
+**Course platform**
+
+Microsoft Teams
+:::
+:::
+
+## Course description
+
+Sociology studies how groups, institutions, and broader social forces influence individuals, and how individuals shape the society around them. In this course, we will use sociological concepts, theories, and evidence to examine familiar parts of life from a new angle.
+
+The full description and learning outcomes will appear in the finalized [syllabus](syllabus.qmd).

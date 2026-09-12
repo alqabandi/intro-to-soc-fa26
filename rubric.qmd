@@ -1,0 +1,44 @@
+---
+title: "Public Sociology Project Rubric"
+subtitle: "Draft grading criteria"
+toc: true
+toc-depth: 2
+---
+
+::: {.document-actions}
+[Draft preview]{.badge .bg-warning}
+[PDF coming soon]{.btn .btn-primary .disabled role="button" aria-disabled="true"}
+:::
+
+::: {.callout-warning title="Not yet final"}
+This sample shows how a grading rubric will appear on the website. The criteria, descriptions, point values, and downloadable PDF may change before the project is assigned.
+:::
+
+# Overview
+
+The Public Sociology Project asks groups to explain a familiar part of social life using sociological concepts and credible evidence. The final project will include a class presentation and an accompanying paper.
+
+# Rubric Preview
+
+::: {.rubric-preview}
+| Criterion | 3 — Strong | 2 — Developing | 1 — Limited | 0 — Not demonstrated |
+|---|---|---|---|---|
+| **Sociological concepts and accuracy** | Concepts are accurate, clearly explained, and applied effectively. | Concepts are mostly accurate but need clearer explanation or application. | Concepts are mentioned but contain important confusion or inaccuracies. | Required concepts are absent or fundamentally inaccurate. |
+| **Social patterns and structures** | Connects the example to broader patterns, groups, or institutions with clear analysis. | Makes a relevant connection, but the analysis is incomplete. | Describes an example with little structural analysis. | Does not connect the example to a social pattern or structure. |
+| **Evidence, sources, and citations** | Uses credible evidence well and cites sources clearly. | Uses relevant evidence with minor gaps in credibility, integration, or citation. | Uses weak or insufficient evidence, or citations are incomplete. | Provides no usable evidence or citations. |
+| **Clarity and communication** | Ideas are organized, engaging, and understandable to a general audience. | Main ideas are understandable but organization or delivery needs improvement. | Communication is difficult to follow in several places. | The project does not communicate a coherent argument. |
+| **Accompanying paper** | Paper clearly summarizes the argument, evidence, and sociological analysis. | Paper covers the main elements but needs development or clearer organization. | Paper is incomplete or only loosely connected to the presentation. | Paper is missing. |
+| **Group oral defense** | Group members answer questions accurately and explain their choices with evidence. | Answers show general understanding but contain gaps. | Answers show limited understanding of the project’s argument or evidence. | Group does not complete the oral defense. |
+:::
+
+# Scoring
+
+Each criterion is provisionally scored from 0 to 3 points, for a possible total of 18 points. Final scoring and grade conversion details will appear here once confirmed.
+
+# What Strong Projects Do
+
+- Apply at least two course concepts accurately.
+- Move from an individual example to a wider social pattern.
+- Use credible evidence and cite sources appropriately.
+- Communicate clearly without assuming prior knowledge of sociology.
+- Follow the assignment’s collaboration and AI-use requirements.
