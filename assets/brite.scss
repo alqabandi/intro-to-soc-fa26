@@ -531,4 +531,21 @@ a {
     padding: 1rem;
     box-shadow: 3px 3px 0 0 $black;
   }
+
+  .syllabus-page #tentative-course-schedule table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .syllabus-page #tentative-course-schedule th,
+  .syllabus-page #tentative-course-schedule td {
+    min-width: 8rem;
+  }
+
+  .syllabus-page #tentative-course-schedule th:first-child,
+  .syllabus-page #tentative-course-schedule td:first-child {
+    min-width: 4rem;
+  }
 }
