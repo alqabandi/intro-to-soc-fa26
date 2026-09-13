@@ -237,6 +237,18 @@ a {
   background: $gray-100;
 }
 
+.course-fact:nth-child(2) {
+  border-left-color: $blue;
+}
+
+.course-fact:nth-child(3) {
+  border-left-color: $yellow;
+}
+
+.course-fact:nth-child(4) {
+  border-left-color: $pink;
+}
+
 .course-fact strong {
   display: block;
   margin-bottom: .2rem;
