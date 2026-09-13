@@ -2,7 +2,7 @@
 
 Quarto source for the SOC 101 course website:
 
-<https://alqabandi.github.io/intro-to-soc-fa26/>
+<https://alqabandi.co/intro-to-soc-fa26/>
 
 ## Site structure
 

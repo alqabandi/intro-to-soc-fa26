@@ -9,7 +9,7 @@ project:
 
 website:
   title: "Introduction to Sociology"
-  site-url: "https://alqabandi.github.io/intro-to-soc-fa26/"
+  site-url: "https://alqabandi.co/intro-to-soc-fa26/"
   description: "Course website for Introduction to Sociology, Fall 2026, Kuwait University"
   navbar:
     background: primary
