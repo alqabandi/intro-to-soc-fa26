@@ -1,6 +1,6 @@
 ---
 title: "Course Schedule"
-subtitle: "Weekly topics, materials, and milestones"
+subtitle: "Weekly topics, materials, and assessments"
 toc: false
 ---
 
@@ -16,22 +16,22 @@ To add a course file later, replace a coming-soon label with a Markdown link:
 
 | Week | Dates | Topic | Materials | Assessment or milestone |
 |---:|---|---|---|---|
-| **1** | Sept. 14 & 16 | Understanding Sociology | [Slides coming soon]{.status-coming-soon} | Introduce the Public Sociology Project |
-| **2** | Sept. 21 & 23 | Sociological Research | [Slides coming soon]{.status-coming-soon} | — |
-| **3** | Sept. 28 & 30 | Culture | [Slides coming soon]{.status-coming-soon} | Groups confirmed |
-| **4** | Oct. 5 & 7 | Socialization and the Life Course | [Slides coming soon]{.status-coming-soon} | — |
-| **5** | Oct. 12 & 14 | Social Interaction, Groups, and Social Structure | [Slides coming soon]{.status-coming-soon} | — |
-| **6** | Oct. 19 & 21 | Mass Media and Social Media | [Slides coming soon]{.status-coming-soon} | Project topic pitch |
-| **7** | Oct. 26 & 28 | Deviance, Crime, and Social Control | [Slides coming soon]{.status-coming-soon} | — |
-| **8** | Nov. 2 & 4 | Stratification and Social Mobility | [Slides coming soon]{.status-coming-soon} | Project proposal, concept plan, and source plan due |
-| **9** | Nov. 9 & 11 | Global Inequality | [Slides coming soon]{.status-coming-soon} | — |
-| **10** | Nov. 16 & 18 | Racial and Ethnic Inequality | [Slides coming soon]{.status-coming-soon} | Project research update |
-| **11** | Nov. 23 & 25 | The Family and Household Diversity | [Slides coming soon]{.status-coming-soon} | Project research and development |
-| **12** | Nov. 30 & Dec. 2 | Government and the Economy | [Slides coming soon]{.status-coming-soon} | Project consultations |
-| **13** | Dec. 7 & 9 | Health, Population, and the Environment | [Slides coming soon]{.status-coming-soon} | Project consultations |
-| **14** | Dec. 14 & 16 | Social Change in the Global Community | [Slides coming soon]{.status-coming-soon} | Final project due; gallery walk and group oral defense |
-| **15** | Dec. 21 | Final Synthesis and Review | [Slides coming soon]{.status-coming-soon} | Final-exam blueprint and preparation |
-| **Final exam** | To be announced | Cumulative review | [Details coming soon]{.status-coming-soon} | Final examination |
+| **1** | Sept. 14 & 16 | Course orientation, syllabus, and assessment overview | [Slides coming soon]{.status-coming-soon} | — |
+| **2** | Sept. 21 & 23 | Understanding Sociology | [Slides coming soon]{.status-coming-soon} | — |
+| **3** | Sept. 28 & 30 | Sociological Research | [Slides coming soon]{.status-coming-soon} | — |
+| **4** | Oct. 5 & 7 | Culture | [Slides coming soon]{.status-coming-soon} | — |
+| **5** | Oct. 12 & 14 | Socialization and the Life Course | [Slides coming soon]{.status-coming-soon} | — |
+| **6** | Oct. 19 & 21 | Social Interaction, Groups, and Social Structure | [Slides coming soon]{.status-coming-soon} | — |
+| **7** | Oct. 26 & 28 | Mass Media and Social Media | [Slides coming soon]{.status-coming-soon} | — |
+| **8** | Nov. 2 & 4 | Deviance, Crime, and Social Control | [Slides coming soon]{.status-coming-soon} | — |
+| **9** | Nov. 9 & 11 | Stratification and Social Mobility; midterm during one class meeting | [Slides coming soon]{.status-coming-soon} | **Midterm examination — 25%** |
+| **10** | Nov. 16 & 18 | Global Inequality | [Slides coming soon]{.status-coming-soon} | — |
+| **11** | Nov. 23 & 25 | Racial and Ethnic Inequality | [Slides coming soon]{.status-coming-soon} | — |
+| **12** | Nov. 30 & Dec. 2 | The Family and Household Diversity | [Slides coming soon]{.status-coming-soon} | — |
+| **13** | Dec. 7 & 9 | Government and the Economy | [Slides coming soon]{.status-coming-soon} | — |
+| **14** | Dec. 14 & 16 | Health, Population, and the Environment | [Slides coming soon]{.status-coming-soon} | — |
+| **15** | Dec. 21 | Social Change in the Global Community; synthesis and final-exam guidance | [Slides coming soon]{.status-coming-soon} | Final-exam preparation |
+| **Final-exam period** | To be announced | Cumulative review of all assigned chapters | [Details coming soon]{.status-coming-soon} | **Final examination — 50%** |
 
 ## How materials will appear
 

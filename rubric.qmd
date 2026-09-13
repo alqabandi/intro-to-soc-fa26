@@ -1,9 +1,16 @@
 ---
 title: "Public Sociology Project Rubric"
 subtitle: "Draft grading criteria"
+draft: true
 toc: true
 toc-depth: 2
 ---
+
+<!--
+Archived for possible use in a future semester.
+This file is intentionally excluded from the Fall 2026 website render in
+_quarto.yml. Remove `draft: true` and the render exclusion before republishing.
+-->
 
 ::: {.document-actions}
 [Draft preview]{.badge .bg-warning}

@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "!rubric.qmd"
   resources:
     - downloads/**
 
@@ -19,8 +22,6 @@ website:
         text: Schedule
       - href: syllabus.qmd
         text: Syllabus
-      - href: rubric.qmd
-        text: Project Rubric
     right:
       - icon: github
         href: "https://github.com/alqabandi/intro-to-soc-fa26"

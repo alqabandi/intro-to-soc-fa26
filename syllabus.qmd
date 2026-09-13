@@ -1,66 +1,239 @@
 ---
-title: "Course Syllabus"
-subtitle: "Introduction to Sociology · Fall 2026"
+title: "Introduction to Sociology"
+subtitle: "Fall 2026 Course Syllabus"
+author: "Dr. Fatima Alqabandi"
+date: last-modified
+date-format: "D MMMM YYYY"
+lang: en
+language:
+  title-block-author-single: "Course Instructor"
+  title-block-author-plural: "Course Instructors"
+  title-block-published: "Updated on"
+body-classes: syllabus-document
 toc: true
 toc-depth: 2
+css: assets/syllabus-print.css
 ---
 
-::: {.document-actions}
-[Draft preview]{.badge .bg-warning}
-[PDF coming soon]{.btn .btn-primary .disabled role="button" aria-disabled="true"}
-:::
-
-::: {.callout-warning title="Not yet final"}
-This preview shows how the syllabus will appear on the course website. The finalized syllabus and its downloadable PDF will replace this draft before the semester begins.
+::: {.syllabus-page}
+::: {.syllabus-actions aria-label="Syllabus actions"}
+[Download PDF](downloads/introduction-to-sociology-syllabus-fall-2026.pdf){download=""}
 :::
 
 # Course Information
 
-**Institution:** Kuwait University  
+**University:** Kuwait University  
 **Course title:** Introduction to Sociology  
 **Course number:** SOC 101  
 **Semester:** Fall 2026  
-**Meeting days:** Mondays and Wednesdays  
-**Teaching period:** September 14 through December 21, 2026  
-**Classroom:** Shadadiyah Campus, College of Arts North Building, Room 4010  
+**Teaching period:** Week of September 13 through December 21, 2026  
+**Class days:** Mondays and Wednesdays  
+**Section 21A:** 9:30–10:45 a.m.  
+**Section 20A:** 11:00 a.m.–12:15 p.m.  
+**Location:** Shadadiyah Campus, College of Arts North Building, 4th floor, Room 4010  
 **Course platform:** Microsoft Teams
 
 ## Instructor
 
 **Instructor:** Dr. Fatima Alqabandi  
-**Office hours:** To be confirmed  
-**Email:** To be confirmed
+**Office:** Shuwaikh Campus, Building 5, second floor, Office S-10 48  
+**Office hours:** Tuesdays, 12:00–1:00 p.m., or by appointment  
+**Email:** [fatemah.alqabandi@ku.edu.kw](mailto:fatemah.alqabandi@ku.edu.kw)  
+**Expected response time:** Within two working days, excluding weekends and university holidays
 
 # Course Description
 
-Sociology is the study of how groups, institutions, and broader social forces influence individuals, and how individuals, in turn, shape the society around them. This course introduces the central questions sociologists ask, the foundational theories they use, and the research methods used to investigate social life.
+Sociology is the study of how groups, institutions, and broader social forces influence individuals, and how individuals, in turn, shape the society around them. This course introduces the central questions sociologists ask, the foundational theories they use to understand society, and the main research methods used to investigate social life. Together, we will use these ideas to make better sense of our own experiences and the world we share.
 
-# Learning Outcomes
+My goal is not for you simply to repeat what you hear in lectures. I want you to use sociological ideas to investigate the world around you, compare competing explanations, and connect sociological research to everyday life and other fields of study. You do not need to agree with every explanation we come across, but you should be able to examine it carefully and support your opinion or stance with concepts and evidence.
+
+# Recommended Text and Materials
+
+::: {.textbook-card}
+**Recommended textbook**
+
+Schaefer, Richard T. *Sociology: A Brief Introduction: 2024 Release*. Fourteenth edition. McGraw Hill.
+:::
+
+You do not need to purchase the textbook. If you would like an additional reference, the recommended book above closely follows the course. I will provide any required short readings, videos, data, or activity materials through Microsoft Teams whenever possible at no additional cost.
+
+# Course Learning Outcomes
 
 By the end of the course, students should be able to:
 
-1. Apply the sociological imagination to relationships between personal experiences and wider social forces.
+1. Explain the sociological imagination and apply it to relationships between personal experiences and wider social forces.
 2. Compare functionalist, conflict, and interactionist explanations of social phenomena.
 3. Identify the strengths, limitations, and ethical concerns of common sociological research methods.
-4. Interpret basic sociological evidence and construct a clear sociological argument.
-5. Communicate sociological knowledge to an audience beyond the classroom.
+4. Use sociological concepts to analyze culture, socialization, groups, organizations, media, deviance, and social institutions.
+5. Explain how social class, race and ethnicity, nationality, and/or other social positions can shape opportunities and experiences.
+6. Distinguish individual-level explanations from structural and institutional explanations.
+7. Interpret basic sociological evidence, including survey findings, tables, graphs, observations, and media examples.
+8. Construct a clear sociological argument supported by concepts and evidence.
+9. Communicate sociological ideas clearly to others.
 
 # Assessment and Grading
 
 | Assessment | Weight |
 |---|---:|
 | Final examination | 50% |
-| Public Sociology Project | 30% |
-| In-class quizzes | 10% |
-| Attendance and participation | 10% |
+| Midterm examination | 25% |
+| In-class quizzes | 15% |
+| Attendance and Participation | 10% |
 | **Total** | **100%** |
 
-The detailed [Public Sociology Project rubric](rubric.qmd) will explain how the project is evaluated.
+The exams make up most of the course grade. The quizzes and activities we complete during the semester are intended to help you practice the same kinds of thinking before those exams.
+
+## Midterm Examination — 25%
+
+The midterm exam will be completed individually in class around Week 9 and will cover material from the first half of the course. It will assess both your knowledge of core concepts and your ability to apply them. Think of it as an assessment and an early check on how well your studying is preparing you for the cumulative final. I will announce the exact date and format in advance through Teams and in class.
+
+## Final Examination — 50%
+
+The final examination is cumulative and will cover the assigned material from across the semester. I will clarify the included chapters and selected sections before the examination so that you know what to prepare.
+
+The confirmed date, time, and room will be announced as soon as the university publishes the schedule.
+
+## In-Class Quizzes — 15%
+
+You will complete several brief, individual quizzes during class. These quizzes are intended to help you keep up with the material and identify what needs more review. I will automatically drop your lowest quiz score. Because this flexibility is built into the quiz grade, I do not offer make-up quizzes.
+
+## Attendance and Participation — 10%
+
+Regular attendance and constructive participation are expected. Participation may include contributing to class activities, responding to questions or polls, completing brief in-class exercises, and engaging respectfully with classmates' ideas. You do not need to speak in literally every class in order to participate well; thoughtful engagement matters more than speaking frequently.
 
 # Course Policies
 
-The final syllabus will include complete policies concerning attendance, late work, respectful discussion, academic integrity, generative AI, privacy, course materials, and syllabus changes.
+## Late Work
 
-# Tentative Schedule
+At present, there are no scheduled take-home assignments. However, if there is a take-home assignment due, I will only accept late submissions in documented cases of illness or emergency or when another arrangement has been approved in advance. A submission accepted *without* a documented excuse will lose 5% for each day it is late. In-class quizzes and participation cannot be made up.
 
-See the live [course schedule](schedule.qmd) for weekly topics, materials, and milestones. The schedule page will be updated throughout the semester.
+If you need greater flexibility, please contact me before the deadline whenever possible. University-approved accommodations and emergencies are handled separately.
+
+## Respectful Discussion and Sensitive Topics
+
+Sociology examines inequality, identity, religion, family, citizenship, crime, power, and other topics on which people may strongly disagree.
+
+Students are expected to:
+
+- Critique ideas and evidence rather than attack people.
+- Avoid slurs, harassment, and demeaning generalizations.
+- Allow others to finish speaking.
+- Respect privacy and avoid pressuring classmates to disclose personal experiences.
+- Avoid treating any classmate as the spokesperson for a social category or group.
+- Generally assume the best of your classmates.
+
+The goal is not forced agreement. The goal is careful, informed, and respectful sociological analysis.
+
+## Academic Integrity
+
+Students must submit their own work, cite sources, and follow Kuwait University rules concerning academic integrity. Plagiarism, unauthorized collaboration, fabricated information, purchased work, impersonation, or assistance prohibited for an assessment may result in consequences under university policy.
+
+Every submitted assignment, quiz, or exam must begin with a signed declaration stating:
+
+::: {.integrity-statement}
+**Academic Integrity Certification**
+
+By submitting this work, I certify that the work I claim as my own is my own. I have not given or received unauthorized assistance, and I have acknowledged all permitted sources, collaborators, and tools.
+:::
+
+When group collaboration is allowed, students remain responsible for verifying every source and claim submitted under their names.
+
+## Generative Artificial Intelligence
+
+If I assign a homework assignment, the policy and declaration below will apply to that submission. The restrictions on AI use during quizzes and exams apply throughout the semester.
+
+Generative AI and large language models are likely to remain part of academic and professional life. This course therefore encourages **transparency** and **honesty** wherever and whenever they are used. The important questions are whether their use follows the assignment instructions and whether it supports—rather than replaces—your own sociological thinking.
+
+Every homework submission must include this declaration, **even when no AI was used:**
+
+::: {.ai-declaration}
+**AI-Use Declaration**
+
+I attest that I **did / did not** use generative AI or a large language model (such as ChatGPT, Claude, Gemini, or another tool) in creating or completing this submission.
+
+If you selected **did**, please complete the following:
+
+**Tool(s) used:**  
+____________________________________________________________________________
+
+**How I used the tool(s):**  
+____________________________________________________________________________  
+____________________________________________________________________________
+
+**Parts of the submission affected:**  
+____________________________________________________________________________
+
+**What I checked, changed, or verified:**  
+____________________________________________________________________________  
+____________________________________________________________________________
+:::
+
+The rules depend on the task.
+
+**Permitted with detailed disclosure**
+
+- Brainstorming possible topics
+- Asking for an explanation about a concept and then verifying it against the textbook or with the professor
+- Receiving feedback on a student-written draft
+- Producing minor technical elements for approved creative work
+- Helping proofread or edit grammar
+
+Complete the AI-use declaration truthfully for every take-home assignment submission. If you used a tool, name it (Claude, ChatGPT, Gemini, DeepSeek, Llama, or another tool), describe how you used it, and explain what you changed or verified. Disclosure is expected and is not, by itself, a reason for a grade penalty. However, the declaration itself does not make prohibited use permissible.
+
+**Not permitted**
+
+- Any use during an examination or another assessment that specifically prohibits AI
+- Asking AI to write or substantially produce an assignment, or a section intended to demonstrate the student's own analysis
+- Submitting AI-generated analysis, prose, citations, data, images, audio, or scripts as though they were entirely the student's work
+- Using AI to invent sources, evidence, interviews, observations, or personal experiences
+
+Because AI systems can be inaccurate and reproduce bias, students are responsible for all submitted content. Assignment-specific instructions take priority over this general AI-use policy.
+
+## Recording, Privacy, and Course Materials
+
+Students may **not** record, photograph, distribute, upload, or sell class discussions, student contributions, slides, assessments, or other course materials without authorization. Approved recordings or accommodations must protect the privacy of other students.
+
+## Changes to the Syllabus
+
+Plans sometimes need to change. I may adjust readings, activities, or dates in response to university announcements, class progress, current events, unexpected closures, or illness. I will announce any changes through Teams.
+
+# Tentative Course Schedule
+
+::: {.callout-important title="Tentative schedule"}
+Dates and topics may change in response to university announcements and our progress in class. Updates will be announced through Microsoft Teams.
+:::
+
+| Week | Dates | Topic focus | Assessment or milestone |
+|---:|---|---|---|
+| **1** | September 14 and 16 | Course orientation, syllabus, and assessment overview | — |
+| **2** | September 21 and 23 | Understanding Sociology | — |
+| **3** | September 28 and 30 | Sociological Research | — |
+| **4** | October 5 and 7 | Culture | — |
+| **5** | October 12 and 14 | Socialization and the Life Course | — |
+| **6** | October 19 and 21 | Social Interaction, Groups, and Social Structure | — |
+| **7** | October 26 and 28 | Mass Media and Social Media | — |
+| **8** | November 2 and 4 | Deviance, Crime, and Social Control | — |
+| **9** | November 9 and 11 | Stratification and Social Mobility; midterm examination during one class meeting | **Midterm examination — 25%** |
+| **10** | November 16 and 18 | Global Inequality | — |
+| **11** | November 23 and 25 | Racial and Ethnic Inequality | — |
+| **12** | November 30 and December 2 | The Family and Household Diversity | — |
+| **13** | December 7 and 9 | Government and the Economy | — |
+| **14** | December 14 and 16 | Health, Population, and the Environment | — |
+| **15** | December 21 | Social Change in the Global Community; brief course synthesis and final-exam guidance | Final-exam preparation |
+| **Final-exam period** | To be announced | Cumulative review of all assigned chapters | **Final examination — 50%** |
+
+# External Resources
+
+The following resources may be incorporated into activities:
+
+::: {.supporting-resources}
+- [Kuwait Central Statistical Bureau](https://www.csb.gov.kw/Default_EN)
+- [Kuwait Census 2021](https://census.csb.gov.kw/index_EN)
+- [Kuwait Labor Market Information System](https://lmis.csb.gov.kw/default_En)
+- [Gapminder](https://www.gapminder.org/)
+- [Gapminder Dollar Street](https://www.gapminder.org/dollar-street)
+- [Parable of the Polygons](https://ncase.me/polygons/)
+- [Our World in Data](https://ourworldindata.org/)
+:::
+
+:::

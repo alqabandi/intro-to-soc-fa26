@@ -173,7 +173,7 @@ a {
 
 .quick-link-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
   gap: 1.25rem;
   margin: 1.25rem 0 2.5rem;
 }
@@ -260,6 +260,215 @@ a {
   margin: 1rem 0 2rem;
 }
 
+.syllabus-document {
+  background:
+    radial-gradient(circle at 7% 7%, rgba($cyan, .12), transparent 22rem),
+    radial-gradient(circle at 93% 18%, rgba($lime, .14), transparent 25rem),
+    $white;
+}
+
+.syllabus-document #title-block-header {
+  position: relative;
+  overflow: hidden;
+  padding: clamp(1.75rem, 5vw, 4rem);
+  margin: 1.5rem 4px clamp(2rem, 4vw, 3.25rem) 0;
+  color: $black;
+  background:
+    radial-gradient(circle at 10% 10%, rgba($white, .48), transparent 15rem),
+    $lime;
+  border: 2px solid $black;
+  border-radius: $border-radius-lg;
+  box-shadow: 7px 7px 0 $black;
+}
+
+.syllabus-document #title-block-header::after {
+  position: absolute;
+  right: -4rem;
+  bottom: -7rem;
+  width: 17rem;
+  height: 17rem;
+  background: $cyan;
+  border: 2px solid $black;
+  border-radius: 50%;
+  content: "";
+  opacity: .8;
+}
+
+.syllabus-document #title-block-header .quarto-title,
+.syllabus-document #title-block-header .quarto-title-meta {
+  position: relative;
+  z-index: 1;
+}
+
+.syllabus-document #title-block-header .title {
+  max-width: 18ch;
+  margin: 0;
+  color: $black;
+  font-size: clamp(2.2rem, 6vw, 4.6rem);
+  font-weight: 700;
+  line-height: 1.08;
+}
+
+.syllabus-document #title-block-header .subtitle {
+  max-width: 52rem;
+  margin: .9rem 0 0;
+  color: $black;
+  font-size: clamp(1rem, 2vw, 1.35rem);
+  font-weight: 600;
+}
+
+.syllabus-document #title-block-header .quarto-title-meta {
+  display: inline-grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem 1.5rem;
+  min-width: min(100%, 30rem);
+  padding: .75rem 1rem;
+  margin-top: clamp(1.5rem, 3vw, 2.5rem);
+  background: $white;
+  border: 2px solid $black;
+  border-radius: $border-radius;
+}
+
+.syllabus-document #title-block-header .quarto-title-meta-heading {
+  color: $black;
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.syllabus-document #title-block-header .quarto-title-meta-contents,
+.syllabus-document #title-block-header .quarto-title-meta-contents p {
+  margin: 0;
+  color: $black;
+  font-weight: 600;
+}
+
+.syllabus-actions {
+  margin: 0 3px 2rem 0;
+  font-size: .9rem;
+}
+
+.syllabus-actions p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .65rem;
+  margin: 0;
+}
+
+.syllabus-actions a {
+  display: inline-block;
+  padding: .45rem .8rem;
+  color: $black;
+  background: $white;
+  border: 2px solid $black;
+  border-radius: $border-radius;
+  box-shadow: 3px 3px 0 $black;
+  font-weight: 700;
+  text-decoration: none;
+  transition: box-shadow .18s ease, transform .18s ease;
+}
+
+.syllabus-actions a:hover,
+.syllabus-actions a:focus {
+  color: $black;
+  box-shadow: none;
+  transform: translate(3px, 3px);
+}
+
+.syllabus-page > section.level1 {
+  padding: clamp(1.15rem, 2.5vw, 2rem);
+  margin: 0 0 1.5rem;
+  background: $white;
+  border: 2px solid $black;
+  border-radius: $border-radius-lg;
+  box-shadow: 5px 5px 0 0 $black;
+}
+
+.syllabus-page > section.level1:nth-of-type(3n + 1) {
+  border-top: .65rem solid $lime;
+}
+
+.syllabus-page > section.level1:nth-of-type(3n + 2) {
+  border-top: .65rem solid $cyan;
+}
+
+.syllabus-page > section.level1:nth-of-type(3n) {
+  border-top: .65rem solid $yellow;
+}
+
+.syllabus-page > section.level1 > h1 {
+  margin-top: 0;
+  padding-bottom: .65rem;
+  border-bottom: 2px solid $black;
+}
+
+.syllabus-page h2 {
+  margin-top: 1.75rem;
+  font-size: 1.3rem;
+}
+
+.syllabus-facts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .8rem;
+  margin-bottom: 1.5rem;
+}
+
+.syllabus-fact {
+  padding: .9rem 1rem;
+  background: $gray-100;
+  border: 2px solid $black;
+  border-radius: $border-radius;
+}
+
+.syllabus-fact strong {
+  display: block;
+  margin-bottom: .2rem;
+}
+
+.textbook-card,
+.integrity-statement,
+.ai-declaration {
+  padding: 1rem 1.15rem;
+  margin: 1rem 0 1.25rem;
+  border: 2px solid $black;
+  border-radius: $border-radius;
+}
+
+.textbook-card {
+  background: #fff4cc;
+}
+
+.integrity-statement {
+  background: #d3f6fb;
+}
+
+.ai-declaration {
+  background: $gray-100;
+  border-left: .6rem solid $purple;
+}
+
+.supporting-resources ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .65rem 1.25rem;
+  padding-left: 1.25rem;
+}
+
+.syllabus-page table {
+  width: 100%;
+  font-size: .94rem;
+}
+
+.syllabus-page tbody tr:nth-child(even) {
+  background: $gray-100;
+}
+
+.syllabus-page tbody tr:hover {
+  background: #effbdd;
+}
+
 .rubric-preview th:first-child {
   min-width: 13rem;
 }
@@ -274,11 +483,40 @@ a {
 
 @media (max-width: 760px) {
   .quick-link-grid,
-  .course-facts {
+  .course-facts,
+  .syllabus-facts,
+  .supporting-resources ul {
     grid-template-columns: 1fr;
   }
 
   .hero {
     box-shadow: 4px 4px 0 0 $black;
+  }
+
+  .syllabus-actions {
+    margin-bottom: 1.5rem;
+  }
+
+  .syllabus-actions a {
+    width: 100%;
+    text-align: center;
+  }
+
+  .syllabus-document #title-block-header {
+    padding: 1.5rem;
+    box-shadow: 4px 4px 0 $black;
+  }
+
+  .syllabus-document #title-block-header::after {
+    opacity: .35;
+  }
+
+  .syllabus-document #title-block-header .quarto-title-meta {
+    grid-template-columns: 1fr;
+  }
+
+  .syllabus-page > section.level1 {
+    padding: 1rem;
+    box-shadow: 3px 3px 0 0 $black;
   }
 }
