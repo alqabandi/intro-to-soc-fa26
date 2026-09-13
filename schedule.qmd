@@ -31,7 +31,7 @@ To add a course file later, replace a coming-soon label with a Markdown link:
 | **13** | Dec. 7 & 9 | Government and the Economy | [Slides coming soon]{.status-coming-soon} | — |
 | **14** | Dec. 14 & 16 | Health, Population, and the Environment | [Slides coming soon]{.status-coming-soon} | — |
 | **15** | Dec. 21 | Social Change in the Global Community; synthesis and final-exam guidance | [Slides coming soon]{.status-coming-soon} | Final-exam preparation |
-| **Final-exam period** | To be announced | Cumulative review of all assigned chapters | [Details coming soon]{.status-coming-soon} | **Final examination — 50%** |
+| **Final examination** | Dec. 23, 3:00–5:00 p.m. | Cumulative examination covering all assigned chapters | [Details coming soon]{.status-coming-soon} | **Final examination — 50% (both sections)** |
 
 ## How materials will appear
 
