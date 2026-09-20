@@ -10,14 +10,15 @@ Dates and topics may change in response to university announcements and our prog
 
 <!--
 To add a course file later, replace a coming-soon label with a Markdown link:
-[Slides](slides/ch01-understanding-sociology.pdf)
+[HTML slides](slides/ch01-understanding-sociology.html){.material-link}
+[PDF slides](slides/ch01-understanding-sociology.pdf){.material-link}
 [Activity](resources/week-01-activity.pdf)
 -->
 
 | Week | Dates | Topic | Materials | Assessment or milestone |
 |---:|---|---|---|---|
-| **1** | Sept. 14 & 16 | Course orientation, syllabus, and assessment overview | [Slides coming soon]{.status-coming-soon} | — |
-| **2** | Sept. 21 & 23 | Understanding Sociology | [Slides coming soon]{.status-coming-soon} | — |
+| **1** | Sept. 14 & 16 | Course orientation, syllabus, and assessment overview | [HTML](syllabus.html){.material-link} [PDF](downloads/introduction-to-sociology-syllabus-fall-2026.pdf){.material-link} | — |
+| **2** | Sept. 21 & 23 | Understanding Sociology | [HTML](slides/ch01-understanding-sociology.html){.material-link} [PDF](slides/ch01-understanding-sociology.pdf){.material-link} | — |
 | **3** | Sept. 28 & 30 | Sociological Research | [Slides coming soon]{.status-coming-soon} | — |
 | **4** | Oct. 5 & 7 | Culture | [Slides coming soon]{.status-coming-soon} | — |
 | **5** | Oct. 12 & 14 | Socialization and the Life Course | [Slides coming soon]{.status-coming-soon} | — |

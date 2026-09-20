@@ -2,10 +2,13 @@ project:
   type: website
   output-dir: _site
   render:
-    - "*.qmd"
-    - "!rubric.qmd"
+    - index.qmd
+    - schedule.qmd
+    - syllabus.qmd
   resources:
     - downloads/**
+    - slides/ch01-understanding-sociology.html
+    - slides/ch01-understanding-sociology.pdf
 
 website:
   title: "Introduction to Sociology"

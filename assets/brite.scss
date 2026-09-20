@@ -265,6 +265,27 @@ a {
   font-weight: 700;
 }
 
+.material-link {
+  display: inline-block;
+  padding: .18rem .6rem;
+  margin: .1rem .15rem .1rem 0;
+  white-space: nowrap;
+  color: $black;
+  background: $primary;
+  border: 1px solid $black;
+  border-radius: 999px;
+  font-size: .82rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.material-link:hover,
+.material-link:focus {
+  color: $black;
+  background: $yellow;
+  text-decoration: none;
+}
+
 .document-actions {
   display: flex;
   flex-wrap: wrap;

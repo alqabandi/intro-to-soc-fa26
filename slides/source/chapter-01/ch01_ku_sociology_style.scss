@@ -1,0 +1,255 @@
+/*-- scss:defaults --*/
+
+// Intro to Sociology · Kuwait University · English reveal.js theme
+$ku-navy: #1B2A4A;
+$ku-gold: #A47712;
+$ku-teal: #147D79;
+$ku-coral: #C65D4B;
+$ku-ink: #25313D;
+$ku-muted: #6F7985;
+$ku-paper: #FCFCFA;
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap");
+
+$font-family-sans-serif: "Noto Sans", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$presentation-font-size-root: 36px;
+$body-bg: $ku-paper;
+$body-color: $ku-ink;
+$link-color: $ku-gold;
+$presentation-heading-font: "Poppins", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$presentation-heading-color: $ku-navy;
+$presentation-heading-font-weight: 600;
+$presentation-h2-font-size: 1.25em;
+
+/*-- scss:rules --*/
+
+.reveal .slide h2 {
+  margin-bottom: 0.55em;
+  padding-bottom: 0.22em;
+  border-bottom: 4px solid $ku-gold;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+}
+
+.reveal .slide h3 {
+  color: $ku-teal;
+  font-size: 0.8em;
+  margin-bottom: 0.35em;
+}
+
+.reveal .slide p,
+.reveal .slide li {
+  line-height: 1.48;
+}
+
+.reveal .slide li {
+  margin-bottom: 0.32em;
+}
+
+.reveal .slide ul ul li {
+  font-size: 0.85em;
+  margin-top: 0.28em;
+}
+
+.reveal .slide strong {
+  color: $ku-gold;
+  font-weight: 700;
+}
+
+.reveal .slide em {
+  color: $ku-teal;
+}
+
+.reveal .columns {
+  gap: 1.2em;
+}
+
+.reveal .board,
+.reveal .concept-card,
+.reveal .question-box,
+.reveal .example-box,
+.reveal .takeaway {
+  border-radius: 14px;
+  padding: 0.65em 0.85em;
+  margin: 0.45em 0;
+}
+
+.reveal .board {
+  background: #EEF2F7;
+  border: 2px dashed $ku-navy;
+  color: $ku-navy;
+  font-family: "Poppins", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+
+.reveal .concept-card {
+  background: #FFFFFF;
+  border-top: 6px solid $ku-teal;
+  box-shadow: 0 4px 18px rgba(27, 42, 74, 0.10);
+}
+
+.reveal .question-box {
+  background: #FFF7E3;
+  border-left: 7px solid $ku-gold;
+}
+
+.reveal .example-box {
+  background: #EAF6F5;
+  border-left: 7px solid $ku-teal;
+}
+
+.reveal .takeaway {
+  background: $ku-navy;
+  color: #FFFFFF;
+  text-align: center;
+  font-weight: 600;
+}
+
+.reveal .takeaway strong {
+  color: #F2D77E;
+}
+
+.reveal .takeaway em {
+  color: #9FD8D5;
+}
+
+.reveal .small {
+  font-size: 0.72em;
+  color: $ku-muted;
+}
+
+
+// Credits and captions on the dark level-1 section dividers need to lift
+// off the navy background.
+.reveal .slide.level1 .small {
+  color: #A9B6C9;
+}
+
+.reveal .large {
+  font-size: 1.18em;
+}
+
+.reveal .center {
+  text-align: center;
+}
+
+.reveal .term-ar {
+  direction: rtl;
+  unicode-bidi: isolate;
+  display: inline-block;
+  font-family: "Noto Kufi Arabic", "Geeza Pro", Arial, sans-serif;
+  font-size: 0.85em;
+  color: $ku-teal;
+}
+
+.reveal .arrow-flow {
+  text-align: center;
+  font-family: "Poppins", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.05em;
+  color: $ku-navy;
+  padding: 0.5em;
+}
+
+.reveal .fragment.highlight-current-gold.current-fragment {
+  color: $ku-gold;
+  font-weight: 700;
+}
+
+.reveal .slide table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.reveal .slide table th {
+  background-color: $ku-navy;
+  color: #FFFFFF;
+  font-weight: 600;
+  padding: 0.35em 0.62em;
+  border: none;
+}
+
+.reveal .slide table td {
+  padding: 0.3em 0.62em;
+  border: none;
+  border-bottom: 1px solid #E3E6EB;
+}
+
+.reveal .slide table tr:nth-child(even) td {
+  background-color: #F5F7FA;
+}
+
+.reveal .slide.compact-table table {
+  font-size: 0.82em;
+}
+
+.reveal .slide.compact-table table th,
+.reveal .slide.compact-table table td {
+  padding: 0.22em 0.42em;
+  line-height: 1.3;
+}
+
+.reveal .smaller {
+  font-size: 0.66em;
+}
+
+#title-slide {
+  text-align: center;
+}
+
+#title-slide .title {
+  color: #FFFFFF;
+  font-size: 1.75em;
+  line-height: 1.4;
+}
+
+#title-slide .subtitle {
+  color: #F2D77E;
+  font-weight: 500;
+  margin-top: 0.7em;
+}
+
+#title-slide .quarto-title-author-name,
+#title-slide .quarto-title-authors,
+#title-slide .date {
+  color: #D4DBE8;
+  font-size: 0.7em;
+  font-weight: 400;
+}
+
+.reveal .footer {
+  color: $ku-muted;
+  font-size: 0.4em;
+}
+
+.reveal .slide-number {
+  color: $ku-muted;
+  background: transparent;
+  font-size: 0.5em;
+}
+
+.reveal .slide {
+  overflow: hidden;
+}
+
+.reveal .slide img {
+  box-shadow: 0 2px 14px rgba(27, 42, 74, 0.12);
+  border-radius: 4px;
+  max-height: 540px !important;
+  width: auto !important;
+}
+
+@media print {
+  .reveal .slide {
+    overflow: hidden;
+  }
+}
+
+.reveal .fragment.collapse-after {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+.reveal .fragment.collapse-after.visible {
+  display: none;
+}

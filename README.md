@@ -27,6 +27,29 @@ quarto preview
 
 Quarto will open a local preview and refresh it when a source file changes.
 
+## Render Chapter 01 materials
+
+The Chapter 01 sources are split by audience:
+
+- `slides/source/chapter-01/` and `assets/chapter_01_assets/` contain the student-facing deck source.
+- `instructor/chapter-01/` contains the private notes and quiz sources. The entire `instructor/` folder is gitignored and must never be committed.
+
+Render the student deck, private notes, and private quiz from the repository root:
+
+```sh
+./scripts/render-chapter-01-materials.sh
+```
+
+The script uses Quarto to create the HTML files and Chrome's RevealJS print mode to create the deck PDF. It produces:
+
+- `slides/ch01-understanding-sociology.html`
+- `slides/ch01-understanding-sociology.pdf`
+- `instructor/chapter-01/rendered/ch01_understanding_sociology_notes.html`
+- `instructor/chapter-01/rendered/ch01_understanding_sociology_notes.pdf`
+- `instructor/chapter-01/rendered/ch01-understanding-sociology-quiz.pdf`
+
+Visually inspect the student HTML and PDF before publishing them. Set `CHROME_BIN` if Chrome or Chromium is not in a standard location.
+
 ## Add slides to the schedule
 
 1. Export the finished slides as a PDF.
@@ -69,6 +92,15 @@ Links can also point to public webpages:
 ```markdown
 [Slides](slides/ch01-understanding-sociology.pdf) · [Reading](https://example.com/reading)
 ```
+
+## Release a graded quiz
+
+Quiz sources and current quiz PDFs stay under the gitignored `instructor/` folder while the quiz is active. Only after the quiz has been graded and returned:
+
+1. Copy the final PDF into `resources/` using a lowercase filename without spaces.
+2. Add that exact file path to `project.resources` in `_quarto.yml`.
+3. Add a link in the relevant `schedule.qmd` Materials cell.
+4. Render the website and verify that only the released PDF—not its source or the instructor notes—appears in `_site/`.
 
 ## Refresh the downloadable syllabus PDF
 
