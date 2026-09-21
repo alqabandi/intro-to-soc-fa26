@@ -7,6 +7,9 @@ slides_source_dir="$repo_root/slides/source/chapter-01"
 slides_source="$slides_source_dir/ch01_understanding_sociology.qmd"
 slides_html="$repo_root/slides/ch01-understanding-sociology.html"
 slides_pdf="$repo_root/slides/ch01-understanding-sociology.pdf"
+partial_slides_source="$slides_source_dir/ch01_understanding_sociology_part_1.qmd"
+partial_slides_html="$repo_root/slides/ch01-understanding-sociology-part-1.html"
+partial_slides_pdf="$repo_root/slides/ch01-understanding-sociology-part-1.pdf"
 instructor_dir="$repo_root/instructor/chapter-01"
 instructor_output_dir="$instructor_dir/rendered"
 notes_source="$instructor_dir/ch01_understanding_sociology_notes.qmd"
@@ -28,7 +31,7 @@ else
   exit 1
 fi
 
-for source in "$slides_source" "$notes_source" "$quiz_source"; do
+for source in "$slides_source" "$partial_slides_source" "$notes_source" "$quiz_source"; do
   if [[ ! -f "$source" ]]; then
     echo "Missing source file: $source" >&2
     exit 1
@@ -44,7 +47,7 @@ mkdir -p \
   "$render_root/assets" \
   "$render_root/instructor/chapter-01"
 
-cp "$slides_source" "$slides_source_dir/ch01_ku_sociology_style.scss" "$render_root/slides/source/chapter-01/"
+cp "$slides_source" "$partial_slides_source" "$slides_source_dir/ch01_ku_sociology_style.scss" "$render_root/slides/source/chapter-01/"
 cp -R "$repo_root/assets/chapter_01_assets" "$render_root/assets/"
 cp "$notes_source" "$instructor_dir/ch01_notes_print.css" "$render_root/instructor/chapter-01/"
 cp "$quiz_source" "$render_root/instructor/chapter-01/"
@@ -56,6 +59,9 @@ print_to_pdf() {
   local chrome_profile
   local chrome_pid
   local chrome_status=0
+  local current_size=0
+  local previous_size=0
+  local stable_checks=0
 
   if [[ ! -s "$html_path" ]]; then
     echo "Missing HTML input: $html_path" >&2
@@ -84,17 +90,26 @@ print_to_pdf() {
     >"$render_root/chrome.log" 2>&1 &
   chrome_pid=$!
 
-  for _ in {1..30}; do
+  for _ in {1..60}; do
     if ! kill -0 "$chrome_pid" 2>/dev/null; then
       wait "$chrome_pid" || chrome_status=$?
       break
     fi
     if [[ -s "$pdf_path" ]]; then
-      sleep 2
-      kill "$chrome_pid" 2>/dev/null || true
-      wait "$chrome_pid" 2>/dev/null || true
-      chrome_status=0
-      break
+      current_size="$(wc -c < "$pdf_path")"
+      if [[ "$current_size" -gt 10000 && "$current_size" -eq "$previous_size" ]]; then
+        stable_checks=$((stable_checks + 1))
+      else
+        stable_checks=0
+      fi
+      previous_size="$current_size"
+
+      if [[ "$stable_checks" -ge 2 ]]; then
+        kill "$chrome_pid" 2>/dev/null || true
+        wait "$chrome_pid" 2>/dev/null || true
+        chrome_status=0
+        break
+      fi
     fi
     sleep 1
   done
@@ -120,6 +135,13 @@ cp "$render_root/slides/source/chapter-01/ch01-understanding-sociology.html" "$s
 print_to_pdf "$slides_html" "$slides_pdf" "file://$slides_html?print-pdf"
 
 (
+  cd "$render_root/slides/source/chapter-01"
+  quarto render ch01_understanding_sociology_part_1.qmd --to revealjs
+)
+cp "$render_root/slides/source/chapter-01/ch01-understanding-sociology-part-1.html" "$partial_slides_html"
+print_to_pdf "$partial_slides_html" "$partial_slides_pdf" "file://$partial_slides_html?print-pdf"
+
+(
   cd "$render_root/instructor/chapter-01"
   quarto render ch01_understanding_sociology_notes.qmd --to html
 )
@@ -132,7 +154,7 @@ print_to_pdf "$notes_html" "$notes_pdf" "file://$notes_html"
 )
 cp "$render_root/instructor/chapter-01/ch01-understanding-sociology-quiz.pdf" "$quiz_pdf"
 
-for output in "$slides_html" "$slides_pdf" "$notes_html" "$notes_pdf" "$quiz_pdf"; do
+for output in "$slides_html" "$slides_pdf" "$partial_slides_html" "$partial_slides_pdf" "$notes_html" "$notes_pdf" "$quiz_pdf"; do
   if [[ ! -s "$output" ]]; then
     echo "Expected output was not created: $output" >&2
     exit 1
@@ -141,6 +163,8 @@ done
 
 echo "Created student deck HTML: $slides_html"
 echo "Created student deck PDF:  $slides_pdf"
+echo "Created partial deck HTML: $partial_slides_html"
+echo "Created partial deck PDF:  $partial_slides_pdf"
 echo "Created private notes HTML: $notes_html"
 echo "Created private notes PDF:  $notes_pdf"
 echo "Created private quiz PDF:   $quiz_pdf"

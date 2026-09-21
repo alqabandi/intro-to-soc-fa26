@@ -7,8 +7,8 @@ project:
     - syllabus.qmd
   resources:
     - downloads/**
-    - slides/ch01-understanding-sociology.html
-    - slides/ch01-understanding-sociology.pdf
+    - slides/ch01-understanding-sociology-part-1.html
+    - slides/ch01-understanding-sociology-part-1.pdf
 
 website:
   title: "Introduction to Sociology"
