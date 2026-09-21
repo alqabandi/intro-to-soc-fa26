@@ -1110,11 +1110,13 @@ The purpose of the work—not the topic alone—determines the category.
 - **Business:** How do organizations, status, and social networks shape teamwork and consumer choices?
 - **Computer science:** How does platform design change interaction, and what social context is missing from behavioral data?
 
+<!-- TEMPORARILY HIDDEN UNTIL NEXT LECTURE
 ## Quiz
 
 ::: {.board}
 Short quiz covering what we discussed today. Low pressure!
 :::
+-->
 
 <!-- - Short scenarios: university life, sports, family, the café -->
 <!-- - For each, answer with the **perspective** and the **clue** that gave it away -->
