@@ -37,7 +37,7 @@ css: assets/syllabus-print.css
 
 **Instructor:** Dr. Fatima Alqabandi  
 **Office:** Shuwaikh Campus, Building 5, second floor, Office S-10 48  
-**Office hours:** Tuesdays, 12:00–1:00 p.m., or by appointment  
+**Office hours:** Mondays, 3:15-4:15 p.m., or by appointment  
 **Email:** [fatemah.alqabandi@ku.edu.kw](mailto:fatemah.alqabandi@ku.edu.kw)  
 **Expected response time:** Within two working days, excluding weekends and university holidays
 
