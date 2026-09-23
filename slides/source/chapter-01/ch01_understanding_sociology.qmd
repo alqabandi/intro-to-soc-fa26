@@ -1062,9 +1062,11 @@ No single perspective answers every sociological question.
 
 Analyze the same **diwaniya** three ways:
 
+:::{.fragment}
 - **Functionalist:** What does this gathering do for its members and for the wider community?
 - **Conflict:** How are status, influence, and access distributed?
 - **Interactionist:** What shared meanings and unwritten rules organize greetings, seating, conversation, and serving?
+:::
 
 ::: {.small}
 Optional alternative: apply the same questions to a traditional Kuwaiti wedding.
