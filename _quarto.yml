@@ -9,6 +9,8 @@ project:
     - downloads/**
     - slides/ch01-understanding-sociology.html
     - slides/ch01-understanding-sociology.pdf
+    - slides/ch02-sociological-research.html
+    - slides/ch02-sociological-research.pdf
 
 website:
   title: "Introduction to Sociology"
