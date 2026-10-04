@@ -58,7 +58,7 @@ Studying culture in places like Fiji sheds light on our own society as well.
 - **Culture** — the totality of learned, socially transmitted customs, knowledge, material objects, and behavior
 - It includes the ideas, values, and artifacts of groups of people
 - Not only the fine arts: a Rembrandt portrait **and** graffiti, slang words, ice-cream cones, and rock music are all culture
-- A tribe that cultivates soil by hand has as much culture as a people that relies on computer-operated machinery
+<!-- - A tribe that cultivates soil by hand has as much culture as a people that relies on computer-operated machinery -->
 
 <!-- ## Kuwaiti Culture Is Visible in Ordinary Life
 
@@ -81,9 +81,9 @@ Which of these would be immediately meaningful to someone raised in Kuwait—and
 - Without social transmission, each generation would have to reinvent communication, "not to mention the wheel"
 - You assume theaters will have seats, physicians will keep your information confidential, and a red light means you should stop.
 
-::: {.question-box}
-What do you assume, without thinking, in your day to day life?
-:::
+<!-- ::: {.question-box} -->
+<!-- What do you assume, without thinking, in your day to day life? -->
+<!-- ::: -->
 
 <!-- ## Adorno's Culture Industry Standardizes What Consumers Want
 
@@ -121,9 +121,9 @@ Our view of the world is dramatically influenced by the society in which we were
 - It employs the **value neutrality** Max Weber saw as essential to scientific study
 - It does **not** require accepting every cultural variation; it requires a serious and unbiased effort to evaluate norms, values, and customs in their own context
 
-::: {.small}
-Schaefer's examples: polygamy, bullfighting, and monarchy must each be examined within the culture where it is found.
-:::
+<!-- ::: {.small} -->
+<!-- Schaefer's examples: polygamy, bullfighting, and monarchy must each be examined within the culture where it is found. -->
+<!-- ::: -->
 
 <!-- ## Child Marriage Tests the Limits of Cultural Relativism
 
@@ -217,7 +217,7 @@ Language does more than describe reality. It also shapes what a culture notices,
 :::
 
 ::: {.question-box}
-Guess the source language of each word. What history would you expect ordinary speech to preserve?
+Guess the source language of each word.
 :::
 
 ## Kuwaiti Arabic Records Trade, Migration, and New Technology
@@ -517,7 +517,7 @@ Values are the shared ideas of what is good and desirable that norms and sanctio
 - In Japan, young children spend long hours with private tutors preparing for selective-school entrance exams; the services carry no stigma and are highly valued
 - In South Korea, people complain that "cram schools" give affluent students an unfair advantage; since **2008** the government has limited their hours and imposed fees
 - Some say the policy lowered expectations and tried to make South Koreans "more American" (Mani 2018; Ramstad 2011; Ripley 2011)
-- Figure 3-3: public support for government efforts to reduce income inequality varies dramatically from one country to another
+<!-- - Figure 3-3: public support for government efforts to reduce income inequality varies dramatically from one country to another -->
 
 # Culture Wars and Shared Values {background-color="#1B2A4A"}
 
@@ -536,15 +536,15 @@ Culture wars turn disagreements over symbols, identity, and everyday rules into 
 Who benefits when a disagreement is described as a "war" rather than a debate?
 :::
 
-## The Parthenon Sculptures Carry Competing Cultural Claims
+<!-- ## The Parthenon Sculptures Carry Competing Cultural Claims -->
 
-- Greece seeks to reunite the sculptures in Athens, arguing that they belong with the monument and are inseparable from Greek cultural heritage
-- The British Museum emphasizes legal title, public access, and the value of displaying them within a collection that connects world cultures
-- The disagreement is about stone objects, but also **identity, history, ownership, access, and who has authority to tell the story**
+<!-- - Greece seeks to reunite the sculptures in Athens, arguing that they belong with the monument and are inseparable from Greek cultural heritage -->
+<!-- - The British Museum emphasizes legal title, public access, and the value of displaying them within a collection that connects world cultures -->
+<!-- - The disagreement is about stone objects, but also **identity, history, ownership, access, and who has authority to tell the story** -->
 
-::: {.question-box}
-Which value should carry the most weight: legal ownership, original context, global access, or repair of a historical wrong?
-:::
+<!-- ::: {.question-box} -->
+<!-- Which value should carry the most weight: legal ownership, original context, global access, or repair of a historical wrong? -->
+<!-- ::: -->
 
 
 
@@ -747,20 +747,20 @@ U.S. 1960s · British punk · Soviet stilyagi
 - The visitor's habits may shock the host as much as the host's shock the visitor
 - Customs that seem strange to us may be normal and proper elsewhere, and ours may look odd from there
 
-## Walk Through a Two-Way Case of Culture Shock
+<!-- ## Walk Through a Two-Way Case of Culture Shock -->
 
-::: {.board}
-A new colleague in Kuwait accepts a gift immediately, keeps accepting coffee, and sits with one foot pointed toward the host.
-:::
+<!-- ::: {.board} -->
+<!-- A new colleague in Kuwait accepts a gift immediately, keeps accepting coffee, and sits with one foot pointed toward the host. -->
+<!-- ::: -->
 
-1. The colleague reads the words literally: an offer means "please take it."
-2. The host reads a social sequence: modest refusal → insistence → gracious acceptance.
-3. The colleague does not know the cup-shaking or seating codes; the host sees meaningful gestures.
-4. Both can misread the other as rude until someone explains the rules.
+<!-- 1. The colleague reads the words literally: an offer means "please take it." -->
+<!-- 2. The host reads a social sequence: modest refusal → insistence → gracious acceptance. -->
+<!-- 3. The colleague does not know the cup-shaking or seating codes; the host sees meaningful gestures. -->
+<!-- 4. Both can misread the other as rude until someone explains the rules. -->
 
-::: {.takeaway}
-Culture shock is often a collision between two reasonable expectations, not a clash between polite and impolite people.
-:::
+<!-- ::: {.takeaway} -->
+<!-- Culture shock is often a collision between two reasonable expectations, not a clash between polite and impolite people. -->
+<!-- ::: -->
 
 # Development of Culture around the World {background-color="#1B2A4A"}
 
@@ -770,7 +770,7 @@ Innovation creates new culture; diffusion carries it across borders; technology 
 
 ## Powerful Forces Link Us to Cultures Elsewhere
 
-- Despite our preference for our own way of life, students may study Leo Tolstoy's novels, Pablo Picasso's art, or Bong Joon-ho's films
+- Despite our preference for our own way of life, students may study Leo Tolstoy's novels, Pablo Picasso's art, or Nancy Meyer's films
 - They may watch Korean dramas, Turkish series, Indian films, or follow social movements abroad through satellite TV and social media
 - Two social processes make these links possible: **innovation** and **diffusion**
 
@@ -816,9 +816,9 @@ What in Kuwait arrived through diffusion—and how did people here change it? Re
 - How would you feel if the customs you grew up with were replaced by another country's culture or values?
 - How might you try to protect your culture?
 
-::: {.small}
-Schaefer's Box 3-4 discussion questions. Think about The Avenues, your phone, your playlist, and your grandparents' Kuwait.
-:::
+<!-- ::: {.small} -->
+<!-- Schaefer's Box 3-4 discussion questions. Think about The Avenues, your phone, your playlist, and your grandparents' Kuwait. -->
+<!-- ::: -->
 
 ## Ritzer's McDonaldization of Society
 
@@ -879,9 +879,9 @@ A Malayalam-speaking creator documents daily life in Kuwait for thousands of vie
 - People in the same city can therefore inhabit different media worlds and know different versions of life around them
 - Translation can cross a language boundary—but first the content has to reach someone who wants to translate it
 
-::: {.question-box}
-What parts of life in Kuwait may be happening online in languages your feed rarely shows you?
-:::
+<!-- ::: {.question-box} -->
+<!-- What parts of life in Kuwait may be happening online in languages your feed rarely shows you? -->
+<!-- ::: -->
 
 ## Ogburn: Material and Nonmaterial Culture
 
@@ -932,7 +932,7 @@ Language policy reveals what a society values and whose culture it treats as leg
 - **Foreigner-directed Arabic**, also called Arabic Foreigner Talk (AFT), is when an Arabic speaker adjusts or simplifies how they speak for someone they think has limited Arabic
 - **Gulf Pidgin Arabic (GPA)** developed when people with different first languages repeatedly needed a shared way to communicate in Gulf workplaces and households
 - The difference: AFT is one speaker adjusting their Arabic in a conversation; GPA is a shared way of speaking that grows through repeated contact across a community (Dashti 2013; Salem 2013; Avram 2014)
-- Calling either one merely "broken Arabic" hides the adaptive work speakers do to communicate—and the unequal relationships in which communication occurs
+- Calling either one merely "broken Arabic" hides the adaptive work speakers do to communicate
 
 
 ## Three Perspectives Ask Different Questions About Multilingualism
@@ -963,11 +963,11 @@ Where in Kuwait do you hear people change their Arabic because of who is listeni
 During the pandemic, hospitals and testing centers had unmet needs for translation at the point of care; communities with limited English suffered more (Goldberg 2020).
 ::: -->
 
-## Take the Issue with You: Language in Your Own Classroom
+<!-- ## Take the Issue with You: Language in Your Own Classroom -->
 
-- Have you studied alongside students for whom the language of instruction is a second language? Could you identify different cultures or subcultures?
-- How is a common classroom language **functional**? How would **conflict** and **interactionist** theorists analyze the same rule?
-- When does switching between Kuwaiti Arabic, formal Arabic, and English make communication easier? When can it signal status or exclusion?
+<!-- - Have you studied alongside students for whom the language of instruction is a second language? Could you identify different cultures or subcultures? -->
+<!-- - How is a common classroom language **functional**? How would **conflict** and **interactionist** theorists analyze the same rule? -->
+<!-- - When does switching between Kuwaiti Arabic, formal Arabic, and English make communication easier? When can it signal status or exclusion? -->
 
 <!-- ::: {.small} -->
 <!-- The Kuwait prompt is an open question for discussion. No one is required to share a personal language history. -->
@@ -979,12 +979,12 @@ During the pandemic, hospitals and testing centers had unmet needs for translati
 The immigrant's experience, Schaefer writes, is about learning a whole new culture. So is the sociologist's.
 :::
 
-## Sociology in Your Major
+<!-- ## Sociology in Your Major -->
 
-- **Medicine:** interpreting errors caused clinically significant mistakes in 22 percent of ER cases; the Navajo phrase for cancer shaped how patients heard a diagnosis
-- **Engineering:** culture lag is a design constraint; every technology ships into a culture whose norms are not ready for it
-- **Business:** McDonald's localized menus show cultural relativism as a market skill, and ethnocentric marketing as a cost
-- **Computer science:** moderation produces algospeak; recommendation systems shape visibility; every online community develops an argot; lingua franca of programming is English
+<!-- - **Medicine:** interpreting errors caused clinically significant mistakes in 22 percent of ER cases; the Navajo phrase for cancer shaped how patients heard a diagnosis -->
+<!-- - **Engineering:** culture lag is a design constraint; every technology ships into a culture whose norms are not ready for it -->
+<!-- - **Business:** McDonald's localized menus show cultural relativism as a market skill, and ethnocentric marketing as a cost -->
+<!-- - **Computer science:** moderation produces algospeak; recommendation systems shape visibility; every online community develops an argot; lingua franca of programming is English -->
 
 <!-- ## Write Miner's Report About Everyday Life Here -->
 
