@@ -570,10 +570,20 @@ Functionalists and conflict theorists agree that culture and society support eac
 
 ## Functionalists: Shared Values and Norms Provide Stability
 
+::::: {.columns}
+:::: {.column width="48%"}
 - Social stability requires consensus and the support of society's members
 - Strong central values and common norms provide that support
 - A cultural trait or practice will persist if it performs functions that society seems to need or contributes to stability and consensus
 <!-- - This view became popular in sociology in the 1950s, borrowed from British anthropologists who saw cultural traits as a stabilizing element -->
+::::
+
+:::: {.column width="52%"}
+![](../../../assets/chapter_03_assets/functionalist_perspective_culture.png){}
+::::
+:::::
+
+
 
 ## Functionalists Ask What a Cultural Practice Does
 
@@ -593,24 +603,33 @@ A functionalist can also ask about dysfunctions: a practice may create solidarit
 - **Dominant ideology** — the set of cultural beliefs and practices that helps to maintain powerful social, economic, and political interests
 - First used by Georg Lukács (1923) and Antonio Gramsci (1929); in Marx's view, a capitalist society's dominant ideology serves the ruling class
 
-## Gramsci: Power Is Strongest When It Looks Like Common Sense
+::: {.question-box}
+It is rude to talk about how much money you make. 
+:::
 
-- **Hegemony** — leadership maintained partly by winning consent, so one group's view of the world comes to feel natural or simply "common sense"
-- Schools, media, workplaces, and other institutions help define which accents sound professional, which knowledge counts, and which lifestyles look successful
-- People are not passive: they can reinterpret, resist, or build a **counter-hegemony**
-- Conflict theory asks not only, "What does this practice do?" but also, "**Who benefits from treating it as normal?**"
-<!-- - Feminist theorists add: if a society's most important institutions tell women they should be subservient to men, that dominant ideology helps keep women in a subordinate position -->
+<!-- ## Gramsci: Power Is Strongest When It Looks Like Common Sense -->
+
+<!-- - **Hegemony** — leadership maintained partly by winning consent, so one group's view of the world comes to feel natural or simply "common sense" -->
+<!-- - Schools, media, workplaces, and other institutions can help reproduce dominant ideas about what is normal, legitimate, or desirable. -->
+<!-- - Hegemony is never complete. People can challenge dominant ideas and develop alternatives -->
+<!-- - Conflict theory asks not only, "What does this practice do?" but also, "**Who benefits from treating it as normal?**" -->
+<!-- - Feminist theorists add: if a society's most important institutions tell women they should be subservient to men, that dominant ideology helps keep women in a subordinate position 
+- Schools, media, workplaces, and other institutions help define which accents sound professional, which knowledge counts, and which lifestyles look successful -->
 
 <!-- ::: {.question-box} -->
 <!-- Which institutions shape what counts as "normal" for you: school, family, religion, media? Which has the loudest voice? -->
 <!-- ::: -->
 
-## Adorno's Culture Industry Standardizes Choice
+## Hegemony and Culture Industry 
 
-- **Culture industry** — Theodor Adorno's term for mass-produced entertainment that standardizes cultural goods and consumer desires
+
+- **Hegemony** — leadership maintained partly by winning consent, so one group's view of the world comes to feel natural or simply "common sense"
+- Schools, media, workplaces, and other institutions can help reproduce dominant ideas about what is normal, legitimate, or desirable.
+- **Culture industry** — described mass-produced entertainment that standardizes cultural goods and consumer desires
+- We may appear to have enormous choice, while repeatedly encountering similar formats, stories, celebrities, and ideas
 - A streaming service may offer thousands of titles while promoting the same formats, stars, and story structures
-- The conflict question is who owns the platforms, controls visibility, and profits when repeated products begin to look like free choice
-- Audiences still interpret and reject what they receive; cultural power is influential, not total (Horkheimer and Adorno 1944)
+<!-- - The conflict question is who owns the platforms, controls visibility, and profits when repeated products begin to look like free choice -->
+<!-- - Audiences still interpret and reject what they receive; cultural power is influential, not total (Horkheimer and Adorno 1944) -->
 
 ## Can a Complex Society Have a Core Culture?
 
@@ -661,9 +680,11 @@ Which perspective explains more of what happened? Why?
 Kuwait University students are overwhelmingly Kuwaiti. Does the campus still contain multiple subcultures?
 :::
 
+::: {.fragment}
 - Compare majors, generations, clubs, friendship groups, online communities, schedules, styles of speech, and uses of campus space
 - What seems shared across the university? What varies without being visible at first glance?
 - Which perspective from Table 3-2 does your answer lean on?
+:::
 
 # Cultural Variation {background-color="#1B2A4A"}
 
@@ -900,18 +921,19 @@ A Malayalam-speaking creator documents daily life in Kuwait for thousands of vie
 Name a culture lag you live inside. Which technology reached your life before the rules for it did?
 :::
 
-# Social Policy and Culture: Multilingual Life {background-color="#1B2A4A"}
+<!-- # Social Policy and Culture: Multilingual Life {background-color="#1B2A4A"} -->
+# Multilingual Life {background-color="#1B2A4A"}
 
-::: {.takeaway}
-Language policy reveals what a society values and whose culture it treats as legitimate.
-:::
+<!-- ::: {.takeaway} -->
+<!-- Language policy reveals what a society values and whose culture it treats as legitimate. -->
+<!-- ::: -->
 
-## Looking at the Issue: Language Errors Put Patients at Risk
+<!-- ## Looking at the Issue: Language Errors Put Patients at Risk -->
 
-- An emergency room staff cannot understand a patient's complaints or communicate with her companion; the problem is not medical
-- In two large Massachusetts pediatric emergency departments, interpreting errors led to clinically significant mistakes in **22 percent** of cases (Flores et al. 2012)
-- **Bilingualism** — the use of two languages in a particular setting, such as the workplace or schoolroom, treating each language as equally legitimate
-- A bilingual teacher instructs children in their native language while gradually introducing the host society's language; a **bicultural** curriculum teaches the mores and folkways of both
+<!-- - An emergency room staff cannot understand a patient's complaints or communicate with her companion; the problem is not medical -->
+<!-- - In two large Massachusetts pediatric emergency departments, interpreting errors led to clinically significant mistakes in **22 percent** of cases (Flores et al. 2012) -->
+<!-- - **Bilingualism** — the use of two languages in a particular setting, such as the workplace or schoolroom, treating each language as equally legitimate -->
+<!-- - A bilingual teacher instructs children in their native language while gradually introducing the host society's language; a **bicultural** curriculum teaches the mores and folkways of both -->
 
 <!-- ## 66 Million U.S. Residents Speak Another Language at Home
 
@@ -924,7 +946,7 @@ Language policy reveals what a society values and whose culture it treats as leg
 
 - Formal Arabic, Kuwaiti Arabic, English, and many migrant languages meet in classrooms, hospitals, shops, homes, and workplaces
 - **Bilingualism** uses two languages in a setting and treats both as legitimate; **multilingualism** extends that question beyond two
-- People also **code-switch**: they move between languages or varieties as the audience, topic, and setting change
+- People also **code-switch**. They move between languages or varieties as the audience, topic, and setting change
 - The sociological question is not only which languages people know, but which variety carries authority in each institution
 
 ## Foreigner-Directed Arabic and Gulf Pidgin Arabic Are Not the Same
