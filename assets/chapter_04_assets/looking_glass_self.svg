@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Cooley's looking-glass self in three phases</title>
+  <desc id="desc">We imagine how we present ourselves, imagine how others evaluate us, and develop a feeling about ourselves from those impressions.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#1B2A4A" flood-opacity=".12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1B2A4A" stroke="none"/>
+    </marker>
+    <marker id="arrow-teal" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#147D79" stroke="none"/>
+    </marker>
+    <marker id="arrow-gold" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#A47712" stroke="none"/>
+    </marker>
+    <marker id="arrow-coral" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#C65D4B" stroke="none"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="650" fill="#FCFCFA"/>
+  <text x="600" y="62" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="27" font-weight="700" fill="#1B2A4A">COOLEY’S LOOKING-GLASS SELF</text><circle cx="200" cy="230" r="70" fill="#FFFFFF" stroke="#147D79" stroke-width="8"/><text x="200" y="248" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="50" font-weight="700" fill="#147D79">1</text><text x="200" y="350" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#25313D"><tspan x="200" dy="0">We imagine how we</tspan><tspan x="200" dy="31">present ourselves</tspan><tspan x="200" dy="31">to others</tspan></text><circle cx="600" cy="230" r="70" fill="#FFFFFF" stroke="#A47712" stroke-width="8"/><text x="600" y="248" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="50" font-weight="700" fill="#A47712">2</text><text x="600" y="350" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#25313D"><tspan x="600" dy="0">We imagine how</tspan><tspan x="600" dy="31">others evaluate us</tspan></text><circle cx="1000" cy="230" r="70" fill="#FFFFFF" stroke="#C65D4B" stroke-width="8"/><text x="1000" y="248" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="50" font-weight="700" fill="#C65D4B">3</text><text x="1000" y="350" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#25313D"><tspan x="1000" dy="0">We develop a feeling</tspan><tspan x="1000" dy="31">about ourselves:</tspan><tspan x="1000" dy="31">respect or shame</tspan></text><line x1="285" y1="230" x2="515" y2="230" stroke="#1B2A4A" stroke-width="6" stroke-linecap="round" marker-end="url(#arrow)"/><line x1="685" y1="230" x2="915" y2="230" stroke="#1B2A4A" stroke-width="6" stroke-linecap="round" marker-end="url(#arrow)"/><rect x="80.0" y="500" width="1040" height="58" rx="18" fill="#FFF7E3" stroke="#A47712" stroke-width="2" /><text x="600" y="539" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#1B2A4A">The mirror can be wrong and still shape you: the self is built from imagined judgments</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">The sandwich generation</title>
+  <desc id="desc">A middle-aged adult provides care upward to aging parents and downward to children; 12 percent of parents also care for an adult, and women provide 60 percent of parental care.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#1B2A4A" flood-opacity=".12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1B2A4A" stroke="none"/>
+    </marker>
+    <marker id="arrow-teal" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#147D79" stroke="none"/>
+    </marker>
+    <marker id="arrow-gold" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#A47712" stroke="none"/>
+    </marker>
+    <marker id="arrow-coral" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#C65D4B" stroke="none"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="650" fill="#FCFCFA"/>
+  <text x="600" y="56" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="27" font-weight="700" fill="#1B2A4A">THE SANDWICH GENERATION</text><rect x="380" y="110" width="440" height="110" rx="22" fill="#EAF6F5" stroke="#147D79" stroke-width="3" /><text x="600" y="155" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#147D79">Aging parents</text><text x="600" y="195" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500" fill="#25313D">Health and economic problems may need intervention</text><rect x="380" y="270" width="440" height="110" rx="22" fill="#FFF7E3" stroke="#A47712" stroke-width="3" /><text x="600" y="315" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#A47712">Middle-aged adult</text><text x="600" y="355" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500" fill="#25313D">Caregiving runs in two directions at once</text><rect x="380" y="430" width="440" height="110" rx="22" fill="#F9E9E6" stroke="#C65D4B" stroke-width="3" /><text x="600" y="475" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#C65D4B">Children</text><text x="600" y="515" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500" fill="#25313D">Even as young adults may still need significant direction</text><path d="M 600 225 L 600 262" fill="none" stroke="#1B2A4A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/><path d="M 600 425 L 600 388" fill="none" stroke="#1B2A4A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/><rect x="60" y="250" width="270" height="150" rx="22" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="2" filter="url(#shadow)"/><text x="195" y="310" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1B2A4A">12%</text><text x="195" y="350" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#25313D"><tspan x="195" dy="0">of U.S. parents with children</tspan><tspan x="195" dy="21">under 18 also cared for an</tspan><tspan x="195" dy="21">adult (2018)</tspan></text><rect x="870" y="250" width="270" height="150" rx="22" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="2" filter="url(#shadow)"/><text x="1005" y="310" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1B2A4A">60%</text><text x="1005" y="350" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#25313D"><tspan x="1005" dy="0">of the care aging parents</tspan><tspan x="1005" dy="21">receive is provided by</tspan><tspan x="1005" dy="21">women: the “daughter track”</tspan></text><text x="600" y="610" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500" fill="#6F7985">Livingston 2018; National Alliance for Caregiving 2015</text>
+</svg>

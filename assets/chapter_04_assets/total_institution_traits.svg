@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Four traits of a total institution</title>
+  <desc id="desc">One place under one authority; activities with others in the same situation; rules made without consultation; everything serves the organization's purpose.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#1B2A4A" flood-opacity=".12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1B2A4A" stroke="none"/>
+    </marker>
+    <marker id="arrow-teal" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#147D79" stroke="none"/>
+    </marker>
+    <marker id="arrow-gold" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#A47712" stroke="none"/>
+    </marker>
+    <marker id="arrow-coral" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#C65D4B" stroke="none"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="650" fill="#FCFCFA"/>
+  <text x="600" y="56" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1B2A4A">GOFFMAN’S TOTAL INSTITUTION: FOUR COMMON TRAITS</text><rect x="80" y="110" width="500" height="210" rx="22" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="2" filter="url(#shadow)"/><rect x="80" y="110" width="10" height="210" rx="5" fill="#147D79" stroke="none" stroke-width="0" /><text x="340" y="165" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#147D79">One place, one authority</text><text x="340" y="215" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#25313D"><tspan x="340" dy="0">All aspects of life are conducted</tspan><tspan x="340" dy="28">in the same place under the</tspan><tspan x="340" dy="28">control of a single authority</tspan></text><rect x="620" y="110" width="500" height="210" rx="22" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="2" filter="url(#shadow)"/><rect x="620" y="110" width="10" height="210" rx="5" fill="#A47712" stroke="none" stroke-width="0" /><text x="880" y="165" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#A47712">In the company of others</text><text x="880" y="215" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#25313D"><tspan x="880" dy="0">Activities take place with others</tspan><tspan x="880" dy="28">in the same circumstances:</tspan><tspan x="880" dy="28">army recruits, novices in a convent</tspan></text><rect x="80" y="350" width="500" height="210" rx="22" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="2" filter="url(#shadow)"/><rect x="80" y="350" width="10" height="210" rx="5" fill="#C65D4B" stroke="none" stroke-width="0" /><text x="340" y="405" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#C65D4B">Rules without consultation</text><text x="340" y="455" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#25313D"><tspan x="340" dy="0">Authorities devise rules and</tspan><tspan x="340" dy="28">schedule activities without</tspan><tspan x="340" dy="28">consulting the participants</tspan></text><rect x="620" y="350" width="500" height="210" rx="22" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="2" filter="url(#shadow)"/><rect x="620" y="350" width="10" height="210" rx="5" fill="#1B2A4A" stroke="none" stroke-width="0" /><text x="880" y="405" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#1B2A4A">Everything serves the purpose</text><text x="880" y="455" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#25313D"><tspan x="880" dy="0">All aspects of life are designed</tspan><tspan x="880" dy="28">to fulfill the purpose of the</tspan><tspan x="880" dy="28">organization, such as prayer</tspan></text><text x="600" y="615" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#1B2A4A">Examples: a prison, the military, a mental hospital, a convent, the crew of a merchant vessel at sea</text>
+</svg>

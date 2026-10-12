@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Two social worlds of the prisoner-firefighters</title>
+  <desc id="desc">Inside the prison, members are categorized as criminals; on the fire line they fill a heroic role. The crew moves daily between the two.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#1B2A4A" flood-opacity=".12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1B2A4A" stroke="none"/>
+    </marker>
+    <marker id="arrow-teal" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#147D79" stroke="none"/>
+    </marker>
+    <marker id="arrow-gold" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#A47712" stroke="none"/>
+    </marker>
+    <marker id="arrow-coral" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#C65D4B" stroke="none"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="650" fill="#FCFCFA"/>
+  <rect x="60" y="120" width="330" height="330" rx="24" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="2" filter="url(#shadow)"/><rect x="60" y="120" width="330" height="10" rx="5" fill="#C65D4B" stroke="none" stroke-width="0" /><text x="225.0" y="178" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="27" font-weight="700" fill="#1B2A4A">Inside the prison</text><text x="225.0" y="225" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" fill="#25313D"><tspan x="225.0" dy="0">Categorized and treated</tspan><tspan x="225.0" dy="29">as criminals</tspan><tspan x="225.0" dy="29">Work, food, clothing all</tspan><tspan x="225.0" dy="29">follow that label</tspan><tspan x="225.0" dy="29">Identity can be</tspan><tspan x="225.0" dy="29">internalized over time</tspan></text><rect x="810" y="120" width="330" height="330" rx="24" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="2" filter="url(#shadow)"/><rect x="810" y="120" width="330" height="10" rx="5" fill="#147D79" stroke="none" stroke-width="0" /><text x="975.0" y="178" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="27" font-weight="700" fill="#1B2A4A">On the fire line</text><text x="975.0" y="225" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" fill="#25313D"><tspan x="975.0" dy="0">Matching shirts and fire boots</tspan><tspan x="975.0" dy="29">Critical thinking required</tspan><tspan x="975.0" dy="29">Contact with the public</tspan><tspan x="975.0" dy="29">Freedoms most prisoners</tspan><tspan x="975.0" dy="29">do not have</tspan><tspan x="975.0" dy="29">Applause in the restaurant</tspan></text><rect x="430" y="190" width="340" height="190" rx="26" fill="#EEF2F7" stroke="#1B2A4A" stroke-width="3" stroke-dasharray="12 10"/><text x="600" y="245" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#1B2A4A">The crew moves daily</text><text x="600" y="285" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" fill="#25313D"><tspan x="600" dy="0">between the categories</tspan><tspan x="600" dy="27">“criminal” and “hero”</tspan><tspan x="600" dy="27">and the identities</tspan><tspan x="600" dy="27">each one produces</tspan></text><line x1="395" y1="285" x2="425" y2="285" stroke="#C65D4B" stroke-width="6" stroke-linecap="round"/><line x1="775" y1="285" x2="805" y2="285" stroke="#147D79" stroke-width="6" stroke-linecap="round"/><rect x="80.0" y="520" width="1040" height="58" rx="18" fill="#FFF7E3" stroke="#A47712" stroke-width="2" /><text x="600" y="559" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#1B2A4A">Twenty-two prisoners and three correctional officers walked into the restaurant</text>
+</svg>

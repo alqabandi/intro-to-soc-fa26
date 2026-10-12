@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="550" viewBox="0 0 1200 550" role="img" aria-labelledby="title desc">
+  <title id="title">Anticipatory socialization versus resocialization</title>
+  <desc id="desc">Anticipatory socialization rehearses future roles; resocialization discards old patterns and accepts new ones, often with considerable stress.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#1B2A4A" flood-opacity=".12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1B2A4A" stroke="none"/>
+    </marker>
+    <marker id="arrow-teal" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#147D79" stroke="none"/>
+    </marker>
+    <marker id="arrow-gold" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#A47712" stroke="none"/>
+    </marker>
+    <marker id="arrow-coral" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#C65D4B" stroke="none"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="550" fill="#FCFCFA"/>
+  <text x="600" y="58" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1B2A4A">TWO KINDS OF SOCIALIZATION ACROSS THE LIFE COURSE</text><rect x="70" y="120" width="500" height="380" rx="24" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="2" filter="url(#shadow)"/><rect x="70" y="120" width="500" height="10" rx="5" fill="#147D79" stroke="none" stroke-width="0" /><text x="320.0" y="178" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="27" font-weight="700" fill="#1B2A4A">Anticipatory socialization</text><text x="320.0" y="225" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" fill="#25313D"><tspan x="320.0" dy="0">Rehearsing for future positions,</tspan><tspan x="320.0" dy="30">occupations, and relationships</tspan><tspan x="320.0" dy="30"> </tspan><tspan x="320.0" dy="30">High school students touring</tspan><tspan x="320.0" dy="30">a university online before enrolling</tspan><tspan x="320.0" dy="30"> </tspan><tspan x="320.0" dy="30">Direction: forward, adding new norms</tspan></text><rect x="630" y="120" width="500" height="380" rx="24" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="2" filter="url(#shadow)"/><rect x="630" y="120" width="500" height="10" rx="5" fill="#C65D4B" stroke="none" stroke-width="0" /><text x="880.0" y="178" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="27" font-weight="700" fill="#1B2A4A">Resocialization</text><text x="880.0" y="225" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" fill="#25313D"><tspan x="880.0" dy="0">Discarding former behavior patterns</tspan><tspan x="880.0" dy="30">and accepting new ones</tspan><tspan x="880.0" dy="30"> </tspan><tspan x="880.0" dy="30">Reform schools, therapy groups,</tspan><tspan x="880.0" dy="30">prisons, religious conversion settings</tspan><tspan x="880.0" dy="30"> </tspan><tspan x="880.0" dy="30">Direction: unlearning first; more stress</tspan></text>
+</svg>
