@@ -53,9 +53,11 @@ Socialization is the lifelong process in which people learn the attitudes, value
 ![](../../../assets/chapter_04_assets/two_social_worlds_firefighters.svg){fig-alt="Two cards: inside the prison, members are categorized as criminals; on the fire line they fill a heroic role. The crew moves daily between the two."}
 :::
 
+::: {.small}
 - The chapter uses the prisoner-firefighters to show that socialization can have a powerful impact **even on adults**
 - Every day the crew left the prison, "a space where criminality is defined and maintained," and moved into a space between the categories *criminal* and *hero*
 - Prisoner-firefighters had to use critical-thinking skills, interact with the public, and enjoyed freedoms other prisoners lacked; they built more positive identities and better outcomes in prison and after release (Feldman 2018)
+:::
 
 ## Socialization and Personality Defined
 
@@ -257,7 +259,7 @@ Give me one new example of the **preparatory**, **play**, and **game** stages.
 
 - According to Mead (1964b), the self begins at a **privileged, central position** in a person's world
 - Shown a mountain scene and asked what an observer on the other side would see, young children describe only what is visible from their own side
-- This tendency never entirely disappears: people afraid of flying assume the plane that goes down will be theirs; who reads the horoscope page without checking their own sign first? Why buy a lottery ticket unless you imagine yourself winning?
+- This tendency never entirely disappears: people afraid of flying assume the plane that goes down will be theirs; who reads the horoscope page without checking their own sign first?
 - As people mature, the self begins to reflect greater concern about the reactions of others
 - **Significant others** — the individuals most important in the development of the self, such as a parent, friend, or teacher. Many young people are drawn to the same kind of work their parents do
 
