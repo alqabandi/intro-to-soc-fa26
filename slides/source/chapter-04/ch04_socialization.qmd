@@ -371,6 +371,7 @@ Cooley stressed the process by which we **create** a self; Mead focused on how t
 :::
 ::::
 
+<!-- Piaget material omitted from exam coverage.
 ## Piaget: Newborns Have No Looking-Glass Self
 
 :::: {.columns}
@@ -395,6 +396,7 @@ Cooley stressed the process by which we **create** a self; Mead focused on how t
 ![](../../../assets/chapter_04_assets/piaget_cognitive_stages.svg){fig-alt="Timeline of Piaget's four stages: sensorimotor, preoperational, concrete operational, formal operational."}
 
 - Social interaction is the key to development: to form a distinct personality each of us needs opportunities to interact with others. Isabelle was denied them, and the consequences were severe (Kitchener 1991)
+-->
 
 ## Table 4-2: Theoretical Approaches to Development of the Self {.smaller}
 
@@ -404,8 +406,9 @@ Cooley stressed the process by which we **create** a self; Mead focused on how t
 | **George Herbert Mead** 1863–1931, sociologist (USA) | The self; generalized other | Three distinct stages of development; self develops as children grasp the roles of others in their lives |
 | **Erving Goffman** 1922–1982, sociologist (USA) | Impression management; dramaturgical approach; face-work | Self developed through the impressions we convey to others and to groups |
 | **Sigmund Freud** 1856–1939, psychotherapist (Austria) | Psychoanalysis | Self influenced by parents and by inborn drives, such as the drive for personal gratification |
-| **Jean Piaget** 1896–1980, child psychologist (Switzerland) | Cognitive theory of development | Four stages of cognitive development |
+<!-- | **Jean Piaget** 1896–1980, child psychologist (Switzerland) | Cognitive theory of development | Four stages of cognitive development | -->
 
+<!-- Piaget comparison omitted from exam coverage.
 ## Thinking Critically: Mead's Stages and Piaget's Stages Compared
 
 ::: {.board}
@@ -416,6 +419,7 @@ What are some similarities between Mead's stages of the self and Piaget's cognit
 - Mead's stages describe the growth of a *social* self: whose perspective can the child take?
 - Piaget's stages describe the growth of *thinking*: what kinds of operations can the child perform?
 - Where might Mead's game stage and Piaget's concrete operational stage overlap in age and ability?
+-->
 
 # Agents of Socialization {background-color="#1B2A4A"}
 
@@ -885,7 +889,8 @@ Medicine: attachment research sits behind pediatric practice, the screen-time gu
 ## Before You Leave
 
 - Heredity and environment **interact**: Isabelle and the orphans show what happens without interaction; the twins keep the genes honestly in the picture
-- The self is **created** through others' imagined judgments (Cooley), **develops** through role taking toward the generalized other (Mead), and is **presented** to audiences (Goffman); Freud and Piaget add inborn drives and cognitive stages
+<!-- - The self is **created** through others' imagined judgments (Cooley), **develops** through role taking toward the generalized other (Mead), and is **presented** to audiences (Goffman); Freud and Piaget add inborn drives and cognitive stages -->
+- The self is **created** through others' imagined judgments (Cooley), **develops** through role taking toward the generalized other (Mead), and is **presented** to audiences (Goffman); Freud adds inborn drives
 - Seven **agents** carry socialization for life: family, school, peers, media and technology, workplace, religion, the state
 - Societies mark transitions with **rites of passage**, prepare us through **anticipatory socialization**, and sometimes rebuild us through **resocialization**, most completely inside a **total institution**
 - Midlife, the sandwich generation, and retirement are social transitions; child care is socialization policy
