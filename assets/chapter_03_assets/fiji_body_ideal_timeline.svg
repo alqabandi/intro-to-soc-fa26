@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Fiji body ideal timeline</title>
+  <desc id="desc">Fiji's rounded body ideal preceded cable television's arrival in 1995; eating disorders were reported afterward.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#1B2A4A" flood-opacity=".12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1B2A4A" stroke="none"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="650" fill="#FCFCFA"/>
+  <line x1="185" y1="325" x2="1015" y2="325" stroke="#1B2A4A" stroke-width="8" stroke-linecap="round" marker-end="url(#arrow)"/><circle cx="180" cy="325" r="49" fill="#FFFFFF" stroke="#147D79" stroke-width="8"/><circle cx="180" cy="325" r="18" fill="#147D79" stroke="none" stroke-width="2"/><text x="180" y="235" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#147D79">Before 1995</text><text x="180" y="415" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="27" font-weight="600" fill="#25313D"><tspan x="180" dy="0">Rounded bodies</tspan><tspan x="180" dy="35">widely valued</tspan></text><circle cx="600" cy="325" r="49" fill="#FFFFFF" stroke="#A47712" stroke-width="8"/><circle cx="600" cy="325" r="18" fill="#A47712" stroke="none" stroke-width="2"/><text x="600" y="235" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#A47712">1995</text><text x="600" y="415" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="27" font-weight="600" fill="#25313D"><tspan x="600" dy="0">Cable television</tspan><tspan x="600" dy="35">arrives</tspan></text><circle cx="1020" cy="325" r="49" fill="#FFFFFF" stroke="#C65D4B" stroke-width="8"/><circle cx="1020" cy="325" r="18" fill="#C65D4B" stroke="none" stroke-width="2"/><text x="1020" y="235" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#C65D4B">Afterward</text><text x="1020" y="415" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="27" font-weight="600" fill="#25313D"><tspan x="1020" dy="0">Eating disorders</tspan><tspan x="1020" dy="35">reported</tspan></text><rect x="320" y="535" width="560" height="58" rx="18" fill="#FFF7E3" stroke="#A47712" stroke-width="2" /><text x="600" y="574" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#1B2A4A">A sequence in time—not proof of a single cause</text>
+</svg>
