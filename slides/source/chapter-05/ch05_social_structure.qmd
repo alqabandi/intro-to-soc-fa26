@@ -578,3 +578,517 @@ Describe social media, and influencer culture in particular, from a functionalis
 - **Functionalist:** which of the five prerequisites does social media serve? Which of its functions is manifest and which is latent?
 - **Conflict:** who profits from an influencer's sponsored post: the influencer, the brand, or the platform? Which ascribed statuses, such as family name or inherited wealth, help someone build a following?
 - **Interactionist:** how does filming for an audience change the way people behave at a restaurant, a wedding, or a family gathering?
+
+# Understanding Organizations {background-color="#1B2A4A"}
+
+<!-- ::: {.takeaway} -->
+<!-- It sounds more exciting to say we live in the "computer age," but "the age of formal organization" is the more accurate description. Most of you will work in one. -->
+<!-- ::: -->
+
+## Formal Organizations Dominate Modern Life
+
+- As societies adopt more advanced technology and more complex structures, our lives are increasingly dominated by large secondary groups called formal organizations
+- **Formal organization** — a group designed for a special purpose and structured for maximum efficiency. FedEx, Pick, KOC, the Ministry of Health, PIFSS, this university, a bank, or a telecom company
+- Organizations vary in size, specificity of goals, and efficiency, but all are structured to manage large-scale operations, and all take a **bureaucratic** form
+- They have become so dominant that we create organizations to supervise other organizations, like CITRA or the Central Bank
+- Generally, people don't consciously aim to work in big organizations, but most of us inevitably will. 
+
+## Ascribed Status Inside Organizations: The Lawyers' Pay Gap
+
+- Ascribed statuses such as gender, race, and ethnicity influence how we see ourselves within formal organizations
+- A study followed nearly **4,000** lawyers who entered the bar in 2000. Among full-time lawyers, women earned on average **$6,000 less** a year than men at the same career stage, even after accounting for type of firm, specialization, and work history such as family leave
+- The gap appeared to stem from a **devaluation of women and their work** within legal organizations. Women in that culture may come to see themselves as worth less and entitled to less
+- Over time men and women even record billable hours differently: men bill every snippet of conversation; women bill more selectively. The pattern has been documented across many occupations (Dinovitzer et al. 2009; Sandberg 2015)
+
+## Bureaucracy and Weber's Ideal Type {.smaller}
+
+- **Bureaucracy** — a component of formal organization that uses rules and hierarchical ranking to achieve efficiency
+- Rows of desks, endless lines and forms, impossibly complex language, red tape: these images have made "bureaucracy" a dirty word, and few people call themselves bureaucrats. Yet in an industrial society elements of bureaucracy enter almost every occupation
+- Max Weber ([1913–1922] 1947) first drew attention to bureaucratic structure. He saw the same basic structure and process in religion ("The Protestant Ethic"), government, education, and business, and contrasted it with the family-run business
+- **Ideal type** — a construct or model for evaluating specific cases. Weber built an ideal type of bureaucracy with the most characteristic features of all human organizations. Perfect bureaucracies do not exist; **no real organization matches the ideal type exactly**
+
+::: {.board}
+Remember the example of a ruler being an ideal type. A ruler can tell us the length of things, but it's not telling us that everything needs to be the exact length of the ruler.
+:::
+
+## Weber's Five Characteristics of Bureaucracy
+
+::: {.center}
+![](../../../assets/chapter_05_assets/weber_bureaucracy_five.svg){fig-alt="Five cards: division of labor, hierarchy of authority, written rules, impersonality, technical qualifications; a panel notes that each has a dysfunction."}
+:::
+
+## Division of Labor: Efficiency, Alienation, and Trained Incapacity {.smaller}
+
+- **Division of labor.** Specialized experts perform specific tasks. The admissions officer does not do the registrar's job; the counselor does not maintain buildings. Specialization builds skill and efficiency, and it is a fairly recent development in modern society
+- **Downside:** fragmenting work into smaller and smaller tasks can cut workers off from the organization's overall purpose. Marx and Engels (1848), for example, argued that capitalism reduces workers to "an appendage of the machine"
+- **Alienation** — a condition of estrangement or dissociation from the surrounding society. Narrow tasks also weaken **job security**, since replacements are easily trained. An accountant in a large corporation may be well paid yet alienated, far removed from what the company produces
+- **Trained incapacity** — the tendency of workers in a bureaucracy to become so specialized that they develop blind spots and fail to notice obvious problems (Veblen 1914). Worse, they may not care what happens in the next department
+- Failure to communicate across divisions is the **"silo effect"**; some scholars blame it for lower productivity
+
+<!-- ## The Silo Effect: Five Agencies Before September 11, 2001 -->
+
+<!-- - After the coordinated attacks on the World Trade Center and the Pentagon, Americans asked how the FBI and CIA could have missed an elaborately planned operation -->
+<!-- - Part of the answer was the **division of labor** between the FBI, which focuses on domestic matters, and the CIA, which operates overseas. Both huge bureaucracies, both known for jealously guarding information from each other -->
+<!-- - Investigations revealed that **five** federal agencies, the CIA, FBI, National Security Agency, Defense Intelligence Agency, and National Reconnaissance Office, knew about Osama bin Laden's network in the early 1990s and failed to share their leads -->
+<!-- - The hijackings might not have been preventable, but the bureaucratic division of labor definitely hindered the defense -->
+
+<!-- ::: {.takeaway} -->
+<!-- In medicine the silo effect appears at every shift change and referral. A patient handed between departments is the file nobody owns. -->
+<!-- ::: -->
+
+## Hierarchy of Authority and Written Rules and Regulations {.smaller}
+
+- **Hierarchy of authority.** Each position is under the supervision of a higher authority. In a typical ministry, the chain runs from the minister to the undersecretary, assistant undersecretaries, department directors, section heads, and staff. A university president heads the administration; in the Roman Catholic Church the pope sits above cardinals, bishops, and so on
+- **Written rules and regulations.** What if your sociology professor gave a classmate an A because they shared the same birthday? You would call it unfair, against the rules. Written rules give employees clear standards for adequate or exceptional performance
+- Procedures also provide **continuity**: workers come and go, but the structure and records give the organization a life that outlives any one bureaucrat
+- Rules can overshadow the goals they serve. What if a domestic abuse counselor refused to listen to an injured woman because her civil ID was expired? **Goal displacement** — overzealous conformity to official regulations (Merton 1968)
+
+## Impersonality and Employment Based on Technical Qualifications {.smaller}
+
+- **Impersonality.** Weber wrote that bureaucratic work is carried out *sine ira et studio*, "without hatred or passion." Officials perform duties without personal consideration of people as individuals
+- The norm is meant to guarantee **equal treatment**, but it also produces the cold, uncaring feeling of modern organizations, frustration, and disaffection. Even small firms now filter callers through electronic menus
+- **Employment based on technical qualifications.** Hiring rests on qualifications rather than favoritism; performance is measured against standards; written policies govern promotion, with a right of appeal. These protect against arbitrary dismissal and encourage loyalty
+- Personnel decisions do not always follow the ideal. 
+- **Peter principle** — every employee within a hierarchy tends to rise to his or her level of incompetence (Peter and Hull 1969). Talented people are promoted again and again until some reach a position they cannot handle. 
+- The principle suggests that organizations tend to promote people based on how well they perform in their current jobs, rather than how well they would perform in their next jobs. So, the skills that make someone successful in one position aren't necessarily the skills required for success in a higher position.
+
+## Table 5-3: Characteristics of a Bureaucracy {.smaller}
+
+| Characteristic | Positive consequence | Negative consequence for the individual | Negative consequence for the organization |
+|---|---|---|---|
+| **Division of labor** | Produces efficiency in a large-scale corporation | Produces trained incapacity | Produces a narrow perspective |
+| **Hierarchy of authority** | Clarifies who is in command | Deprives employees of a voice in decision making | Permits concealment of mistakes |
+| **Written rules and regulations** | Let workers know what is expected of them | Stifle initiative and imagination | Lead to goal displacement |
+| **Impersonality** | Reduces bias | Contributes to feelings of alienation | Discourages loyalty to company |
+| **Employment based on technical qualifications** | Discourages favoritism and reduces petty rivalries | Discourages ambition to improve oneself elsewhere | Fosters Peter principle |
+
+::: {.small}
+Weber's characteristics describe an ideal type. Not every formal organization has all five, and real bureaucracies vary widely.
+:::
+
+## Use Your Sociological Imagination: Kuwait University Loses One Characteristic
+
+::: {.board}
+Tomorrow morning this university suddenly stops exhibiting **one** of Weber's five characteristics. Pick one. What happens by the end of the week?
+:::
+
+::: {.fragment}
+- No division of labor: the registrar also teaches anatomy
+- No hierarchy: nobody can sign anything
+- No written rules: grades are negotiated one by one
+- No impersonality: every request is decided by who you are
+- No technical qualifications: posts are filled by whoever asks first
+:::
+
+<!-- ::: {.small} -->
+<!-- Then the harder question: which characteristic do students complain about most, and which would they miss first? -->
+<!-- ::: -->
+
+## Box 5-4: McDonald's and the Worldwide Bureaucratization of Society {.smaller}
+
+- George Ritzer's *The McDonaldization of Society* shows all five of Weber's characteristics in one restaurant chain. Food preparation and order-taking follow a painstaking **division of labor**; a **hierarchy** runs from food workers to the store operator to the corporate board; operators learn **written rules** that govern even the amount of ketchup on a hamburger at McDonald's Hamburger University
+- Little bonding occurs between servers and customers: **impersonality**, partly from the emphasis on efficiency. Fry machines lift the fries automatically, so staff cannot honor a request for "crispy." Employees need specific **technical qualifications**, though most skills take only brief training
+- **McDonaldization** — the process by which the principles of bureaucratization have increasingly shaped organizations worldwide (Chapter 3 introduced the term as a cultural process; here it is an organizational one)
+- Predictability, efficiency, and dependence on nonhuman technology now shape medical care, wedding planning, and education. Stadiums worldwide grow alike: unobstructed seats, instant replays, automated scoreboards, applause prompted by digital displays, tightly controlled merchandising. Cruise ships deliver distant ports with minimal exposure to foreign people
+- What is new is not the five characteristics. It is the bureaucratization of services and life events that were once **individualized, even spontaneous** (Ormond 2005; Ritzer 2018)
+
+## Let's Discuss: McDonaldization at Universities, Hospitals, and Weddings {.smaller}
+
+::: {.board}
+Choose one:
+
+- Analyze life at this university using Weber's model. What elements of McDonaldization do you see? Do you wish life were less McDonaldized?
+- Where do efficiency, calculability, predictability, and control appear in a hospital or large clinic? Which features improve care, and where might standardization become a problem?
+:::
+
+- What features of fast-food restaurants do you appreciate? What are your complaints?
+- A Kuwaiti wedding hall offers packages: the same stage, the same lighting program, the same buffet sequence, priced by guest count. Which of Ritzer's features from Chapter 3 (efficiency, calculability, predictability, control) is that? What has been gained, and what spontaneity has been lost?
+
+<!-- ::: {.small} -->
+<!-- The hospital and wedding-hall examples are instructor enrichment. -->
+<!-- ::: -->
+
+## Bureaucratization as a Process
+
+- Have you ever spoken to 10 or 12 people in a ministry just to find out who has jurisdiction over your problem, or been transferred between departments until you practically gave up?
+- **Bureaucratization** — the process by which a group, organization, or social movement becomes increasingly bureaucratic
+- It also happens in small settings. Jennifer Bickman Mendez (1998) studied domestic houseworkers employed by a nationwide franchise in California: tasks were so minutely defined that employees followed **22 written steps** for cleaning a bathroom, and complaints went to an office manager, not the worker
+
+## Michels: The Iron Law of Oligarchy
+
+- Conflict theorists have studied the bureaucratization of **social movements**. Robert Michels (1915) examined socialist parties and labor unions in Europe before World War I and found them growing increasingly bureaucratic
+- Emerging leaders, even the most radical, developed a **vested interest** in keeping power: losing office meant returning to full-time manual labor
+- **Iron law of oligarchy** — Michels's principle that even a democratic organization will eventually develop into a bureaucracy ruled by a few individuals, an oligarchy
+- Why? Leaders usually have the skills, knowledge, or charismatic appeal (as Weber noted) to direct others; the rank and file **look to leaders** for direction and so reinforce rule by a few; and oligarchs are strongly motivated to keep their roles, privileges, and power
+
+## How Democratic Organizations Become Oligarchies
+
+::: {.center}
+![](../../../assets/chapter_05_assets/iron_law_path.svg){fig-alt="Five-step path from democratic beginnings through organizational growth, leadership specialization, and concentration of power to oligarchy."}
+:::
+
+<!-- ## Test the Iron Law: Student Clubs and Co-operative Societies -->
+
+<!-- ::: {.board} -->
+<!-- Michels says *every* democratic organization ends up run by a few. Pick an organization you can observe and test him. -->
+<!-- ::: -->
+
+<!-- - A student association or club at this university: who ran it two years ago, and who runs it now? How did they get there? -->
+<!-- - Kuwait's consumer co-operative societies, the *jam'iyyat*, are member-owned, with boards elected by shareholders in each area. What would you need to observe to say the iron law applies, or does not? -->
+<!-- - What evidence would **falsify** Michels? Term limits? Frequent turnover? Decisions overturned by members? -->
+
+<!-- Instructor enrichment. The co-ops are offered as a testable case, not a verdict. Keep the discussion on structure, not on individuals. -->
+
+## Scientific Management versus the Human Relations Approach {.smaller}
+
+- How does bureaucratization affect the ordinary worker? Weber focused on management and said little about workers in industry or clerks in agencies
+- **Classical theory** (the **scientific management approach**) — workers are motivated almost entirely by economic rewards; only physical constraints limit productivity. Workers can be treated as a resource, like the machines that began to replace them. Management seeks efficiency through scientific planning, performance standards, and close supervision. Planning involves efficiency studies, not studies of attitudes or job satisfaction
+- Not until workers organized **unions** and forced management to recognize that they were not objects did theorists revise the classical approach
+- **Human relations approach** — emphasizes the role of people, communication, and participation in a bureaucracy, and focuses on the informal structure. It reflects the interactionist interest in small groups and attends to workers' feelings, frustrations, and need for job satisfaction
+- Informal groups and networks grow because people create more direct communication than the formal chart allows. Charles Page (1946) called these unofficial activities **"bureaucracy's other face"**
+
+## New Directions in Organizational Research
+
+Organizational research is a huge field, not just in the social sciences but business schools as well. 
+
+New research is now focusing on things like:
+
+- The effect and role of women in high-level management
+- The decision-making role of groups outside the top ranks of large corporations
+- **Bossless offices** with flat or horizontal hierarchies, where middle managers are eliminated and employees supervise themselves
+- The loss of fixed boundaries in organizations that have **outsourced** key functions, and the role of the Internet in shaping business and consumer preferences
+- Researchers and employers now use the **electronic footprints** workers leave in e-mail and apps: analysis of e-mail content can show how quickly new employees adopt the language and knowledge the organization expects, and can surface innovative ideas 
+
+## Erin Meyer's Culture Map: Eight Questions About How Work Gets Done
+
+::: {.center}
+![](../../../assets/chapter_05_assets/erin_meyer_culture_map.svg){fig-alt="Eight continua from Erin Meyer's Culture Map: low-context to high-context communication, direct to indirect negative feedback, principles-first to applications-first persuasion, egalitarian to hierarchical leadership, consensual to top-down decisions, task-based to relationship-based trust, confrontational to conflict-avoiding disagreement, and linear-time to flexible-time scheduling."}
+:::
+
+<!-- Instructor enrichment. These are relative cultural tendencies, not fixed descriptions of every individual from a country. -->
+
+<!-- ## Thinking Critically: Analyze a Workplace Both Ways -->
+
+<!-- ::: {.board} -->
+<!-- Recall a job you have held, or a group project, a volunteer campaign, or a family business you have seen from inside. Analyze it first with the scientific management approach, then with the human relations approach. Which explains more of what you saw? -->
+<!-- ::: -->
+
+<!-- - Where was "bureaucracy's other face": the group chat, the smoking corner, the colleague who knew whom to call? -->
+<!-- - If your employer could read the team's e-mail footprints, what would they learn that the organization chart hides? -->
+
+# Social Structure in Global Perspective {background-color="#1B2A4A"}
+
+::: {.takeaway}
+Modern societies are complex compared with earlier arrangements. Durkheim, Tönnies, and Lenski each built a way to compare the two, and Kuwait lived through the comparison within a single lifetime.
+:::
+
+## Durkheim: Mechanical and Organic Solidarity {.smaller}
+
+- In *The Division of Labor* ([1893] 1933) Durkheim argued that social structure depends on the **division of labor**, the way tasks are performed. Providing food can be done almost entirely by one person, or divided among the hundreds of people who cultivate, process, distribute, and retail a single item
+- **Mechanical solidarity** — a collective consciousness that emphasizes group solidarity, characteristic of societies with minimal division of labor. Everyone does the same tasks; no one asks "What do your parents do?" The group dominates; interaction is close and face-to-face; there are few social roles
+- **Organic solidarity** — a collective consciousness resting on mutual interdependence, characteristic of societies with a complex division of labor. As technology advances, no individual can go it alone; people depend on one another as the organs of a body do
+
+![](../../../assets/chapter_05_assets/durkheim_solidarity.svg){fig-alt="Two cards comparing mechanical solidarity, based on sameness, with organic solidarity, based on interdependence."}
+
+## Tönnies: Gemeinschaft and Gesellschaft {.smaller}
+
+- Ferdinand Tönnies (1855–1936) was appalled by the rise of the industrial city in his native Germany. He saw a dramatic change from the ideal of a close-knit community, the **Gemeinschaft**, to an impersonal mass society, the **Gesellschaft** (Tönnies [1887] 1988; Beckwith 2019)
+- **Gemeinschaft** (GUH-mine-shoft) — a close-knit community, often rural, in which strong personal bonds unite members. Similar backgrounds; virtually everyone knows one another; people relate personally, not as "clerk" or "manager." Little privacy. Social control is **informal**: moral persuasion, gossip, even gestures, which work because people care what others think. Change is limited across generations
+- **Gesellschaft** (GUH-zell-shoft) — a community, often urban, that is large and impersonal, with little commitment to the group or consensus on values. Most people are strangers; relationships grow out of immediate tasks such as buying a product; self-interest dominates; control rests on **formal** laws and punishments; change is evident within a single generation
+- Some see apps where you share your name and location with ride-share drivers, online buyers, and home-stay hosts as a return to village life: everyone knows your name and people trust each other (Ravenelle 2017)
+
+## Table 5-4: Comparison of the Gemeinschaft and Gesellschaft {.smaller}
+
+| Gemeinschaft | Gesellschaft |
+|---|---|
+| Rural life typifies this form. | Urban life typifies this form. |
+| People share a feeling of community that results from their similar backgrounds and life experiences. | People have little sense of commonality. Their differences appear more striking than their similarities. |
+| Social interactions are intimate and familiar. | Social interactions are likely to be impersonal and task-specific. |
+| People maintain a spirit of cooperation and unity of will. | Self-interest dominates. |
+| Tasks and personal relationships cannot be separated. | The task being performed is paramount; relationships are subordinate. |
+| People place little emphasis on individual privacy. | Privacy is valued. |
+| Informal social control predominates. | Formal social control is evident. |
+| People are not very tolerant of deviance. | People are more tolerant of deviance. |
+| Emphasis is on ascribed statuses. | Emphasis is on achieved statuses. |
+| Social change is relatively limited. | Social change is very evident, even within a generation. |
+
+## The Gemeinschaft Has a Price
+
+- It is easy to view the Gemeinschaft with **nostalgia**, as a better way of life than the rat race of modern existence
+- But its intimacy comes at a cost. The prejudice and discrimination found there can be confining; **ascribed statuses** such as family background often outweigh a person's talents and achievements
+- The Gemeinschaft tends to **distrust** individuals who seek to be creative or simply to be different
+
+::: {.question-box}
+Think about it: how would you classify the communities you know? Are they more Gemeinschaft or Gesellschaft? Can one neighborhood be both, depending on who you are?
+:::
+
+## Kuwait Within One Lifetime: From the Walled Town to the Suburb {.smaller}
+
+- Before oil revenues transformed the country in the 1950s, Kuwait's town population lived inside a walled town on the bay, organized into neighborhoods (*firjan*) where families, trades, and mosques sat close together. The third and last wall, built in 1920, was demolished in 1957 as the first master plan moved residents to new suburban areas
+- Read Table 5-4 against that shift. Which side describes the old town: everyone known by name, control by reputation and "what will people say" (*kalam al-nas*), little privacy, family background weighing on marriage and work?
+- Which side describes the suburb and the mall: strangers in task-specific roles, cameras and fines instead of gossip, privacy behind villa walls, achieved credentials on a CV?
+- Now the puzzle. A country of this size still runs on "everyone knows everyone": a surname locates you, the diwaniya carries news faster than any app, and a traffic argument can end with "do you know whose son I am?"
+
+::: {.board}
+Is Kuwait today a Gesellschaft with Gemeinschaft inside it, or the reverse? Which rows of the table would you mark for each, and does the answer change by age, area, or nationality?
+:::
+
+<!-- ::: {.small} -->
+<!-- Instructor enrichment. Historical points are limited to the wall dates and the 1950s resettlement; the rest is a classification exercise using Schaefer's table. -->
+<!-- ::: -->
+
+## Lenski: Sociocultural Evolution and the Role of Technology {.smaller}
+
+- Gerhard Lenski (1924–2015) took a different view. Rather than two opposite types, he saw societies undergoing a process of change with a dominant pattern
+- **Sociocultural evolution** — long-term social trends resulting from the interplay of continuity, innovation, and selection (Nolan and Lenski 2015)
+- A society's level of **technology** is critical to how it is organized. **Technology** — cultural information about the ways in which the material resources of the environment may be used to satisfy human needs and desires
+- Technology does not completely determine a society's form, but a low level may limit how much it can depend on irrigation or complex machinery. As technology advances, a community evolves from **preindustrial** to **industrial** to **postindustrial**
+
+![](../../../assets/chapter_05_assets/lenski_stages_timeline.svg){fig-alt="Timeline of six stages: hunting-and-gathering, horticultural, agrarian, industrial, postindustrial, postmodern."}
+
+## Preindustrial Societies: Hunting-and-Gathering, Horticultural, Agrarian {.smaller}
+
+:::: {.columns}
+::: {.column width="69%"}
+- To categorize a preindustrial society, ask how it organizes its **economy**
+- **Hunting-and-gathering society** — people rely on whatever foods and fibers are readily available. Minimal technology; small, widely dispersed groups that move constantly in search of food; little division of labor. Groups consist almost entirely of relatives, so **kinship** is the source of authority and the family is central. Differentiation rests on ascribed statuses (gender, age, family); with scarce resources there is little material inequality. By the close of the 20th century such societies had virtually disappeared
+- **Horticultural society** — people plant seeds and crops rather than merely subsist on available foods. Emerged about **12,000 years ago**; much less nomadic; more emphasis on tools and household objects; crops cultivated with digging sticks or hoes (Wilford 1997)
+- **Agrarian society** — the most technologically advanced preindustrial form, emerging about **5,000 years ago**. Members still produce food, but the **plow** dramatically raises yields; the same fields can be farmed over generations, so larger settlements form. Still human and animal power. More defined roles (net repair, blacksmithing), more elaborate institutions, stronger property rights, and surpluses that allow statues, monuments, and art passed down the generations
+:::
+
+::: {.column width="31%"}
+![](../../../assets/chapter_05_assets/preindustrial_the_sower.jpg){fig-alt="Jean-François Millet's painting The Sower, showing a farmer scattering seed by hand across a field." width="100%"}
+
+<!-- ::: {.small} -->
+<!-- [*The Sower*, Jean-François Millet, 1850](https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_The_Sower_-_Google_Art_Project.jpg) · Public domain -->
+<!-- ::: -->
+:::
+::::
+
+## Industrial Societies {.smaller}
+
+:::: {.columns}
+::: {.column width="65%"}
+- The Industrial Revolution produced changes as significant as any political revolution
+- It took place largely in **England from 1760 to 1830**: a scientific revolution focused on applying nonanimal, mechanical power to labor tasks
+- **Industrial society** — a society that depends on mechanization to produce its goods and services. It relies on new inventions for agriculture and industry and on new energy sources such as steam
+- Many societies shifted irrevocably from an agrarian to an industrial base. An individual or family no longer made an entire product; **specialization** and manufacturing spread
+- Workers, generally men but also women and children, left family homesteads to work in central locations such as factories
+:::
+
+::: {.column width="35%"}
+![](../../../assets/chapter_05_assets/industrial_power_house_mechanic.jpg){fig-alt="Lewis Hine's work portrait of a mechanic leaning into a large steam pump with a wrench." width="100%"}
+
+<!-- ::: {.small} -->
+<!-- [*Power House Mechanic*, Lewis Hine, 1920](https://commons.wikimedia.org/wiki/File:Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg) · Public domain -->
+<!-- ::: -->
+:::
+::::
+
+## Postindustrial and Postmodern Societies {.smaller}
+
+:::: {.columns}
+::: {.column width="68%"}
+- Lenski at first paid little attention to how mature industrial societies change with even more advanced technology. Later research followed the shift from manufacturing to **service** economies
+- **Postindustrial society** — Daniel Bell's ([1973] 1999) term for a society whose economic system is engaged primarily in the processing and control of information. The main output is services; large numbers of people work in teaching, generating, and spreading ideas: advertising, public relations, human resources, computer information systems
+- Bell's outlook is **functionalist**: he saw organized working-class groups declining and interest groups on health, education, and the environment rising, with open competition among them reducing conflict and strengthening stability
+- Michael Harrington (1980), author of *The Other America*, replied from the **conflict** tradition: scientists, engineers, and economists do take part in major decisions, but not independently of the interests of the rich. Class conflict continues in postindustrial society
+- **Postmodern society** — a technologically sophisticated society that is preoccupied with consumer goods and media images (Lemert 2013). Goods and information are consumed on a mass scale, and culture crosses borders: reggae from Jamaica, sushi from Japan, clogs from Sweden, and online networks with no national boundaries
+:::
+
+::: {.column width="32%"}
+![](../../../assets/chapter_05_assets/iphoneduo.jpg){fig-alt="iPhone Duo." width="100%"}
+
+<!-- ::: {.small} -->
+<!-- [Photo by Cheng via Pexels](https://www.pexels.com/photo/picture-on-a-smart-phone-19744850/) -->
+<!-- ::: -->
+:::
+::::
+
+## Table 5-5: Stages of Sociocultural Evolution {.smaller}
+
+| Societal type | First appearance | Characteristics |
+|---|---|---|
+| **Hunting-and-gathering** | Beginning of human life | Nomadic; reliance on readily available food and fibers |
+| **Horticultural** | About 12,000 years ago | More settled; development of agriculture and limited technology |
+| **Agrarian** | About 5,000 years ago | Larger, more stable settlements; improved technology and increased crop yields |
+| **Industrial** | 1760–1850 | Reliance on mechanical power and new sources of energy; centralized workplaces; economic interdependence; formal education |
+| **Postindustrial** | 1960s | Reliance on services, especially the processing and control of information; expanded middle class |
+| **Postmodern** | Latter 1970s | High technology; mass consumption of consumer goods and media images; cross-cultural integration |
+
+## Box 5-5: Disney World as a Postmodern Theme Park {.smaller}
+
+:::: {.columns}
+::: {.column width="69%"}
+- Globally more than **157 million** people visit a Disney theme park each year; Disney operates the eight most visited amusement parks in the world. On three continents, the Magic Kingdom funnels arrivals through a quaint Main Street toward Cinderella's Castle
+- Behind the façade are endless opportunities to **shop**, in heavily air-conditioned stores and again at the exit of every attraction, tailored to what visitors have just seen. Museums worldwide now copy the practice
+- **Hyperconsumerism** — Jean Baudrillard's term for the practice of buying more than we need or want, and often more than we can afford. Consumption has become a means of **self-identification**: conversations open with "Where did you get that stroller?" or "Who are you wearing?"
+- **Time-space compression**: a child clutching a toy bear from the 1920s reserves a ticket to New Orleans in the 1850s, after a boat ride through the 1930s on the Congo, Zambezi, Amazon, and Irrawaddy
+- **Globalism** stripped of foreign trappings: Cinderella and Snow White are no longer German folklore but "Disney characters"; Pinocchio is no longer recognizably Italian. Next door, Epcot's World Showcase takes the opposite approach, a managed, simplified rendering of ten cultures with no Starbucks in "China" (Baudrillard [1970] 1998; Bryman 1995; Fjellman 1992; Themed Entertainment Association 2019)
+:::
+
+::: {.column width="31%"}
+![](../../../assets/chapter_05_assets/disney_cinderella_castle.jpg){fig-alt="Cinderella Castle at Walt Disney World's Magic Kingdom, with crowds gathered in front beneath a clear blue sky." width="100%"}
+
+<!-- ::: {.small} -->
+<!-- [Photo by Jedi94 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cinderella_Castle,_Magic_Kingdom_Walt_Disney_World_(2024).jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) -->
+<!-- ::: -->
+:::
+::::
+
+## The Avenues Read as a Postmodern Space
+
+- Walk through The Avenues with Box 5-5 in mind. A "Grand Avenue" built to resemble a European shopping street; a "Souk" district with traditional architecture, indoors and air-conditioned; a "SoKu" named after a New York neighborhood; a district called "Prestige"
+- **Time-space compression:** an old souq rebuilt inside a 21st-century mall, a European boulevard a corridor away from a Gulf courtyard
+- **Globalism without foreign trappings:** the same global brands in each district, dressed in a different façade
+- **Hyperconsumerism:** shops at every turn; the district names themselves are consumption identities
+
+<!-- ::: {.board} -->
+<!-- In the last 24 hours, what evidence of hyperconsumerism have you witnessed? How often do you find yourself moving across time or space in one afternoon, in one way or another? -->
+<!-- ::: -->
+
+<!-- ::: {.small} -->
+<!-- Instructor enrichment applying Baudrillard and Box 5-5; the district names are as marketed by the mall. -->
+<!-- ::: -->
+
+## Durkheim, Tönnies, and Lenski Compared
+
+::: {.center}
+![](../../../assets/chapter_05_assets/three_visions_compared.svg){fig-alt="Three cards comparing Durkheim (division of labor), Tönnies (self-interest versus group), and Lenski (technology); only Lenski's types do not coexist in one society."}
+:::
+
+::: {.small}
+Lenski's approach is historical: one would not expect hunters and gatherers alongside a postmodern culture in a single society. Durkheim and Tönnies allow both community types to coexist, as a rural New Hampshire town 100 miles from Boston is linked to the city by information technology. Tönnies emphasized self-interest versus the group; Durkheim emphasized the division of labor. Macro level: structure grows more complex and new institutions take over functions once performed by the family. Micro level: multiple roles, more reliance on networks than kinship, relationships that are more impersonal, transient, and fragmented.
+:::
+
+## Thinking Critically: Kuwait on Lenski's Timeline
+
+::: {.board}
+Schaefer asks about personal experience of a nonindustrial society. Kuwait offers a nearer case: a maritime town of pearling, fishing, and dhow trade became an oil-industrial state within one generation and now plans a service economy.
+:::
+
+- Which rows of Table 5-5 fit Kuwait in 1930, in 1980, and today? Which do not fit at all, and what does the misfit teach about Lenski's model?
+- Which functions did the family hand to new institutions after oil: schooling, health care, housing, employment, care of elders?
+- Schaefer's micro-level prediction is that relationships become more impersonal, transient, and fragmented. Ask your grandparents whether that matches their experience. Ask yourself whether it matches yours
+
+<!-- ::: {.small} -->
+<!-- Instructor enrichment; the pre-oil description is general and no dates beyond the oil-era transition are asserted. -->
+<!-- ::: -->
+
+<!-- # Social Policy and Organizations: The State of the Unions Worldwide {background-color="#1B2A4A"} -->
+
+<!-- ::: {.takeaway} -->
+<!-- Unions were a response to impersonal, large-scale, alienating organizations. Half a century of change in the economy has shrunk them almost everywhere, and the chapter's concepts explain why. -->
+<!-- ::: -->
+
+<!-- ## Looking at the Issue: Union Membership Has Fallen for Decades {.smaller} -->
+
+<!-- - How many people do you know who belong to a labor union? Fewer than someone could name 50 years ago -->
+<!-- - In 1954 unions represented **39 percent** of U.S. private-sector workers; in 2020 only **10.3 percent**, the lowest share in more than 70 years. By state, unionization ranged from 25.3 percent in New York to 3.9 percent in South Carolina (Figure 5-3) -->
+<!-- - **Labor union** — organized workers who share either the same skill (electronics) or the same employer (postal employees) -->
+<!-- - Unions emerged during the Industrial Revolution in England in the 1700s, as workers banded together to extract concessions, safer conditions and a shorter workweek, and to protect their positions -->
+<!-- - Historically unions also practiced what we now call discrimination, limiting entry by gender, race, ethnicity, citizenship, age, and arbitrary skill tests. Today there is less of this; in some industries unions help keep Black workers' wages competitive with whites' (Rosenfeld and Kleykamp 2012) -->
+
+<!-- ## Figure 5-4: Labor Union Membership Worldwide -->
+
+<!-- ::: {.center} -->
+<!-- ![](figures/figure_5_4_union_membership.svg){fig-alt="Horizontal bars: Iceland 90 percent, Belgium 54, Italy 34, Canada 28, Japan 17, Mexico 13, United States 10, France 8."} -->
+<!-- ::: -->
+
+<!-- ::: {.question-box} -->
+<!-- Before the next slide: France is famous for strikes and has the lowest membership on this chart. Iceland has 90 percent. What would you need to know about each country's structure to explain the gap? -->
+<!-- ::: -->
+
+<!-- ## Six Reasons for the Decline in Union Membership {.smaller} -->
+
+<!-- 1. **Changes in the type of industry.** Manufacturing jobs, the traditional heart of unions, gave way to postindustrial service jobs -->
+<!-- 2. **Growth in part-time jobs.** In 1968 fewer than 14 percent of U.S. employees were part-timers; by 2019, more than 17 percent -->
+<!-- 3. **The legal system.** The United States has not made organizing and bargaining easy; 2018 legal challenges limited unions' right to collect dues from nonmembers they represent -->
+<!-- 4. **Globalization.** The threat of jobs leaving the country undercuts organizing at home; some say union wage demands themselves pushed jobs to low-wage countries where unions barely exist -->
+<!-- 5. **Employer offensives.** Increasingly hostile employers use the courts to block union representation -->
+<!-- 6. **Automation.** Driverless trucks and cars and drones directly remove jobs long held by union members -->
+
+<!-- ::: {.small} -->
+<!-- Around the world, tougher negotiations between large corporations and workers' representatives have rolled back the bargaining power of many unions. -->
+<!-- ::: -->
+
+<!-- ## Applying Sociology: Four Readings of the Unions {.smaller} -->
+
+<!-- - **Marxists and functionalists** alike see unions as a logical response to impersonal, large-scale, formal, often alienating organizations, especially in manufacturing with a sharp division of labor. As manufacturing declined, unions had to look elsewhere for growth -->
+<!-- - **Michels's iron law** applies: unions have become increasingly bureaucratized under a sometimes self-serving leadership. **Conflict theorists** add that the longer union leaders hold office, the less responsive they are to the rank and file and the more concerned with their own power. Leadership can still change, especially in smaller unions and in unions whose membership composition shifts -->
+<!-- - **Interactionists** note unions' growing reliance on social media, which advantages women, who engage with social media at least as much as men and were historically less welcome at the face-to-face meetings unions once relied on (Thornthwaite et al. 2018) -->
+<!-- - Declining private-sector membership is linked to the widening gap between hourly wages and executive compensation: as bargaining power fell, employers offered union workers less, and nonunion firms that used to match union pay stopped feeling the need (Rosenfeld 2014) -->
+
+<!-- ## Initiating Policy: Unions in the United States and Europe {.smaller} -->
+
+<!-- - U.S. law grants workers the right to self-organize, but the United States is **unique among industrial democracies** in allowing employers to actively oppose their employees' decision to organize -->
+<!-- - The recession that began in 2009 compounded employer opposition; state and local governments facing deficits moved to shrink pensions won through collective bargaining, and in some states to curtail bargaining rights themselves -->
+<!-- - A 2018 Supreme Court decision lets government workers opt out of paying dues even when they receive union representation; organizing among public employees, especially teachers, has not offset the lost dues (Maher 2019) -->
+<!-- - In a rare pro-union move, in 2015 the National Labor Relations Board let fast-food workers negotiate with corporate headquarters even when a franchise owner runs their outlet (Schreiber and Strom 2015) -->
+<!-- - The coronavirus pandemic, with its layoffs and questions about job security, benefits, and safety, renewed interest in joining unions in the United States and other industrial nations, even as unions themselves took economic hits (Roosevelt 2020; Wallender 2020) -->
+<!-- - In Europe unions play a major role in elections; one of Britain's major parties is the **Labour Party**. International trade unions speak out on common issues and have condemned "corporate grand theft," but despite Marx and Engels's call for the workers of all countries to unite, **no global union has emerged** -->
+
+<!-- ## Unions in Kuwait: Structure Shapes Who Can Organize {.smaller} -->
+
+<!-- - The Kuwait Trade Union Federation was founded in **1968**, and unions in the oil sector and the public sector have a long history -->
+<!-- - In **April 2016** thousands of oil-sector workers struck for three days against a proposed public-sector pay reform, cutting output sharply before the strike was called off (Reuters 2016). Read that with Schaefer's list: a strategic industry, a concentrated workforce, and the state as employer are the opposite of the conditions that weakened unions elsewhere -->
+<!-- - The labour market is **segmented**: most citizens work in government, most private-sector workers are expatriates, and the rights to found and lead unions are reserved by law for Kuwaiti workers, so a large share of the workforce sits outside union structures altogether -->
+
+<!-- ::: {.question-box} -->
+<!-- Apply the chapter rather than judging it: which of the five elements of social structure, status, role, group, network, institution, decides who can organize here? Is "union member" an achieved status for everyone in Kuwait? -->
+<!-- ::: -->
+
+<!-- <!-- ::: {.small} --> -->
+<!-- <!-- Instructor enrichment, factual and non-accusatory; the legal detail should be checked against the current text of the private-sector labour law before it is taught as fact. Let students raise the expatriate labour market; do not require it. --> -->
+<!-- <!-- ::: --> -->
+
+<!-- ## Take the Issue with You: Essential Workers and the Right to Organize -->
+
+<!-- ::: {.board} -->
+<!-- Why should employees who provide essential public services, such as nurses, teachers, and police officers, be allowed to organize into a union? What is union membership worth to them if they cannot strike? -->
+<!-- ::: -->
+
+<!-- - What unions, if any, are represented on this campus? Have you been aware of their activity, or of any opposition to it? -->
+<!-- - Should officials be allowed to reduce government workers' retirement benefits and take away their right to collective bargaining? Connect to Chapter 4: Kuwait's pension rules are set by the state, and the IMF estimated the fund's gap at about 45 percent of GDP -->
+
+# Social Structure in Your Life and Your Field {background-color="#1B2A4A"}
+
+::: {.takeaway}
+What looked like individual temperament, a cruel guard, a lucky job seeker, a cousin who got the file moved, turns out to follow patterns in statuses, roles, groups, networks, and institutions. You now have the names.
+:::
+
+## Zimbardo's Prison Explained with the Chapter's Concepts {.smaller}
+
+::: {.board}
+Use the vocabulary to explain what happened in six days to ordinary students.
+:::
+
+- **Status:** "guard" and "prisoner" were assigned at random, then treated as if ascribed: numbers, uniforms, sunglasses
+- **Role and definition of the situation:** everyone knew what a guard "does," and acted on the meaning (Thomas)
+- **In-group and out-group:** "we" the guards, "they" the prisoners; in-group virtues (control) became out-group vices (defiance)
+- **Secondary group and impersonality:** no names, no eye contact, Weber's *sine ira et studio* taken to its limit
+- **Total institution and resocialization** from Chapter 4: one place, one authority, all activities scheduled
+- Now argue two ways. **Functionalist:** clear roles let a prison run. **Conflict:** who gained power, and what did the structure let them do with it?
+
+<!-- ## Sociology in Your Major -->
+
+<!-- ::: {.center} -->
+<!-- ![](figures/sociology_in_majors_ch05.svg){fig-alt="Four cards applying social structure to medicine, engineering, business, and computer science."} -->
+<!-- ::: -->
+
+<!-- ::: {.small} -->
+<!-- Medicine: a clinician's role strain between throughput and compassion; the hospital as a bureaucracy whose silo effect appears at every handoff. Engineering: division of labor builds expertise and trained incapacity at the same time; safety failures live in the gaps between silos. Business: scientific management versus human relations is still the live debate in every management course; Michels and Peter explain organizations you will join. Computer science: a social network is a graph, the friendship paradox is a property of that graph, and platforms are Gesellschaft structures engineered to feel like a Gemeinschaft.  -->
+<!-- ::: -->
+
+## Before You Leave {.smaller}
+
+- **Social interaction** is interpreted, not automatic (Blumer), and the power to define the situation is unequal (Thomas). Social reality is constructed in interaction, inside a **social structure** of predictable relationships
+- Five elements: **statuses** (ascribed, achieved, master), **roles** (conflict, strain, exit), **groups** (primary and secondary, in- and out-, reference, coalitions), **social networks**, and **social institutions**, which functionalists, conflict theorists, and interactionists read differently
+- **Formal organizations** run on Weber's five characteristics of bureaucracy, each with a dysfunction: trained incapacity, goal displacement, alienation, the Peter principle, and Michels's iron law of oligarchy
+- **Durkheim** (mechanical to organic solidarity), **Tönnies** (Gemeinschaft to Gesellschaft), and **Lenski** (sociocultural evolution by technology) give three ways to compare simpler and modern societies
+<!-- - Labor unions rose with industrial organization and declined with the shift to services, part-time work, globalization, and automation -->
+
+::: {.small}
+Next: Chapter 6, Mass Media and Social Media.
+:::
+
