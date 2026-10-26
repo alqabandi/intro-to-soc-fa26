@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-labelledby="title desc">
+  <title id="title">McLuhan's global village and Gitlin's global torrent</title>
+  <desc id="desc">Two cards: McLuhan predicted a global village in which distance is no longer a barrier; Gitlin prefers global torrent, because the media permeate every aspect of everyday life. A banner notes that not all countries are equally connected.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#1B2A4A" flood-opacity=".12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1B2A4A" stroke="none"/>
+    </marker>
+    <marker id="arrowstart" markerWidth="12" markerHeight="12" refX="2" refY="6" orient="auto">
+      <path d="M12,0 L0,6 L12,12 z" fill="#1B2A4A" stroke="none"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="590" fill="#FCFCFA"/>
+  <text x="600" y="56" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1B2A4A">TWO METAPHORS FOR THE MEDIA’S GLOBAL REACH</text><rect x="60" y="100" width="500" height="360" rx="24" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="2" filter="url(#shadow)"/><rect x="60" y="100" width="500" height="10" rx="5" fill="#147D79" stroke="none" stroke-width="0" /><text x="310.0" y="158" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1B2A4A">McLuhan: global village</text><text x="310.0" y="205" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" fill="#25313D"><tspan x="310.0" dy="0">Predicted nearly 60 years ago</tspan><tspan x="310.0" dy="30">(McLuhan 1964, 1967)</tspan><tspan x="310.0" dy="30"> </tspan><tspan x="310.0" dy="30">Physical distance is no longer</tspan><tspan x="310.0" dy="30">a barrier; instant messaging</tspan><tspan x="310.0" dy="30">crosses the world</tspan></text><rect x="640" y="100" width="500" height="360" rx="24" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="2" filter="url(#shadow)"/><rect x="640" y="100" width="500" height="10" rx="5" fill="#A47712" stroke="none" stroke-width="0" /><text x="890.0" y="158" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1B2A4A">Gitlin: global torrent</text><text x="890.0" y="205" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" fill="#25313D"><tspan x="890.0" dy="0">A more apt metaphor (Gitlin 2002)</tspan><tspan x="890.0" dy="30"> </tspan><tspan x="890.0" dy="30">The media permeate all aspects</tspan><tspan x="890.0" dy="30">of everyday life: ads on airport</tspan><tspan x="890.0" dy="30">baggage carriers, logos worn as</tspan><tspan x="890.0" dy="30">loyally as a team’s insignia</tspan></text><rect x="190.0" y="500" width="820" height="58" rx="18" fill="#EEF2F7" stroke="#1B2A4A" stroke-width="2" /><text x="600" y="539" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1B2A4A">Not all countries are equally connected (Figure 6-4).</text>
+</svg>
