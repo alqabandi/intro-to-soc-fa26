@@ -85,7 +85,7 @@ Look at the hardest conversation on the list. Which channel did you choose for i
 - Through the media we expand our understanding of people and events beyond what we experience in person, and we learn about other cultures, lifestyles, and technologies
 - Sociologists ask two key questions: how do the media affect our **social institutions**, and how do they influence our **social behavior**?
 
-## The Social Impact of the Media Shows Up Everywhere
+## The Social Impact of the Media Shows Up Everywhere {.small}
 
 :::: {.columns}
 ::: {.column width="64%"}
