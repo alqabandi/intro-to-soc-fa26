@@ -1,0 +1,1086 @@
+---
+title: "Deviance, Crime, and Social Control"
+subtitle: "Dr. Fatima Alqabandi · Kuwait University"
+author: "Chapter 7 · Based on Richard T. Schaefer, *Sociology: A Brief Introduction*, 14th ed."
+output-file: ch07-deviance.html
+format:
+  revealjs:
+    theme: [default, ch07_ku_sociology_style.scss]
+    embed-resources: true
+    slide-number: true
+    center-title-slide: true
+    transition: fade
+    controls: false
+    progress: true
+    width: 1500
+    height: 1000
+    title-slide-attributes:
+      data-background-color: "#1B2A4A"
+---
+
+# Peter Moskos: A Sociologist in the Baltimore Police {background-color="#1B2A4A"}
+
+::: {.takeaway}
+To study crime firsthand, a sociologist joined the police. His patrol raises the questions in this chapter: who breaks rules, who enforces them, and who gets counted.
+:::
+
+## What Peter Moskos Learned in 20 Months as a Baltimore Police Officer
+
+:::: {.columns}
+::: {.column width="72%"}
+- Sociologist **Peter Moskos** entered Baltimore's police academy to study policing. A new commissioner challenged him: "Why don't you want to be a cop for real?" So he became one
+- For **20 months** he patrolled the Eastern District, answering everything from disorderly conduct to a 12-person shooting. His book *Cop in the Hood* (2008) is an **ethnographic study** (Chapter 2)
+- His central point: "Police don't deal with a random cross-section of society." The people officers meet are not typical of the neighborhood, and "the noncriminal public, the routine, and the working folks all get short shrift"
+:::
+
+::: {.column width="28%"}
+![](../../../assets/chapter_07_assets/moskos_cop_in_the_hood_cover.jpg){fig-alt="Cover of Cop in the Hood: My Year Policing Baltimore's Eastern District, by Peter Moskos." style="max-height: 420px !important;"}
+
+::: {.small}
+Princeton University Press, 2008.
+:::
+:::
+::::
+
+::: {.question-box .smaller}
+An officer's picture of a neighborhood comes from the calls the officer answers. What would that picture leave out of your own neighborhood?
+:::
+
+<!-- Filtered per course rules: Moskos's list of ethnically identified businesses, and the #BlackLivesMatter survey figures from Schaefer's chapter opener. -->
+
+## Conformity or Deviance Depends on the Reference Group
+
+:::: {.columns}
+::: {.column width="62%"}
+- **Binge drinking** violates a school's standards and endangers health, so it is **deviant**. To a peer group that expects it, it is **conforming**
+- "Conformity" can mean mindless imitation, like executives all in gray suits, or being a cooperative "team player"
+- A police officer who uses excessive force may be seen by some colleagues as someone "who has their back," and by others as making public safety harder
+:::
+
+::: {.column width="38%"}
+![](../../../assets/chapter_07_assets/car_drifting.jpg){fig-alt="A blue car drifting on a track inside clouds of white and pink tyre smoke." style="max-height: 400px !important;"}
+
+::: {.small}
+A car drifting in tyre smoke. Wikimedia Commons, CC0.
+:::
+:::
+::::
+
+::: {.question-box}
+A young man drifts a car in an empty lot while his friends film it. To the friends, is he deviant or conforming? To the traffic police? To his mother?
+:::
+
+<!-- Instructor enrichment: the drifting (tafheet) question. -->
+
+<!-- ## What This Chapter Asks -->
+
+<!-- - What is **deviance**, and what are its consequences? -->
+<!-- - What causes **crime**? -->
+<!-- - How does society control people's behavior, convincing us to conform to both unwritten rules and formal **laws**? -->
+
+<!-- ::: {.small} -->
+<!-- Deviance and stigma, then conformity and obedience, informal and formal social control, and the law. Next, five perspectives on why deviance happens. Then crime: six types, how it is measured, and how rates compare across countries. The social policy section considers the death penalty. -->
+<!-- ::: -->
+
+# What Is Deviance? {background-color="#1B2A4A"}
+
+::: {.takeaway}
+Sociologists use *deviance* for any violation of a group's standards. What counts as deviant depends on the group, the era, and who has the power to define it.
+:::
+
+## Deviance Is Behavior That Violates a Group's Standards
+
+- **Deviance** — behavior that violates the standards of conduct or expectations of a group or society. To sociologists it does not mean perversion or depravity
+- Being late for class is deviant; so is wearing jeans to a formal wedding. By this definition, **we are all deviant from time to time** (Best 2004)
+- Deviance goes far beyond crime. An official who takes a bribe and a student who cuts class have both broken norms
+- Deviance is **not always negative**:
+  - A manager who turns down a relative's *wasta* request and hires the best-qualified applicant is deviating from what the family expects
+  - A couple who choose a small, simple wedding when relatives expect a lavish one are deviating from family norms
+  - A student who refuses to share answers in the class group chat during an online quiz is deviating from the group's norm
+  - A police officer who blows the whistle on corruption or brutality in the department is deviating from its norms too
+
+<!-- Instructor enrichment: the three wasta / wedding / group-chat sub-bullets replace Schaefer's exclusive-club example. Keep one and comment out the other two. The police whistleblower is Schaefer's. -->
+
+<!-- ::: {.question-box} -->
+<!-- Schaefer asks: if your friends or teammates violate a social norm, is their behavior deviant? At what point does deviance begin? -->
+<!-- ::: -->
+
+## Deviance Is Socially Defined and Changes over Time
+
+:::: {.columns}
+::: {.column width="66%"}
+- What counts as deviant is set by **social definition**, in a particular society at a particular time
+- Usually the people with the most **status and power** decide what is acceptable
+- **Smoking:** doctors warned about tobacco from 1964, yet smoking stayed acceptable for decades, partly because of the power of tobacco farmers and manufacturers. A long public health campaign made it more deviant
+- **Tattoos:** long banned for U.S. military recruits. The Navy lifted its ban in 2012 and the Army in 2015, with limits on visibility and content
+:::
+
+::: {.column width="34%"}
+![](../../../assets/chapter_07_assets/camel_more_doctors_ad_1948.jpg){fig-alt="A 1948 magazine advertisement for Camel cigarettes featuring a ballet dancer, with the slogan More doctors smoke Camels than any other cigarette." style="max-height: 640px !important;"}
+
+::: {.small}
+Camel advertisement, 1948: "More doctors smoke Camels." Internet Archive Book Images.
+:::
+:::
+::::
+<!-- - ***Reefer Madness*** (1936) was made to teach parents that marijuana was "public enemy no. 1." It became a midnight cult classic, and in the 1980s it was shown on college campuses to raise money for initiatives to legalize marijuana (E. Schaefer 1999) -->
+
+## Deviant Where, When, and to Whom? Sort the Cases
+
+::: {.board}
+For each act, name a setting where it is ordinary and a setting where it is deviant. Then name who decides.
+:::
+
+- Eating a sandwich on a public street at noon, during the daylight hours of Ramadan
+- Answering a phone call in a lecture
+- Wearing gym clothes to a wedding
+- Smoking inside a café in 1995, and today
+- Using AI to brainstorm an essay with disclosure, and using AI during an exam
+- Disagreeing openly with a senior colleague in a meeting
+
+<!-- ::: {.fragment .question-box} -->
+<!-- In which cases did the act stay the same while the rule changed? In which did only the setting change? Who had the authority to apply the label? -->
+<!-- ::: -->
+
+<!-- Instructor enrichment. Eating in public during Ramadan fasting hours is a legal offense in Kuwait; verify the current penalty before stating it. The AI case comes from the syllabus project prompts. -->
+
+## Goffman's Concept of Stigma {.smaller}
+
+:::: {.columns}
+::: {.column width="74%"}
+- Some people are cast in **negative social roles** because of physical or behavioral traits. Once labeled, they struggle to present a positive image and may lose self-esteem
+- **Stigma** — Erving Goffman's term for the labels society uses to devalue members of certain social groups, such as "short people" or "redheads" (Goffman 1963)
+<!-- - After the 2012 shooting at Sandy Hook Elementary School, rumors that the shooter had an untreated mental disorder led many people to stigmatize **all** people with mental illness as potentially violent -->
+<!-- - The evidence shows the opposite. The vast majority of people with psychiatric disorders do not commit violent acts, and only **4 percent** of violent crimes in the United States can be attributed to people with mental illness (Lu and Temple 2019; R. Friedman 2012) -->
+- In many families, a visit to a psychiatrist is kept quiet for fear the label will follow the patient, and even the patient's siblings, into marriage proposals. The stigma covers a whole category of people, whatever their condition
+- In 2020, people who tested positive for COVID-19, and sometimes their whole families, were avoided even after they recovered. Schaefer lists "COVID-19 survivor" among the labels that can stick to a person
+- Which jobs carried a stigma for young Kuwaitis a generation ago, such as barista or shop cashier? Which still do? The work stayed the same; did the label?
+:::
+
+::: {.column width="26%"}
+![](../../../assets/chapter_07_assets/goffman_stigma_cover.jpg){fig-alt="Cover of Stigma: Notes on the Management of Spoiled Identity, by Erving Goffman." style="max-height: 400px !important;"}
+
+::: {.small}
+Goffman, *Stigma* (1963).
+:::
+:::
+::::
+
+<!-- Instructor enrichment: the psychiatrist, COVID-19, and jobs bullets replace the Sandy Hook example. Keep one and comment out the other two. Only the "COVID-19 survivor" label is from Schaefer; the other two are general observations, not research findings, so present them as prompts for discussion. -->
+
+<!-- ## Stigma, Appearance, and the Beauty Myth {.smaller} -->
+
+<!-- - In the United States and many other cultures, unrealistic standards of appearance place a huge strain on people, especially women and girls -->
+<!-- - **Beauty myth** — journalist Naomi Wolf's (1992) term for an exaggerated ideal of beauty, beyond the reach of all but a few women, which has unfortunate consequences. To shed a "deviant" image, many women and girls become consumed with adjusting their appearance. Yet what is deviant in one culture may be celebrated in another -->
+<!-- - People regarded as ugly or obese may not advance as rapidly as their abilities permit. Both overweight and anorexic people are assumed to be weak in character, slaves to their appetites or to media images. Goffman calls this a **"spoiled identity"** -->
+<!-- - What counts as disfigurement is a matter of interpretation. Many of the **18 million** cosmetic procedures done each year in the United States are performed on women who would be defined objectively as having a normal appearance -->
+<!-- - Men lack confidence in their appearance too: the number of males choosing cosmetic procedures has risen sharply (American Society of Plastic Surgeons 2019) -->
+
+<!-- ::: {.question-box} -->
+<!-- Cosmetic clinics advertise heavily on Instagram here, often with before-and-after photos. Whose standard defines a "normal" face or body: family, influencers, the clinics, or the people in the posts? -->
+<!-- ::: -->
+
+<!-- Instructor enrichment: the clinic question. Discussion in general terms; no one comments on anyone's appearance. -->
+
+## Prestige Symbols, Stigma Symbols, and Labels That Stick
+
+:::: {.columns}
+::: {.column width="64%"}
+- Labels such as "ex-convict," "recovering alcoholic," or "ex-mental patient" can stick for life, long after the behavior has stopped
+- Goffman: a **prestige symbol** draws attention to a positive part of one's identity, such as a wedding band. A **stigma symbol** discredits it, such as a criminal conviction
+- Stigma symbols are not always visible, but they can become public through records or social media
+- Some deviance stigmatizes a person; some carries no real penalty
+:::
+
+::: {.column width="36%"}
+![](../../../assets/chapter_07_assets/wedding_ring.jpg){fig-alt="A groom placing a wedding ring on the bride's finger." style="max-height: 460px !important;"}
+
+::: {.small}
+A wedding band, Goffman's example of a prestige symbol. Petar Milošević, CC BY-SA 4.0.
+:::
+:::
+::::
+
+<!-- ::: {.question-box} -->
+<!-- Prestige symbol or stigma symbol? A white coat; a graduation ring; the criminal record certificate a job application asks for; a hospital wristband; a car plate with a very low number. When could the same item switch sides? -->
+<!-- ::: -->
+
+<!-- Instructor enrichment: the classification question. -->
+
+## Technology Redefines the Norms of Online Behavior
+
+- New technology creates situations with no norms yet. Early internet anonymity made harsh comments and chat-room hogging common, and people now call for formal rules (Chapter 6)
+- Some deviant uses of technology are crimes, though not everyone sees them that way. Downloading copyrighted music is **widely accepted**, and despite industry campaigns, **no social stigma** attaches to it
+
+::: {.takeaway}
+Deviance is a complex concept. Sometimes it is trivial, sometimes profoundly harmful. Sometimes society accepts it, and sometimes society soundly rejects it.
+:::
+
+## Which Online Behaviors Carry a Stigma? Rank the Cases
+
+::: {.board}
+Rank these from "nobody cares" to "people would cut you off." Then mark the ones that are illegal.
+:::
+
+1. Streaming a football match through an unofficial link
+2. Sharing a friend's password for a streaming service
+3. Screenshotting a private chat and posting it to a group
+4. Leaving a family WhatsApp group without a word
+5. Posting a fake five-star review for a cousin's restaurant
+6. Reading a message and not replying for three days
+
+<!-- ::: {.fragment .question-box} -->
+<!-- Does your stigma ranking match your legality ranking? Where they disagree, which one do people follow? -->
+<!-- ::: -->
+
+<!-- Instructor enrichment. -->
+
+# Social Control {background-color="#1B2A4A"}
+
+::: {.takeaway}
+Every group has ways to keep its members in line, from a raised eyebrow to a prison sentence. Most of the time we comply without noticing.
+:::
+
+## Social Control Operates at Every Level of Society
+
+- **Social control** — the techniques and strategies for preventing deviant human behavior in any society
+- Laws, dress codes, organizational bylaws, course requirements, and the rules of sports and games all express social norms (Chapter 3)
+
+::: {.center}
+![](../../../assets/chapter_07_assets/social_control_levels.svg){fig-alt="Five cards from small groups to the state: in the family we obey our parents because they are our parents; peer groups introduce informal norms such as dress codes; colleges establish standards for students; organizations impose a formal system of rules and regulations; government legislates and enforces social norms. Sanctions run from informal to formal."}
+:::
+
+## Sanctions and Competing Messages About How to Behave
+
+:::: {.columns}
+::: {.column width="55%"}
+- Most of us follow basic norms without thinking: we obey police officers and move to the back of the elevator. That is effective **socialization**
+- **Sanctions** — penalties and rewards for conduct concerning a social norm. They can be **informal**, such as ridicule, or **formal**, such as fines and jail
+- People often get **competing messages**: the law says one thing, friends or co-workers encourage another
+- The recent changes and increased enforcement of traffic laws in Kuwait.
+:::
+
+::: {.column width="45%"}
+![](../../../assets/chapter_07_assets/kuwait_wheel_clamps_arabtimes_2026.jpg){fig-alt="Three photos of cars fitted with orange wheel clamps: a white sedan, a red SUV, and two cars parked along the side of a residential street in Kuwait." style="max-height: 400px !important;"}
+
+::: {.small}
+Clamped cars on residential streets in Kuwait, October 2026.
+:::
+:::
+::::
+
+<!-- ::: {.question-box} -->
+<!-- The law says no phone while driving. Your group chat expects a reply within two minutes. Which message wins on the Gulf Road at 5 p.m.? -->
+<!-- ::: -->
+
+<!-- Filtered per course rules: one category omitted from Schaefer's list of anti-discrimination laws. Instructor enrichment: the driving question. -->
+
+## Functionalist and Conflict Views of Social Control
+
+:::: {.columns}
+::: {.column width="55%"}
+- **Functionalists:** a society could not function if large numbers of people defied its norms
+- **Conflict theorists:** the successful functioning of a society consistently benefits the powerful at others' expense
+- Their evidence: in the United States, resisting norms was necessary to win independence, end slavery, win women the vote, and secure civil rights
+:::
+
+::: {.column width="45%"}
+![](../../../assets/chapter_07_assets/suffrage_procession_1913.jpg){fig-alt="The opening of the 1913 Woman Suffrage Procession in Washington, D.C., with marchers, banners, and a woman on horseback leading the parade." style="max-height: 360px !important;"}
+
+::: {.small}
+Woman Suffrage Procession, Washington, D.C., 1913. U.S. National Archives, public domain.
+:::
+:::
+::::
+
+<!-- ::: {.question-box} -->
+<!-- Name a change, in Kuwait or anywhere, that began when some people refused to follow a norm. Were they deviant at the time? Are they deviant now? -->
+<!-- ::: -->
+
+## Milgram Distinguished Conformity from Obedience
+
+:::: {.columns}
+::: {.column width="55%"}
+- **Conformity** — going along with peers, people of our own status who have no special right to direct our behavior (Milgram 1975)
+- **Obedience** — compliance with higher authorities in a hierarchical structure
+- A military recruit **conforms** to other recruits' habits and language, and **obeys** superior officers
+:::
+
+::: {.column width="45%"}
+![](../../../assets/chapter_07_assets/recruits_formation.jpg){fig-alt="Four training instructors in campaign hats stand facing a formation of recruits." style="max-height: 400px !important;"}
+
+::: {.small}
+Recruits in formation facing their instructors. Michael Tolzmann, U.S. Air Force, public domain.
+:::
+:::
+::::
+
+<!-- ::: {.question-box} -->
+<!-- A first-year medical student starts talking about patients the way older students do. On rounds, the same student follows a consultant's instruction. Which is conformity, and which is obedience? -->
+<!-- ::: -->
+
+<!-- Schaefer's example is "students will conform to the drinking behavior of their peers"; the slide generalizes it. -->
+
+## The Milgram Experiment: Teachers, Learners, and a Shock Generator
+
+:::: {.columns}
+::: {.column width="60%"}
+- Milgram recruited ordinary people in New Haven, from postal clerks to engineers, for a Yale study of the effects of **punishment on learning**
+- An experimenter in a gray technician's coat ran a rigged draw: the real subject was always the "**teacher**," and Milgram's associate played the "**learner**"
+- The teacher sat at a "shock generator" with **30** switches from **15** to **450** volts and was told to raise the voltage after every wrong answer
+- **The learner received no shocks.** The teacher did not know that
+:::
+
+::: {.column width="40%"}
+![](../../../assets/chapter_07_assets/milgram_newspaper_ad.png){fig-alt="Milgram's newspaper advertisement: We will pay you $4.00 for one hour of your time. Persons needed for a study of memory. It lists factory workers, city employees, laborers, barbers, businessmen, clerks, professional people, telephone workers, construction workers, salespeople, and white-collar workers." style="max-height: 380px !important;"}
+
+![](../../../assets/chapter_07_assets/milgram_shock_generator_akron.jpg){fig-alt="The original shock generator: a gray panel with a row of 30 lever switches labeled from slight shock to danger, severe shock." style="max-height: 200px !important;"}
+
+::: {.small}
+Milgram's recruitment ad and the original shock generator.
+:::
+:::
+::::
+
+## Predict: How Many Teachers Obeyed to the End? {.smaller}
+
+::: {.center}
+![](../../../assets/chapter_07_assets/milgram_shock_board.svg){fig-alt="A strip of 30 switches from 15 to 450 volts. At 45 volts every teacher received a sample shock; at 150 volts the learner cried out, Get me out of here; at 270 volts he screamed in agony; at 350 volts he fell silent; 450 volts was the maximum. The learner received no shocks, and the experimenter insisted the teacher continue."}
+:::
+
+::: {.question-box}
+Out of 100 ordinary people in the teacher's chair, how many would you predict become "obedient subjects"?
+:::
+
+::: {.fragment}
+- A sample of **psychiatrists** predicted that virtually all subjects would refuse. Only a "pathological fringe" of **less than 2 percent** would continue to the maximum level
+- In fact, **almost two-thirds** of participants fell into the category of "obedient subjects" (Milgram 1975:19–23)
+:::
+
+## Why Did Milgram's Subjects Obey?
+
+- The subjects were not unusually sadistic. Few seemed to enjoy giving the shocks
+- Milgram pointed to the experimenter's **social role**. We are used to obeying **impersonal authority figures** marked by a title (professor, doctor) or a uniform (the technician's coat)
+- Subjects **shifted responsibility** to the authority: "If it were up to me, I would not have administered shocks"
+
+::: {.fragment}
+- **Would people still obey today?** In 2006 **Jerry Burger** repeated part of the study with undergraduates and found **70 percent** full obedience, not significantly different from Milgram's **82.5 percent** at the same point (Burger 2009, 2014)
+- **Virtual reality** versions agree: teachers feel similar stress and still largely obey (Cornet and Van Gelder 2020; Slater et al. 2006)
+:::
+
+## The Interactionist Reading: Physical Distance and 15-Volt Steps
+
+:::: {.columns}
+::: {.column width="66%"}
+- When teachers were moved physically **closer** to the learner, fewer gave shocks
+- In one version, the learner refused at 150 volts to touch the shock plate. **40 percent** of teachers stopped; **30 percent** forced his hand onto it
+- The voltage rose **15 volts at a time**, so the experimenter was negotiating with the teacher step by step
+- Obedience would probably have been far lower had the first order been 450 volts (Allen 1978; Katovich 1987)
+:::
+
+::: {.column width="34%"}
+![](../../../assets/chapter_07_assets/milgram_diagram.svg){fig-alt="Diagram of the standard setup: the experimenter and the teacher sit in one room; the learner sits in a separate room, out of sight." style="max-height: 420px !important;"}
+
+::: {.small}
+Standard setup: experimenter (E) and teacher (T) in one room, learner (L) behind a wall. Fred the Oyster, CC BY-SA 4.0.
+:::
+:::
+::::
+
+<!-- ::: {.question-box} -->
+<!-- Where else do small steps take people somewhere they would never go in one jump? Think of a group project that slowly became one person's job. -->
+<!-- ::: -->
+
+<!-- ## Milgram's Purpose: Nazi Germany and the Abu Ghraib Photographs -->
+
+<!-- - Milgram launched his study to understand how Germans took part in the annihilation of **6 million Jews** and millions of other people during World War II -->
+<!-- - Long after the study, he suggested that if death camps like Nazi Germany's were set up in the United States, "one would be able to find sufficient personnel for those camps in any medium-sized American town" -->
+<!-- - Many people questioned the remark. Then, in 2004, photographs from Iraq's **Abu Ghraib** prison showed U.S. military guards humiliating and torturing Iraqi prisoners. They recalled the experiment Milgram had run two generations earlier (Chapter 5 connected the same case to Zimbardo's mock prison) -->
+<!-- - Under conducive circumstances, otherwise normal people can and often do treat one another inhumanely (CBS News 1979; Hayden 2004; Zimbardo 2007a) -->
+
+<!-- ## Burger's Replication and Virtual Reality Versions Confirm Milgram {.smaller} -->
+
+<!-- - In **2006**, with additional safeguards for participants' welfare, psychologist **Jerry Burger** repeated part of the experiment with college undergraduates. To avoid bias he screened out students who had heard of Milgram's study -->
+<!-- - The results were startlingly similar. At the most comparable point in the two studies, Burger measured **70 percent** full obedience, lower than, but not significantly different from, the **82.5 percent** Milgram measured two generations earlier (Burger 2009, 2014) -->
+<!-- - **Virtual reality (VR)** now lets researchers re-create the experiment. Teachers wearing 3D stereo glasses gave "electric shocks" to a "virtual trainee" who made errors. In some versions they only heard the trainee respond; in others they saw the response -->
+<!-- - The teachers felt **levels of stress similar** to those Milgram found, and they still largely obeyed, carrying on with a task they clearly found unpleasant -->
+<!-- - VR can re-create real-life situations far more dramatically than pencil-and-paper questionnaires about hypothetical situations, so it may serve other studies of social behavior (Cornet and Van Gelder 2020; Slater et al. 2006) -->
+
+## Use Your Sociological Imagination: Would You Have Obeyed?
+
+::: {.board}
+If you were a participant in Milgram's research, how far do you think you would go in carrying out orders?
+:::
+
+- Schaefer asks: do you see an ethical problem with the experimenter's manipulation of the subjects? Check it against Chapter 2's ethical duties, including informed consent
+- Which condition would make you most likely to stop: a victim in the same room, bigger jumps in voltage, or an experimenter without a coat?
+- Where in your future field will someone with a title or a uniform tell you to continue?
+
+## Informal and Formal Social Control
+
+- **Informal social control** — used casually to enforce norms: a smile, laughter, a raised eyebrow, ridicule
+- Many adults treat spanking or slapping children as proper informal control. Child development specialists say it teaches children to solve problems through violence, and research links it, even alongside warm parenting, to adolescent social conduct disorder
+- **Formal social control** — carried out by authorized agents such as police, judges, school administrators, and employers. Often a **last resort** when socialization and informal sanctions fail
+- Informal control can **undermine** formal control, encouraging people to break norms
+
+## Informal or Formal? Sort the Sanction
+
+::: {.board}
+Classify each sanction as informal or formal.
+:::
+
+:::: {.columns}
+::: {.column width="50%"}
+1. An aunt's comment about your weight at a family lunch
+2. A speed-camera fine that appears on your phone
+3. The class group chat goes quiet after your message
+4. A professor deducts marks for a late assignment
+:::
+
+::: {.column width="50%"}
+5. "What will people say?" (*kalam al-nas*)
+6. A mall security guard asks you to stop filming
+7. Friends cheer when you finally quit vaping
+8. A diwaniya laughs about someone's new car
+:::
+::::
+
+<!-- ::: {.fragment .question-box} -->
+<!-- A friend offers to "call someone" about your traffic violation. What kind of control is that, and what does it do to the formal kind? -->
+<!-- ::: -->
+
+<!-- Instructor enrichment. The last case illustrates Schaefer's point that informal social control can undermine formal social control. Keep it hypothetical. -->
+
+## Formal Social Control: The Death Penalty and Surveillance
+
+:::: {.columns}
+::: {.column width="64%"}
+- The **death penalty** is meant to deter others as much as to punish. Researchers have not been able to establish what deterrent effect, if any, it has
+- After **September 11, 2001**, the United States expanded surveillance at airports and high-rise buildings and asked citizens to report suspicious behavior (Monahan 2011)
+- Civil rights advocates warned this would encourage stereotyping of **Muslims and Arab Americans**. There is a clear trade-off between surveillance and **privacy**
+:::
+
+::: {.column width="36%"}
+![](../../../assets/chapter_07_assets/kuwait_mobile_speed_camera_kuwaittimes.jpg){fig-alt="A portable, battery-powered speed camera on the sandy shoulder of a Kuwaiti highway as cars pass." style="max-height: 400px !important;"}
+
+::: {.small}
+A portable "Rased" speed camera on a Kuwaiti highway, 2025. *Kuwait Times*.
+:::
+:::
+::::
+
+::: {.question-box}
+Speed cameras, mall CCTV, and the location data on your phone: which did you agree to, and which were simply installed?
+:::
+
+<!-- Instructor enrichment: the camera question. Cut from Schaefer for length: solitary confinement in U.S. prisons (100,000 inmates in 2016; Obama's 2016 order). -->
+
+<!-- ## Box 7-1: Gun Control in the United States {.smaller} -->
+
+<!-- - About **40 percent** of U.S. households have a firearm, and the Second Amendment guarantees the "right of the people to keep and bear arms." Owning a gun is **not a deviant act** in U.S. society -->
+<!-- - Support for stricter control has **declined**: **67 percent** in 2000 put controlling gun ownership ahead of gun rights, **53 percent** in 2019. In 2013, the year after Sandy Hook, states enacted **109** gun laws; **70** loosened restrictions and **39** tightened them. No federal funds supported firearms research from **1996 until 2020** -->
+<!-- - **Conflict view:** powerful groups can dominate lawmaking against the will of the majority. The NRA (founded 1871) has over **4 million** members, with 4 to 5 million more in state rifle associations; the Brady Campaign to Prevent Gun Violence has **50,000** -->
+<!-- - **Interactionist view:** gun rights groups frame the issue for their members as **civil rights**, not safety or crime -->
+<!-- - **Public health view:** about **40,000** Americans die each year from gun violence, by suicide, homicide, or accident. Researchers propose safer guns: a loaded indicator, a magazine latch, or a user code -->
+<!-- - After a 2018 school shooting in Parkland, Florida, left 17 dead, students organized lobbying and walkouts in the **#MarchForOurLives** movement -->
+
+<!-- ::: {.question-box} -->
+<!-- Schaefer asks: what research should sociologists carry out on gun ownership, and what questions should they pose? -->
+<!-- ::: -->
+
+# Law and Society {background-color="#1B2A4A"}
+
+::: {.takeaway}
+Some norms matter so much that a society writes them into law. Sociologists study lawmaking as a social process that shows whose values prevail.
+:::
+
+## Law Is Governmental Social Control
+
+:::: {.columns}
+::: {.column width="58%"}
+- **Law** — governmental social control (Black 1995). Some laws apply to everyone, such as the ban on murder; others apply to particular groups or institutions
+- Sociologists treat lawmaking as a **social process** that reflects changing standards of right and wrong (Schur 1968)
+- The legal order reflects the values of **those in authority**, so making a law means choosing among competing values
+- Laws without public support behind them are **hard to enforce**
+:::
+
+::: {.column width="42%"}
+![](../../../assets/chapter_07_assets/kuwait_national_assembly_1963.jpg){fig-alt="Members of Kuwait's National Assembly seated at the presidium table during an early session in 1963." style="max-height: 360px !important;"}
+
+::: {.small}
+Kuwait's National Assembly in session, 1963. Hassan Hamdy Wahidy, public domain.
+:::
+:::
+::::
+
+<!-- ::: {.question-box} -->
+<!-- Name one law in Kuwait that applies to everyone, one that applies to a particular category of people, and one that governs an institution. -->
+<!-- ::: -->
+
+<!-- Instructor enrichment: the Kuwait question. -->
+
+<!-- - **Marijuana:** most U.S. adults polled support its legal use for medical purposes, yet the federal government treats all use as illegal, a position the Supreme Court upheld in 2005. States have moved anyway (Figure 7-1): -->
+
+<!-- | Status of state law on marijuana (Figure 7-1) | Number | -->
+<!-- |---|---| -->
+<!-- | Personal possession and consumption by adults allowed | 11 states and the District of Columbia | -->
+<!-- | Use authorized for a wide range of medical purposes | 22 states | -->
+<!-- | No provision for legal medical use | 17 states | -->
+
+<!-- Filtered per course rules: one example omitted from Schaefer's list of contested laws. Figure 7-1 counts are from the Arabic deck's text alternative and match Schaefer's text. -->
+
+## Which Laws Are Likely to Change Next?
+
+::: {.board}
+Schaefer: law reflects changing standards of right and wrong. Which laws do you think are likely to change soon because social standards are changing?
+:::
+
+:::: {.columns}
+::: {.column width="66%"}
+- Start with technology that arrived faster than its rules: e-scooters, drones, delivery-bike riders, deepfake images, AI in coursework
+- Which rule in daily life here is widely ignored because few people support it? What would it take to enforce it: more cameras, higher fines, or a change in opinion?
+- Schaefer also asks: should some illegal drugs be decriminalized? Why or why not?
+:::
+
+::: {.column width="34%"}
+![](../../../assets/chapter_07_assets/escooter_recovered_from_river.jpg){fig-alt="A muddy rental e-scooter, missing its rear wheel, propped against a riverside railing after being pulled out of the river." style="max-height: 440px !important;"}
+
+::: {.small}
+A rental e-scooter recovered from the river Main, Frankfurt, 2021. Matti Blume, CC BY-SA 4.0.
+:::
+:::
+::::
+
+<!-- Instructor enrichment: the first two prompts. Filtered per course rules: one of Schaefer's two examples of recent legal change. -->
+
+## Socialization and Hirschi's Control Theory
+
+- **Socialization** is the main source of conformity. We have **internalized** norms, and we want to be seen as loyal, cooperative, and responsible
+- **Control theory** — our connection to members of society leads us to systematically conform. For **Travis Hirschi**, bonds to family, friends, and peers keep us following norms (Hirschi 1969)
+- The media focus on crime, but **most members of most societies conform** to basic norms (Schmalleger 2020)
+
+::: {.question-box}
+Think, privately, of a rule you were tempted to break this week: skipping a lecture, or running an empty red light at 3 a.m. What stopped you: the fine, or the thought of who would find out?
+:::
+
+<!-- ## Box 7-2: Debtors' Jails: Who Waits in Jail Before Trial -->
+
+<!-- - Being in jail means you have committed a crime, right? Most likely not. About **two-thirds** of people in U.S. jails have not been convicted of a crime. They cannot pay the bail that would free them during the long wait for trial -->
+<!-- - Lack of money and jail time have a long history. When Charles Dickens was 12, creditors forced his father into a **debtors' prison**. As was the custom, the family joined him there; Charles, at 12, was considered old enough to support himself. A relative's death finally left enough money to cover the debts -->
+<!-- - The Eighth Amendment states that "Excessive bail shall not be required." Yet in 1990, three of every five felony defendants released before trial were let go without bail; by 2015, **three of five** had to post bail -->
+
+<!-- Ambiguity: Schaefer says Dickens's mother and the children "joined him there" and then that Charles, at 12, was old enough to support himself. The slide keeps both statements without saying where Charles lived. -->
+
+<!-- ## Box 7-2: Bail, Flight Risk, and Reform in New York and New Jersey {.smaller} -->
+
+<!-- - Defendants who cannot make bail, whatever the accused crime, are **four times** more likely to be sentenced to prison. Jail disrupts their lives and families and makes it harder to mount a defense -->
+<!-- - Those held in jail plead guilty **92 percent** of the time, against **40 percent** for those awaiting trial at home -->
+<!-- - Legally, the government must show that a person is a **flight risk**, likely to flee to avoid prosecution, before demanding bail. In practice that assumption trumps the **presumption of innocence**. Courts increasingly also ask whether the person poses a danger to the community -->
+<!-- - Yet from 1995 to 2010, misconduct by people out on bail dropped to about **17 percent**, mostly technical violations about court appearances. Fewer than **2 percent** fail to appear for trial -->
+<!-- - **New York** eliminated cash bail for many nonviolent defendants in 2020. Several high-profile assaults followed within days, and much of the public questioned the reform. Data from **New Jersey**, which changed its system in 2017, show no surge in crime and unchanged court-appearance rates -->
+<!-- - New York did not give judges discretion to weigh a threat to public safety, so many commentators embrace the reform but feel further changes are needed -->
+
+<!-- ## Let's Discuss: Why Do Poverty and Jail Time Go Together? -->
+
+<!-- ::: {.board} -->
+<!-- Schaefer asks: do you agree that "lack of money and jail time have a long history"? Why do the two seem to go together? -->
+<!-- ::: -->
+
+<!-- - What are some possible solutions to the problem of poverty and jail time? -->
+<!-- - The department's Arabic title for this box is [سجون الغارمين]{.term-ar}, "debtors' prisons." In Kuwait, charities run campaigns, often in Ramadan, to settle the debts of *al-gharimeen*. Is paying a stranger's debt a form of social control? If so, who is being controlled, and by whom? -->
+
+<!-- Instructor enrichment: the gharimeen prompt. Verify the current campaigns and the legal consequences of unpaid debt before stating details. -->
+
+# Sociological Perspectives on Deviance {background-color="#1B2A4A"}
+
+::: {.takeaway}
+If sanctions are everywhere, why does deviance happen at all? Each perspective answers a different part of the question: why rules are broken, how people learn to break them, and who gets labeled for it.
+:::
+
+## Early Explanations Blamed the Supernatural and Biology
+
+:::: {.columns}
+::: {.column width="64%"}
+- Early explanations blamed supernatural forces or "bad blood." Nineteenth-century research on biological causes of crime was **discredited** in the 20th century
+- Some biochemists now look for genes linked to traits such as **aggression**. But aggression also brings success in business and sports, and criminality is hardly a personality trait
+- Sociologists are generally critical of genetic explanations and look to social ones (Cohen 2011)
+:::
+
+::: {.column width="36%"}
+![](../../../assets/chapter_07_assets/lombroso_criminal_types.jpg){fig-alt="A plate of four engraved faces from Lombroso's L'Homme criminel, each captioned with a crime, such as brigand and thief, as if the face revealed the criminal." style="max-height: 560px !important;"}
+
+::: {.small}
+"Criminal types" from Cesare Lombroso's *L'Homme criminel*. Wellcome Collection, CC BY 4.0.
+:::
+:::
+::::
+
+<!-- Instructor enrichment: the Lombroso plate. Schaefer refers only to "nineteenth-century research on biological causes of crime"; Lombroso is the best-known example. -->
+
+## Functionalist View: Deviance Defines the Limits of Proper Behavior
+
+:::: {.columns}
+::: {.column width="72%"}
+- Functionalists see deviance as a normal part of social life, with **positive as well as negative** consequences for stability
+- **Émile Durkheim** ([1895] 1964): punishments show everyone where the line is. Without them, people might stretch their standards of conduct
+- A child who sees one parent scold the other for belching at dinner learns the rule. So does a student penalized for a paper handed in weeks late
+:::
+
+::: {.column width="28%"}
+![](../../../assets/chapter_07_assets/durkheim.jpg){fig-alt="Portrait of Émile Durkheim." style="max-height: 380px !important;"}
+
+::: {.small}
+Émile Durkheim. Public domain.
+:::
+:::
+::::
+
+::: {.question-box}
+A student in a 200-seat course is penalized for plagiarism. What do the other 199 students learn?
+:::
+
+<!-- ## Erikson's Puritans: Punishment Maintains Community Boundaries -->
+
+<!-- - Sociologist **Kai Erikson** (1966) illustrated the **boundary-maintenance** function of deviance in his study of the Puritans of 17th-century New England -->
+<!-- - By today's standards the Puritans placed tremendous emphasis on conventional morals. Their persecution and execution of women as **witches** was a continuing attempt to define and redefine the boundaries of their community -->
+<!-- - In effect, their changing norms **created crime waves**: people whose behavior had been acceptable suddenly faced punishment as deviants (R. Schaefer and Zellner 2015) -->
+
+<!-- ::: {.question-box} -->
+<!-- A university adopts a new AI policy, and the next semester records more academic-integrity cases than ever. Did the students change, or did the boundary move? -->
+<!-- ::: -->
+
+<!-- Instructor enrichment: the AI-policy question is hypothetical. -->
+
+## Durkheim's Anomie: Normlessness During Profound Change
+
+:::: {.columns}
+::: {.column width="70%"}
+- **Anomie** — Durkheim's ([1897] 1951) term for the loss of direction felt in a society when social control of individual behavior has become ineffective
+- It typically appears during revolution, sudden prosperity, or economic collapse. People agree less on proper behavior, and rates of **violent crime and suicide** rise (Chapter 1)
+:::
+
+::: {.column width="30%"}
+![](../../../assets/chapter_07_assets/durkheim_le_suicide_1897.jpg){fig-alt="Title page of Émile Durkheim's Le Suicide: étude de sociologie, Paris, 1897." style="max-height: 440px !important;"}
+
+::: {.small}
+Title page of *Le Suicide* (1897). Internet Archive, public domain.
+:::
+:::
+::::
+
+<!-- ::: {.question-box} -->
+<!-- Kuwait has known both sudden prosperity, with oil, and sudden collapse, with the 1982 Souk al-Manakh stock market crash. Which norms would you expect to weaken in each case, and which would hold? -->
+<!-- ::: -->
+
+<!-- Instructor enrichment: the Kuwait question. Sober tone; this slide mentions suicide. -->
+
+## Merton: Cultural Goals and Institutional Means
+
+:::: {.columns}
+::: {.column width="72%"}
+- What do a mugger and a teacher have in common? Both are "working" for money to buy the things they want
+- **Robert Merton** (1968): U.S. culture sets **success**, measured largely in money, as a goal, and approves certain **means** of reaching it: school, hard work, persistence
+- People can accept or reject the goals, the means, or both. Merton's **anomie theory of deviance** names five ways of adapting
+:::
+
+::: {.column width="28%"}
+![](../../../assets/chapter_07_assets/merton_1965.jpg){fig-alt="Robert K. Merton in academic cap and gown, 1965." style="max-height: 400px !important;"}
+
+::: {.small}
+Robert K. Merton, 1965. Eric Koch / Anefo, CC0.
+:::
+:::
+::::
+
+<!-- ## Table 7-1: Merton's Deviance Theory -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width="64%"} -->
+<!-- ![](table_7_1.png){fig-alt="Table 7-1, Merton's deviance theory. Conformity accepts both the goals of society, such as acquisition of wealth, and the acceptable means, such as hard work. Retreatism rejects both. Innovation accepts the goals and rejects the means. Ritualism rejects the goals and accepts the means. Rebellion both rejects and replaces the goals and the means." width="100%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="36%"} -->
+<!-- | Mode | Goals | Means | -->
+<!-- |---|---|---| -->
+<!-- | Conformity | Accept | Accept | -->
+<!-- | Retreatism | Reject | Reject | -->
+<!-- | Innovation | Accept | Reject | -->
+<!-- | Ritualism | Reject | Accept | -->
+<!-- | Rebellion | Reject and replace | Reject and replace | -->
+
+<!-- ::: {.small} -->
+<!-- Only conformity is nondeviant. Adapted by Schaefer from Merton 1968, "Social Structure and Anomie." -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- :::: -->
+
+## Merton's Five Modes of Adaptation {.smaller}
+
+- **Goal** — what society tells you to want: success, measured largely in money
+- **Means** — the approved ways to get it: school, a job, hard work
+
+| Mode | Still wants success? | Still uses the approved ways? | Example |
+|---|---|---|---|
+| **Conformity** | Yes | Yes | An employee works long hours to earn a promotion and a raise. The only nondeviant mode |
+| **Innovation** | Yes | No: finds a shortcut | A hacker steals money for consumer goods and vacations |
+| **Ritualism** | No: has given up on it | Yes: follows the rules for their own sake | A caseworker refuses to help a homeless family because their last apartment was in another district |
+| **Retreatism** | No | No: drops out of both | In the United States, drug addicts and vagrants are typically portrayed this way |
+| **Rebellion** | No: wants different goals | No: wants a different system | Members of a revolutionary political organization |
+
+- Merton's insight: innovators and ritualists **share a great deal with conformists**. Deviance is **socially created**, not a momentary pathological impulse
+- The weakness: the theory has **not been applied systematically** to real-world crime
+
+<!-- Instructor enrichment: the conformity example (the employee seeking a promotion). The other four examples are Schaefer's. -->
+
+<!-- OCR gap: Schaefer's paragraph on the conformist is missing from source_en_ch07.txt (the text jumps from Table 7-1 to "The other four types"). The conformist definition follows the Arabic deck (slide 23) and Table 7-1. Check the printed page; it may also call conformity the most common adaptation. -->
+
+## Merton's Five Modes at University and Work
+
+::: {.board}
+Schaefer asks for an example of each of Merton's five modes from work or college life. Start by classifying these.
+:::
+
+1. A student buys a finished project online to protect a high GPA
+2. A student studies every night to win a place in medical school
+3. A ministry clerk rejects a form because it was signed in blue ink instead of black
+4. A student has stopped caring about grades or a degree, and has stopped coming
+5. An engineer lists a certificate on her CV that she never earned
+6. A graduate rejects the degree-to-job path and founds a cooperative where pay does not depend on credentials
+
+::: {.fragment .question-box}
+Which case did the room disagree about most? What would you need to know about the person's goals to decide?
+:::
+
+<!-- Instructor enrichment: the cases. -->
+
+## Box 7-3: Does Crime Pay? Predict the Gang Leaders' Earnings
+
+:::: {.columns}
+::: {.column width="76%"}
+- Sociologist **Sudhir Venkatesh** observed a **Chicago street gang** and collected detailed data on its drug trade. Economist **Steven Levitt**, coauthor of *Freakonomics*, helped him analyze the business
+
+::: {.question-box}
+What share of the gang's **leaders** do you think earned $100,000 a year? What did the rank and file earn?
+:::
+:::
+
+::: {.column width="24%"}
+![](../../../assets/chapter_07_assets/freakonomics_cover.jpg){fig-alt="Cover of Freakonomics by Steven D. Levitt and Stephen J. Dubner, showing an apple cut open to reveal orange segments inside." style="max-height: 330px !important;"}
+
+::: {.small}
+Levitt and Dubner, *Freakonomics* (2005).
+:::
+:::
+::::
+
+::: {.fragment}
+- **Less than 5 percent** of even the gang leaders earned $100,000 a year. Almost all the rank and file earned **less than the minimum wage**, and most were unpaid, hoping to move up
+- Levitt's chapter title: "Why Do Drug Dealers Still Live with Their Moms?" Like most corporations, the top **2 percent** take home most of the money
+- So why does the trade persist? Demand for illegal drugs is high, and legitimate jobs for young people in poor areas are scarce
+:::
+
+<!-- ## Box 7-3: Why Does Unprofitable Crime Persist? {.smaller} -->
+
+<!-- - A driver who speeds to reach a job interview on time and a financially strapped parent who shoplifts goods her family needs are **innovators** in Merton's terms. From their own short-term perspective their actions are functional. Carried far enough, innovation becomes a career -->
+<!-- - Asking whether crime pays is itself controversial, since it may seem to tolerate rule violation. Society in general does not admire these innovators -->
+<!-- - Why does the trade persist when **one in four** members of drug-oriented street gangs is eventually killed? The public's almost insatiable demand for illegal drugs, and the scarcity of legitimate jobs for young adults in poverty-stricken areas, urban or rural. Functionally, these youths contribute to their household incomes -->
+<!-- - Merton's theory does not easily answer why some disadvantaged groups have **lower** rates of reported crime than others, or why many people in adverse circumstances **reject** crime as an alternative -->
+<!-- - A significant exception to "crime does not pay": in high-end professional crime, such as **antitrust** and **insider trading** violations, perpetrators may still profit after paying penalties, since jail time is rarely assigned. We return to this under white-collar crime -->
+
+<!-- ::: {.question-box} -->
+<!-- Schaefer asks: profit is the difference between revenues and costs. What are the economic and social costs of the illegal drug trade? Is this economic activity profitable for society? -->
+<!-- ::: -->
+
+## Interactionist View: Sutherland's Cultural Transmission and Differential Association {.smaller}
+
+:::: {.columns}
+::: {.column width="78%"}
+- Functionalists explain why rule-breaking persists. Interactionists explain how a **particular person** comes to break rules
+- **Edwin Sutherland**: we learn deviant behavior through the **same socialization** that teaches conforming behavior
+- **Cultural transmission** — one learns criminal behavior by interacting with others: the **techniques** of lawbreaking and the **motives and rationalizations** for it
+- **Differential association** — the process through which exposure to attitudes favorable to criminal acts leads to the violation of rules. An outgoing, athletic boy in a high-delinquency area may join peers who vandalize; in another neighborhood, he joins a soccer team
+- **Critics:** it fits graffiti crews and delinquent gangs, but not the first-time impulsive shoplifter or someone who steals out of need (Sutherland et al. 1992)
+:::
+
+::: {.column width="22%"}
+![](../../../assets/chapter_07_assets/sutherland.jpg){fig-alt="Portrait of Edwin H. Sutherland." style="max-height: 360px !important;"}
+
+::: {.small}
+Edwin H. Sutherland. Wikimedia Commons, CC BY-SA 4.0.
+:::
+:::
+::::
+
+<!-- Filtered per course rules: one item omitted from Schaefer's list of noncriminal deviant acts. Cut for length: Susan Phillips's study of Los Angeles gang graffiti. -->
+
+## Who Taught the Technique, and Who Taught the Excuse?
+
+::: {.board}
+Pick a minor rule-breaking you have seen among people your age: vaping in a car, cutting a bakery line, slipping a phone into an exam, drifting in an empty lot.
+:::
+
+- Who taught the **technique**? Where did people learn to do it without getting caught?
+- Who taught the **rationalization**: "everyone does it," "the rule is pointless," "nobody gets hurt"?
+- Sutherland's outgoing boy joins a soccer team in one neighborhood and a vandal crew in another. What plays the soccer team's role for young people here?
+
+<!-- ::: {.small} -->
+<!-- Describe what you have seen, not what you have done. -->
+<!-- ::: -->
+
+<!-- Instructor enrichment. -->
+
+## Predict: What Happened to Zimbardo's Two Abandoned Cars?
+
+:::: {.columns}
+::: {.column width="76%"}
+- Philip Zimbardo, author of Chapter 5's mock prison experiment, **abandoned a car** in each of two neighborhoods. He left each car's hood up, removed its hubcaps, and set up a remote video camera to record what people did
+
+::: {.question-box}
+What happened to each car, and how quickly?
+:::
+:::
+
+::: {.column width="24%"}
+![](../../../assets/chapter_07_assets/zimbardo.jpg){fig-alt="Philip Zimbardo speaking at a conference, 2017." style="max-height: 320px !important;"}
+
+::: {.small}
+Philip Zimbardo, 2017. Elekes Andor, CC BY-SA 4.0.
+:::
+:::
+::::
+
+::: {.fragment}
+- In one neighborhood, people started stripping the car for parts **before Zimbardo had finished setting up** the camera
+- In the other, **weeks** passed without anyone touching the car, except a pedestrian who stopped to **close the hood** during a rainstorm (Zimbardo 2007a)
+:::
+
+::: {.fragment .question-box}
+The cars were identical. What was different about the two neighborhoods?
+:::
+
+## Social Disorganization Theory: Shaw and McKay Mapped Chicago
+
+- **Social disorganization theory** — crime and deviance rise when communal relationships and institutions, such as family, school, church, and local government, break down
+- **Clifford Shaw and Henry McKay** mapped Chicago's social problems. Rates were high where buildings had deteriorated and population had declined, and the patterns **persisted** as the residents' ethnic makeup changed (Shaw and McKay 1942)
+- **Critics:** the theory can "blame the victim" and ignore larger forces, such as a lack of jobs or good schools
+
+::: {.question-box}
+Which institutions hold an area in Kuwait together: the co-op, the mosque, the diwaniya, the school? What would you expect to change if one of them closed?
+:::
+
+<!-- Instructor enrichment: the Kuwait question. -->
+
+## The Saints and the Roughnecks: Same Behavior, Different Outcomes {.smaller}
+
+::: {.board}
+Two groups of high school males engaged constantly in excessive drinking, reckless driving, truancy, petty theft, and vandalism.
+:::
+
+:::: {.columns}
+::: {.column width="50%"}
+### The Saints
+
+None was ever arrested.
+:::
+
+::: {.column width="50%"}
+### The Roughnecks
+
+Every one was frequently in trouble with the police and townspeople.
+:::
+::::
+
+::: {.question-box}
+Why the disparity?
+:::
+
+::: {.fragment}
+- Sociologist **William Chambliss** (1973; Chambliss and Haas 2012) observed their high school and concluded that **social class** mattered
+- The Saints came from "good families," got good grades, and planned to attend college. Their acts were seen as "sowing wild oats"
+- The Roughnecks drove beat-up cars, did poorly in school, and aroused suspicion no matter what they did
+:::
+
+## Labeling Theory: Deviant Behavior Is Behavior That People So Label
+
+:::: {.columns}
+::: {.column width="74%"}
+- Labeling theory asks why some people, like the Roughnecks, are labeled deviant while others who act the same, like the Saints, are not
+- **Howard Becker**: "Deviant behavior is behavior that people so label" (1963:9). This is the **societal-reaction approach**: the **response** to an act, not the act itself, determines deviance
+- Labels come from **agents of social control**: police, judges, teachers, psychiatrists, employers. Their power to label ties this theory to the **conflict** perspective
+- **Racial profiling** — any arbitrary action initiated by an authority based on race, ethnicity, or national origin rather than on a person's behavior (Chapter 10)
+:::
+
+::: {.column width="26%"}
+![](../../../assets/chapter_07_assets/becker.jpg){fig-alt="Howard S. Becker seated, 2012." style="max-height: 400px !important;"}
+
+::: {.small}
+Howard S. Becker, 2012. Thierry Caro, CC BY-SA 3.0.
+:::
+:::
+::::
+
+<!-- Filtered per course rules: the 2020 protests and campaign discussion are summarized out. Cut for length: Schaefer's U.S. traffic-stop finding and the learning-disabled labeling example (Grattet 2011). -->
+
+## Social Constructionism: How a Behavior Becomes a Social Problem
+
+:::: {.columns}
+::: {.column width="70%"}
+- **Social constructionism** — deviance is the product of the culture we live in. It studies the decisions that turn a behavior into a recognized problem
+- "Child abductors" and "spree killers" have always existed, but **intensive media coverage** can suddenly make them a priority for policymakers
+- **Smoking** went from a gentlemanly habit to a health hazard. Concern now extends to **thirdhand smoke** that clings to clothes, cars, and elevators (Winickoff et al. 2009)
+:::
+
+::: {.column width="30%"}
+![](../../../assets/chapter_07_assets/smoking_ban_ashtray.jpg){fig-alt="A glass ashtray with a no-smoking symbol printed in the bottom." style="max-height: 320px !important;"}
+
+::: {.small}
+An ashtray printed with a no-smoking sign. rcooper, CC BY-SA 2.0.
+:::
+:::
+::::
+
+::: {.question-box}
+Vaping was first marketed as a safer alternative to cigarettes. How is it described in the news and at home now? Who did the redefining?
+:::
+
+<!-- Filtered per course rules: one item omitted from Schaefer's list of constructed concerns. -->
+
+## You Are the Teacher: Which Labels Would You Attach?
+
+::: {.board}
+Schaefer asks: you are a teacher. What labels, freely used in education, might you attach to your students?
+:::
+
+- List the labels you heard at school: "gifted," "lazy," "the clever one," "the troublemaker," "the back row." Who applied them, and when?
+- A child is labeled a troublemaker in Grade 3. What does labeling theory predict by Grade 10? What would Chambliss want to know about the child's family?
+- The same direct comment in a meeting: when is it called "confident," and when "aggressive"? Who decides?
+
+<!-- Instructor enrichment: the follow-up prompts. The last one comes from the syllabus project prompts. -->
+
+## Banksy's *Flower Thrower*: Vandalism, Artwork, or Political Protest?
+
+:::: {.columns}
+::: {.column width="50%"}
+- In 2003 the English street artist **Banksy** painted a work often titled *Rage, the Flower Thrower* in Jerusalem, on the West Bank barrier wall separating Israel from its occupied territories
+- The image shows a protester hurling a bouquet of colorful flowers, not a Molotov cocktail
+- It was one of many controversial works Banksy made to support **Palestinian rights**
+:::
+
+::: {.column width="50%"}
+![](../../../assets/chapter_07_assets/banksy_flower_thrower.jpg){fig-alt="Banksy's Flower Thrower stencil, a masked man throwing a bouquet of flowers, painted on the white side wall of a garage beside a road, with water tanks on the roof." style="max-height: 380px !important;"}
+
+::: {.small}
+The mural near Bethlehem. Photo: Jennifer Simon, CC BY 2.0; artwork © Banksy.
+:::
+:::
+::::
+
+::: {.question-box .smaller}
+How do we label people's behavior? Is this vandalism? Artwork? Political protest?
+
+Who has the authority to apply each label: the owner of the wall, the police, a museum, or the people who walk past it every day?
+:::
+
+<!-- Location follows Schaefer's photo caption. The mural is usually located in Beit Sahour, near Bethlehem; check before stating the location aloud. The photograph's source captions it "Ash Salon Street, Bethlehem." -->
+
+## Conflict View: Quinney Argues That the Powerful Define Crime
+
+:::: {.columns}
+::: {.column width="62%"}
+- Conflict theorists: people with power **define deviance to suit their needs**
+- **Richard Quinney**: crime is a definition created by legislators and law enforcement, and lawmaking is often an attempt by the powerful to **coerce others into their morality** (Quinney 1970)
+- Criminal law reflects competing interests. U.S. law bans marijuana for its alleged harm, while cigarettes and alcohol, both harmful, are sold legally almost everywhere
+:::
+
+::: {.column width="38%"}
+![](../../../assets/chapter_07_assets/prohibition_liquor_sewer.jpg){fig-alt="Agents pour liquor from a barrel into a street sewer while a police commissioner and uniformed officers watch, New York, during Prohibition." style="max-height: 400px !important;"}
+
+::: {.small}
+New York agents pour liquor into a sewer during U.S. Prohibition (1920–1933). Library of Congress, public domain.
+:::
+:::
+::::
+
+::: {.question-box}
+In Kuwait, alcohol is illegal and tobacco is legal. In the United States, alcohol and tobacco are legal while marijuana is federally illegal. Does Quinney's argument fit both cases equally well? How would a functionalist explain Kuwait's law?
+:::
+
+<!-- Instructor enrichment: the Kuwait comparison and the Prohibition photograph. The United States banned alcohol from 1920 to 1933, so the same product moved from legal to criminal and back. -->
+
+
+
+## Differential Justice: Discretion at Every Stage
+
+:::: {.columns}
+::: {.column width="64%"}
+- **Differential justice** — differences in the way social control is exercised over different groups
+- Officials use **discretion** at every stage: to press or drop charges, set bail, grant or deny parole. Conflict theorists find these decisions disadvantage some racial, ethnic, and social-class groups (Yusef et al. 2019)
+- Powerful groups are unlikely to label as "deviant" the executive whose decisions lead to large-scale environmental pollution
+:::
+
+::: {.column width="36%"}
+![](../../../assets/chapter_07_assets/courtroom_singapore.jpg){fig-alt="An empty modern courtroom: the judge's bench on a raised platform, with clerks' desks and a lawyer's lectern below." style="max-height: 380px !important;"}
+
+::: {.small}
+A courtroom of the Supreme Court of Singapore. Sgconlaw, CC BY-SA 4.0.
+:::
+:::
+::::
+
+::: {.question-box}
+List the decisions between an arrest and a sentence where someone uses discretion. At which one could money, a family name, or a phone call make the biggest difference?
+:::
+
+<!-- ## Feminist View: Theories of Crime Were Built with Men in Mind -->
+
+<!-- - **Freda Adler** (1996) and **Meda Chesney-Lind** (2017): most theories of deviance and crime were developed with **only men** in mind -->
+<!-- - For years U.S. law did not count forced intercourse within marriage as rape, a definition written by overwhelmingly male legislatures. Feminist protests changed the law (Pauly 2019) -->
+<!-- - About **80 to 95 percent** of campus sexual assaults against women students are not reported to college officials (Spencer et al. 2017) -->
+
+<!--  Sober tone; no humour and no discussion prompt on this slide. --> 
+
+## Table 7-2, Part 1: Anomie, Cultural Transmission, and Social Disorganization {.smaller}
+
+Each approach answers a different question about deviance. Schaefer's one-line summary of each is in bold.
+
+| Approach | The question it answers | What it says | Example from this chapter |
+|---|---|---|---|
+| **Anomie**<br>Functionalist<br>*Durkheim, Merton* | Why do people break rules at all? | **Adaptation to societal norms.** Society tells everyone to want success but does not give everyone an approved way to reach it, so some people adapt by breaking rules. Norms also weaken during sudden change | Merton's innovator: a hacker steals money for vacations. In an economic collapse, violent crime and suicide rise |
+| **Cultural transmission / Differential association**<br>Interactionist<br>*Sutherland* | How does a person learn to break rules? | **Patterns learned through others.** Deviance is learned the same way conformity is, from friends and family, who teach both the techniques and the excuses | The outgoing, athletic boy who joins vandals in one neighborhood and a soccer team in another |
+| **Social disorganization**<br>Interactionist<br>*Shaw, McKay* | Why is crime higher in some places? | **Communal relationships.** Crime rises where the institutions that hold a community together (e.g., family, school, club, local gov) have broken down | Shaw and McKay's maps of Chicago: problems stayed in the same run-down areas even as the residents changed |
+
+## Table 7-2, Part 2: Labeling and Conflict Theory {.smaller}
+
+| Approach | The question it answers | What it says | Example from this chapter |
+|---|---|---|---|
+| **Labeling / Social constructionist**<br>Interactionist<br>*Becker, Chambliss* | Why are some people called deviant and others not? | **Societal response to acts.** An act becomes deviant when people with authority label it so. Who gets labeled can matter more than what they did | A child labeled "the troublemaker" in Grade 3; smoking redefined from a gentlemanly habit to a health hazard |
+| **Conflict**<br>Conflict<br>*Quinney* | Who decides what counts as a crime? | **Dominance by authorized agents; discretionary justice.** People with power write the laws, and police, prosecutors, and judges use discretion over charges, bail, and parole in ways that favor some groups over others | U.S. law bans marijuana for its alleged harm, while alcohol and tobacco are sold legally |
+
+<!-- | **Feminist**<br>Conflict/Feminist<br>*Adler, Chesney-Lind* | Do theories of crime fit women's lives? | **Role of gender; women as victims and perpetrators.** Most theories were built with only men in mind | Laws on rape written by all-male legislatures | -->
+
+::: {.question-box}
+Schaefer asks: which sociological perspective is most useful in analyzing white-collar crime? Vandalism? Cocaine use?
+:::
+
+## Which Perspective Explains the Case Best?
+
+::: {.board}
+Match each case to the approach in Table 7-2 that explains it best.
+:::
+
+:::: {.columns}
+::: {.column width="50%"}
+1. The Saints and the Roughnecks
+2. A graffiti crew that trains its new members
+3. A student who buys a finished project to protect a high GPA
+:::
+
+::: {.column width="50%"}
+4. One car stripped in minutes, another left untouched
+5. Embezzlement punished more lightly than petty theft
+:::
+::::
+
+::: {.fragment .question-box}
+Which cases needed two approaches? What does each approach leave unexplained?
+:::

@@ -24,8 +24,8 @@ To add a course file later, replace a coming-soon label with a Markdown link:
 | **5** | Oct. 12 & 14 | Socialization and the Life Course | [HTML](slides/ch04-socialization.html){.material-link} [PDF](slides/ch04-socialization.pdf){.material-link} | — |
 | **6** | Oct. 19 & 21 | Social Interaction, Groups, and Social Structure | [HTML](slides/ch05-social-structure.html){.material-link} [PDF](slides/ch05-social-structure.pdf){.material-link} | — |
 | **7** | Oct. 26 & 28 | Mass Media and Social Media | [HTML](slides/ch06-media.html){.material-link} [PDF](slides/ch06-media.pdf){.material-link} | — |
-| **8** | Nov. 2 & 4 | Deviance, Crime, and Social Control | [Slides coming soon]{.status-coming-soon} | — |
-| **9** | Nov. 9 & 11 | Stratification and Social Mobility; midterm during one class meeting | [Slides coming soon]{.status-coming-soon} | **Midterm examination — 25%** |
+| **8** | Nov. 2 & 4 | Deviance, Crime, and Social Control | [HTML](slides/ch07-deviance.html){.material-link} [PDF](slides/ch07-deviance.pdf){.material-link} | — |
+| **9** | Nov. 9 & 11 | Stratification and Social Mobility; midterm review (Nov. 9) | [Slides coming soon]{.status-coming-soon} | **Midterm examination, Nov. 11 — 25%** |
 | **10** | Nov. 16 & 18 | Global Inequality | [Slides coming soon]{.status-coming-soon} | — |
 | **11** | Nov. 23 & 25 | Racial and Ethnic Inequality | [Slides coming soon]{.status-coming-soon} | — |
 | **12** | Nov. 30 & Dec. 2 | The Family and Household Diversity | [Slides coming soon]{.status-coming-soon} | — |
