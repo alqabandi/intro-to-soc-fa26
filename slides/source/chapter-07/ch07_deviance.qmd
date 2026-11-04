@@ -696,7 +696,7 @@ Robert K. Merton, 1965. Eric Koch / Anefo, CC0.
 
 <!-- :::: {.columns} -->
 <!-- ::: {.column width="64%"} -->
-<!-- ![](table_7_1.png){fig-alt="Table 7-1, Merton's deviance theory. Conformity accepts both the goals of society, such as acquisition of wealth, and the acceptable means, such as hard work. Retreatism rejects both. Innovation accepts the goals and rejects the means. Ritualism rejects the goals and accepts the means. Rebellion both rejects and replaces the goals and the means." width="100%"} -->
+<!-- ![](../../../assets/chapter_07_assets/table_7_1.png){fig-alt="Table 7-1, Merton's deviance theory. Conformity accepts both the goals of society, such as acquisition of wealth, and the acceptable means, such as hard work. Retreatism rejects both. Innovation accepts the goals and rejects the means. Ritualism rejects the goals and accepts the means. Rebellion both rejects and replaces the goals and the means." width="100%"} -->
 <!-- ::: -->
 
 <!-- ::: {.column width="36%"} -->
@@ -1083,4 +1083,513 @@ Match each case to the approach in Table 7-2 that explains it best.
 
 ::: {.fragment .question-box}
 Which cases needed two approaches? What does each approach leave unexplained?
+:::
+
+
+# Crime: A Sociological Approach {background-color="#1B2A4A"}
+
+::: {.takeaway}
+Crime is deviance that the state punishes. Sociologists sort it by how it is committed and how society views it, and the sorting shows who gets punished harshly and who rarely does.
+:::
+
+<!-- ## Box 7-4: Packing Firearms on Campus {.smaller} -->
+
+<!-- - College campuses are generally very safe, but high-profile campus shootings have changed laws on concealed firearms -->
+<!-- - After the 2007 Virginia Tech shooting (Chapter 5), officials were reluctant to limit students' freedom of movement. They improved emergency communications instead, replacing e-mail with **instant alerts** sent to cell phones: technology as social control -->
+<!-- - Far more controversial were calls to allow **concealed weapons** on campus. All states allow concealed-weapons permits, but until recently every provision banned weapons in schools at any level. As of 2018, **11** states had campus carry laws, **16** banned concealed weapons, and **23** left the decision to university systems or individual schools -->
+<!-- - Research shows that campus carry bills were not driven by shooting incidents in educational settings but were associated with shootings **anywhere in a state**. In several states legislators introduced bills to prohibit concealed weapons on campus; none passed -->
+<!-- - **Supporters** cite a constitutional right, which courts frequently affirm, and safety from shooters and other criminals. **Opponents**, usually administrators, faculty, and campus police, say more firearms will increase the risk of dangerous situations -->
+
+<!-- ::: {.question-box} -->
+<!-- Schaefer asks: is allowing guns on campus an example of social control? Why or why not? Which technologies of social control did you pass on your way to this room? -->
+<!-- ::: -->
+
+## Crime Defined: Six Types That Sociologists Distinguish
+
+- **Crime** — a violation of criminal law for which some governmental authority applies formal penalties
+- Sociologists classify crimes by **how they are committed** and **how society views them**
+
+::: {.center}
+![](../../../assets/chapter_07_assets/six_types_of_crime.svg){fig-alt="Six cards: victimless crime, the willing exchange among adults of widely desired but illegal goods and services; professional crime, pursued as a day-to-day occupation; organized crime, a group that regulates relations among criminal enterprises; white-collar crime, illegal acts in the course of business, including cybercrime; hate crime, a victim chosen for a group identity; transnational crime, across multiple national borders."}
+:::
+
+## Victimless Crime and the Debate over Decriminalization
+
+- **Victimless crime** — the willing exchange among adults of widely desired but illegal goods and services, such as drugs
+- **For decriminalization:** these acts are impossible to prevent, and police and courts should focus on crimes with obvious victims
+- **Against:** compulsive gambling, drug use, and heavy drinking harm families and can lead to theft and abuse. 
+- Underneath the debate: who has the power to label an act a "crime," or "victimless"?
+- **In Kuwait:** a 2025 drug law allows the death penalty for trafficking. Families also file **addiction complaints** with the Public Prosecution against their own sons and daughters: **970** in 2025
+
+::: {.question-box}
+Someone bets on football through an illegal app. Who else might pay besides the bettor?
+:::
+
+<!-- Filtered per course rules: pornography omitted from the feminist critique. Instructor enrichment: the betting question and the Kuwait bullet. Sources: KUNA, 26 Nov 2025 (drug law; death or life imprisonment for trafficking, death for organizing international trafficking); Public Prosecution Annual Report 2025, p. 6 (970 addiction complaints); Al-Jarida, May 2025 (993 complaints in 2024 "filed by parents and families against their sons and daughters"). Verify the law's number before saying it aloud: KUNA calls it Decree-Law No. 59 of 2025, the law firm HFW calls it No. 159 of 2025; it took effect 15 December 2025. The complaints show informal control (the family) turning to formal control. -->
+
+## Professional and Organized Crime
+
+- **Professional criminal** — a person who pursues crime as a day-to-day occupation, developing skilled techniques and enjoying status among other criminals. Like other workers, they form a **subculture** and trade tips (Sutherland 1937)
+- **Organized crime** — the work of a group that regulates relations among criminal enterprises, such as gambling and drug smuggling. It allocates territory, sets prices, settles disputes, and "taxes" merchants for "protection"
+- Organized crime has served as a route of **upward mobility**. Daniel Bell (1953) called the passing of leadership from one immigrant group to the next **ethnic succession**
+
+<!-- Shortened per course rules: Schaefer's list of six present-day national-origin groups in organized crime is not reproduced. Restore it if you want the full list for the exam. -->
+
+## White-Collar and Corporate Crime
+
+- **White-collar crime** — illegal acts committed in the course of business activities, often by affluent, "respectable" people: tax evasion, fraud, bribery, embezzlement. **Edwin Sutherland** coined the term
+- Sutherland built on **W. E. B. Du Bois**'s ([1899] 1995) observation that courts **favor the rich**: embezzlement is treated more leniently than petty theft
+- **Corporate crime** — any act by a corporation that is punishable by the government, from pollution to unsafe products to accounting fraud (Simpson 2019)
+- A white-collar conviction harms a career far less than a street-crime conviction. **Conflict theorists** expect this: the justice system focuses on the crimes of the poor (Simpson 2013)
+
+## White-Collar Crime in Kuwait: Recorded Bribery Cases and Perceived Corruption
+
+- Kuwait's Public Prosecution registered between **6 and 18** cases of bribery and influence-peddling a year from 2020 to 2025. In 2025 there were **13**
+- Forgery of bank documents rose from **1,078** cases in 2020 to **3,822** in 2025
+
+::: {.small}
+The index is built from expert and business assessments of the public sector. It measures perceived corruption, not cases.
+:::
+
+::: {.question-box}
+Does "13 bribery cases" tell us how much bribery happens, or how often a bribe is reported and proven? Who would report a bribe they paid themselves?
+:::
+
+<!-- Instructor enrichment. Sources: Public Prosecution Annual Report 2025 (published March 2026), pp. 9 and 13; Transparency International, CPI 2025 (Kuwait 46/100, 65th of 182, unchanged from 2024; global average 42). Sutherland's point: white-collar crime rarely enters the statistics. -->
+
+## Cybercrime and Identity Theft
+
+- **Cybercrime** — illegal activity conducted primarily through computer hardware or software, including **cyberespionage** and **cyberterrorism**
+- Its global cost was projected to reach **$6 trillion** by 2021, double the 2015 figure (Juniper Research 2015; Morgan 2017)
+- **Identity theft:** about **7 percent** of adults each year find their personal information misused for crime (Harrel 2015). Cooley and Goffman wrote about the self without imagining that anyone could steal one
+- **In Kuwait:** the Ministry of Interior's cybercrime department received about **3,000** reports in 2024. The most common scams were fake messages from banks and government bodies, fake chalet-rental ads, and fake payment links
+
+::: {.question-box}
+A text says your parcel is held at customs and asks for KD 1.5 through a payment link. What is the sender really collecting?
+:::
+
+<!-- Instructor enrichment: the payment-link scenario is hypothetical; the Kuwait bullet is from KUNA, 1 July 2025 (Lt. Col. Ammar Al-Sarraf, cybercrime department). The same interview says a coordination unit set up in 2023 has closed 2,300 scam sites and cut off 2,200 fake WhatsApp numbers; the governing law is Law No. 63 of 2015 on combating information technology crimes. -->
+
+<!-- ## You Edit the Homepage: Embezzlement or a Stolen Phone? -->
+
+<!-- ::: {.board} -->
+<!-- Schaefer asks: as the editor of an online news service, how might you treat stories on corporate or white-collar crime differently from those on violent crime? -->
+<!-- ::: -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width="50%"} -->
+<!-- ::: {.example-box} -->
+<!-- **Story A.** A company manager is convicted of embezzling KD 3 million over six years. -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: {.column width="50%"} -->
+<!-- ::: {.example-box} -->
+<!-- **Story B.** A man is arrested for snatching a phone at a mall food court. -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- - Which story runs a photo of the accused? Is it a police photo or a headshot from the company website? -->
+<!-- - Who were the victims of Story A? Would readers know their names? -->
+<!-- - Which story would readers share more, and which did more harm? -->
+
+<!-- ::: {.small} -->
+<!-- Hypothetical stories for the exercise, not reports of real events. -->
+<!-- ::: -->
+
+## Hate Crimes Are Defined by the Offender's Motive
+
+- A **hate crime** (or **bias crime**) is an ordinary crime in which the offender chooses the victim because of race, religion, ethnic group, national origin, or another protected characteristic, and evidence shows **hatred** prompted it
+- Hate crimes send a **message beyond the victim**. Vandalizing a mosque or a Church warns every Muslim or Christian that they are not wanted
+- So many jurisdictions punish them more heavily, and the U.S. Supreme Court upheld tougher sanctions in 1993
+- **In Kuwait:** We have the **2012 National Unity Law**, which bans inciting hatred or contempt of any group in society, stirring sectarian or tribal strife, or promoting the superiority of any race, color, origin, religious sect, sex, or lineage, including online. Penalties reach seven years in prison
+
+<!-- ::: {.question-box}
+Schaefer's hate crime is an ordinary crime made worse by its motive. Kuwait's law makes the incitement itself the crime. What does each approach try to prevent?
+::: -->
+
+<!-- Instructor enrichment: the Kuwait bullet and question. Source: Decree-Law No. 19 of 2012 on the Protection of National Unity, Articles 1–2 (prison up to seven years and a fine of KD 10,000–100,000, or either; doubled for repeat offenses). Article 1's full list: race, group, color, origin, religious sect, sex (جنس), or lineage. -->
+<!-- - In 2018 U.S. agencies reported **7,120** hate crimes. Race was the apparent motive in about **58 percent** of reports, religion in **18 percent** -->
+
+<!-- Filtered per course rules: sexual orientation is named in Schaefer's definition and is 17 percent of Figure 7-2; both are summarized as "other protected characteristics." The religion figure (18 percent) is from the Arabic deck's text alternative to Figure 7-2. Cut for length: the Hate Crimes Statistics Act, state-by-state coverage (Figure 7-3), and the Mitchell v. Wisconsin case name (more commonly cited as Wisconsin v. Mitchell). Filtered per course rules: the Ku Klux Klan comparison and the anti-white incident statistic. -->
+
+## Transnational Crime Crosses National Borders
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../../../assets/chapter_07_assets/table_7_3.png){fig-alt="Table 7-3, types of transnational crime: bankruptcy and insurance fraud; computer crime; corruption and bribery of public officials; counterfeiting; environmental crime; hijacking of airplanes; illegal drug trade; money laundering; illegal sales of firearms and ammunition; infiltration of legal businesses; intellectual property crime; migrant smuggling; networking of criminal organizations; sea piracy; terrorism; theft of art and cultural objects; trafficking in body parts; trafficking in human beings." width="100%"}
+:::
+
+::: {.column width="50%"}
+- **Transnational crime** — crime that occurs across multiple national borders
+- Historically the most dreadful example was **slavery**. Today it includes trafficking in people, drugs, endangered species, and stolen art
+- The United Nations began categorizing these crimes in the 1990s (Table 7-3)
+
+::: {.question-box}
+During the 1990 invasion, collections from Kuwait's museums were taken to Iraq, and much was returned after liberation. Which row of the table describes that?
+:::
+:::
+::::
+
+<!-- Instructor enrichment: the museum question. Verify the details of the 1990 removal and return before teaching them as fact. Cut for length: Schaefer's question "which of these crimes do you read or hear about the least?" and the 2019 26-country survey on cyberattacks (Poushter and Huang 2019). -->
+
+<!-- ## Interpol and the Limits of International Cooperation -->
+
+<!-- - Bilateral cooperation in pursuing border criminals such as smugglers has been common for many years -->
+<!-- - The first global effort to control international crime was the **International Criminal Police Organization (Interpol)**, a cooperative network of European police forces founded to stem the movement of political revolutionaries across borders -->
+<!-- - Such efforts are complicated by sensitive **legal and security** issues. Most nations that have signed protocols issued by the United Nations, including the United States, worry about encroachments on their national judicial systems and their national security, so they are reluctant to share certain intelligence -->
+<!-- - The investigation into Russian involvement in disrupting the 2016 U.S. presidential campaigns and election renewed interest in safeguarding online information -->
+
+## Classify the Crime: Which of the Six Types?
+
+::: {.board}
+Name the type of crime. Some cases fit more than one.
+:::
+
+1. A crew of pickpockets works crowded malls before Eid and shares tips on where the guards stand
+2. A payment link texted to thousands of phones copies card details
+3. A company hides a known defect in a car part to avoid a recall
+4. A network smuggles endangered falcons across three borders
+5. A group controls an underground betting market and "taxes" shopkeepers for protection
+6. Insults are spray-painted on a place of worship
+7. A manager pays a bribe to win a government contract
+
+::: {.fragment .question-box}
+Which of these would appear in the crime statistics we discuss next, and which would almost never be counted?
+:::
+
+<!-- Instructor enrichment. Hypothetical cases. -->
+
+# Crime Statistics {background-color="#1B2A4A"}
+
+::: {.takeaway}
+Crime statistics tell us a great deal about police activity and something about crime. Reading them well means asking what they leave out.
+:::
+
+## Crime Statistics Indicate Police Activity, Not the Exact Level of Crime
+
+- Crime statistics are often cited as if they were completely reliable. They are not
+- They are an indicator of **police activity** and a rough guide to the level of certain crimes, not an exact count
+
+::: {.question-box}
+Recall Moskos: police "don't deal with a random cross-section of society." If police records are your only data, which neighborhoods and which crimes will look most common?
+:::
+
+## Kuwait's 2020 Domestic Violence Law and the Rise in Recorded Cases
+
+:::: {.columns}
+::: {.column width="40%"}
+| Year | Domestic violence cases |
+|---|---|
+| 2020 | 263 |
+| 2021 | 1,292 |
+| 2022 | 2,223 |
+| 2023 | 2,498 |
+| 2024 | 2,405 |
+| 2025 | 2,010 |
+
+::: {.small}
+Cases registered with Kuwait's Public Prosecution.
+:::
+:::
+
+::: {.column width="60%"}
+- **Law No. 16 of 2020** on protection from domestic violence took effect in **September 2020**
+- It created protection centers, shelters, and protection orders, and it requires anyone who witnesses domestic violence to report it
+- Recorded cases rose almost **tenfold** in three years
+:::
+::::
+
+::: {.question-box}
+Did violence inside families rise tenfold between 2020 and 2023? What else could change the count?
+:::
+
+<!-- Instructor enrichment. Sober tone; no humor, and no one is asked about their own household. Sources: Public Prosecution Annual Report 2025, p. 14 (the six-year series); Law No. 16 of 2020, issued 13 September and in force on publication, 20 September 2020 (Article 10: duty to report; Article 17: urgent protection orders); Human Rights Watch, 29 September 2020 (shelters, hotline, protection orders). The point is Schaefer's: statistics measure reporting and enforcement as well as behavior. 2020 was also a pandemic year, which may have lowered every count. Human Rights Watch notes that the law did not make domestic violence a separate crime with its own penalty; the cases are recorded under existing offenses. -->
+
+## Index Crimes: The FBI's Eight Types and Their Limits
+
+:::: {.columns}
+::: {.column width="48%"}
+![](../../../assets/chapter_07_assets/index_crimes.svg){fig-alt="Two panels. Violent crimes against people: murder, rape, robbery, and assault. Property crimes: burglary, larceny-theft, motor vehicle theft, and arson. Only crimes reported to law enforcement are counted, and white-collar crimes are not in the index." width="100%"}
+:::
+
+::: {.column width="52%"}
+- **Index crimes** — the eight types of crime tabulated each year by the FBI
+- **White-collar crimes** are left out
+- The index leans toward **property** crimes, while people worry more about **violent** ones
+- **The biggest limit:** it counts only crimes **reported** to police. People who distrust the police may not call them, and many women do not report rape or spousal abuse for fear of being blamed
+:::
+::::
+
+## Kuwait's Crime Figures: The Public Prosecution's Annual Report
+
+- The most detailed recent crime figures for Kuwait come from the **Public Prosecution's annual report**. It counts **cases registered with prosecutors**, not reports to police
+- Its list of "prominent crimes" ([أبرز الجرائم]{.term-ar}) includes murder, theft, and drugs
+- It also tracks **bribery**, failure to submit **financial disclosure** statements, officials who refuse to carry out **court rulings**, and **medical malpractice**: white-collar crimes the FBI index leaves out
+
+::: {.question-box}
+Before a crime reaches this report, it passes several filters. 
+:::
+
+<!-- Instructor enrichment. Source: Public Prosecution Annual Report 2025, pp. 7–16, which charts 2020–2025 counts for state security cases, murder and attempted murder, suicide and attempted suicide, felony theft, bribery and influence-peddling, failure to submit financial disclosure, officials refusing to execute judicial rulings, forgery of official documents, money laundering, misuse of public funds, drugs, press/media/IT crimes, juvenile crimes, bank-document forgery, cheques, domestic violence, medical malpractice, human trafficking, and complaints against lawyers. Verify before teaching: under Kuwait's Code of Criminal Procedure, most misdemeanors are investigated by the Ministry of Interior's investigators rather than the Public Prosecution, so the report may undercount minor offenses. The Central Statistical Bureau's Annual Statistical Abstract also has a justice and security chapter, not checked here. The report also breaks defendants down by nationality; per course rules this is left off the slide. -->
+
+## Victimization Surveys Ask Ordinary People
+
+- **Victimization survey** — a survey that questions ordinary people, not police officers, to learn whether they have been victims of crime. The U.S. National Crime Victimization Survey began in **1972**
+- Its limits: victims must **understand** what happened to them and be **willing to tell** an interviewer. Fraud and blackmail rarely appear
+- **In Kuwait:** Gallup's World Poll asks similar questions. In 2023, **4 percent** of adults said they had been assaulted or mugged in the past year, and **1 percent** that money or property had been stolen from their household (Gallup 2024)
+
+::: {.small}
+Gallup interviews about 1,000 adults in Kuwait by phone, in Arabic, English, Bengali, or Hindi. 
+:::
+
+::: {.question-box}
+Why is it useful to sociologists to have victimization surveys in addition to reported crime data?
+:::
+
+<!-- Instructor enrichment: the Kuwait bullet and note. Source: Gallup, 2024 Global Safety Report (2023 data), section on the Law and Order Index: "the low experiences with assault (4%) and theft (1%). Kuwaiti residents are not asked about their confidence in the police." Sample: 1,071 interviews by landline and mobile in Arabic, Bengali, English, and Hindi (Kuwait Times, Sept. 2024, reporting Gallup). A follow-up prompt: which residents of Kuwait would a phone survey in those four languages miss? Keep it general; no one discloses their own nationality. -->
+
+<!-- ## Reported, Surveyed, or Invisible? Trace Each Crime -->
+
+<!-- ::: {.board} -->
+<!-- Would each crime appear in police records, in a victimization survey, in both, or in neither? -->
+<!-- ::: -->
+
+<!-- 1. A car stolen from outside a house -->
+<!-- 2. A phone snatched at a mall; the owner says, "the police won't find it anyway" -->
+<!-- 3. KD 40 lost to a fake online shop -->
+<!-- 4. A bribe paid to speed up a permit -->
+<!-- 5. A shop owner blackmailed by a former employee -->
+<!-- 6. Violence inside a home that no one discusses outside the family -->
+
+<!-- ::: {.fragment .question-box} -->
+<!-- Which kinds of crime does each source undercount? Whose experiences end up missing from both? -->
+<!-- ::: -->
+
+<!-- Instructor enrichment. Income tax evasion is not used because Kuwait has no personal income tax. Sober tone on case 6; no one is asked about their own household. -->
+
+## Crime Trends: The Long Decline in U.S. Crime
+
+- U.S. violent crime has **declined significantly**. The 2017 crime rate was comparable to that of **1963**
+- Murders fell from **24,700** in 1991 to **15,498** in 2018. Violent and property crime each dropped about **20 percent** in ten years (Table 7-4)
+- The pandemic scrambled the pattern: street robberies and home burglaries plummeted as people stayed home, while retail burglaries rose (Sawyer 2020)
+
+<!-- Source gap: neither source file contains the data for Table 7-4 (U.S. crime rates and percentage change) or Figure 7-4 (victimization rates, 1993–2018). The slide uses only the figures Schaefer states in the text. Add images of both if you have them. -->
+
+## Crime Trends in Kuwait, 2020–2025: Cases at the Public Prosecution {.smaller}
+
+| Cases registered | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|---|---|---|---|---|---|---|
+| **All cases** | 22,803 | 30,094 | 39,795 | 46,566 | 46,250 | 49,763 |
+| Murder and attempted murder | 87 | 97 | 71 | 100 | 65 | 69 |
+| Felony theft | 1,720 | 1,664 | 1,591 | 1,593 | 1,360 | 1,313 |
+| Drugs and psychotropic substances | 1,777 | 2,363 | 2,687 | 2,666 | 3,149 | 3,066 |
+| Press, media, and IT crimes | 1,949 | 2,205 | 3,086 | 3,747 | 4,059 | 5,323 |
+| Forgery of bank documents | 1,078 | 1,086 | 1,460 | 2,532 | 2,651 | 3,822 |
+
+- Total cases **more than doubled**, while felony theft **fell by about a quarter**
+- Homicide is rare by international standards: about **0.8** per 100,000 people in Kuwait (2022), against **5.8** in the United States (2023) (UNODC)
+
+::: {.question-box}
+Is crime in Kuwait rising? Which row would a news story choose to say yes? Which row would it choose to say no?
+:::
+
+<!-- Instructor enrichment. Sources: Public Prosecution Annual Report 2025, pp. 5, 7, 8, 12, 13; UNODC intentional homicide data (Kuwait 0.784 in 2022; United States 5.763 in 2023; for the Gulf: Saudi Arabia 0.801 in 2024, UAE 0.517 in 2023, Bahrain 0.196 in 2022, Oman 0.139 in 2023, Qatar 0.069 in 2022). Ambiguity: the 2024 annual report gave different 2024 figures for some rows (drugs 3,374 in press coverage; juvenile crimes 5,870, against 3,853 in the 2025 report). The slide uses the 2025 report's series throughout. One news site reported "10" murders in 2024; the report's chart shows 65. 2020 was a pandemic year, which may have lowered that year's counts. Small counts swing sharply: the World Bank series puts Kuwait's homicide rate at 0.25 in 2020. -->
+
+<!-- ## Predict: Do People Think Crime Is Rising or Falling? -->
+
+<!-- ::: {.question-box} -->
+<!-- U.S. crime fell for most of the past three decades. In how many of the last 50 years do you think most Americans said there was **more** crime than the year before? -->
+<!-- ::: -->
+
+<!-- ::: {.fragment} -->
+<!-- - In **each** of the last 50 years, most people surveyed believed there was more crime than the year before (Gallup 2020b) -->
+<!-- - News media emphasize **violent crimes in the local area**. Nationally, we are bombarded by coverage of highly publicized shootings at schools, workplaces, concerts, and places of worship -->
+<!-- ::: -->
+
+<!-- ::: {.fragment .question-box} -->
+<!-- Which Chapter 6 concept helps explain the gap: gatekeeping, conferral of status, or the narcotizing dysfunction? What would your own feed suggest about crime in Kuwait this year? -->
+<!-- ::: -->
+
+## Gallup's Global Safety Report: How Safe Kuwait Residents Feel at Night
+
+::: {.question-box}
+Gallup asks adults in more than 140 countries: "Do you feel safe walking alone at night in the city or area where you live?" What share of Kuwait's residents do you think said yes?
+:::
+
+::: {.fragment}
+- **2023: 99 percent**, the highest of 140 countries. Kuwait also had the highest score on Gallup's Law and Order Index, **98 out of 100**
+- **2024: 91 percent**. Singapore (98), Tajikistan (95), China and Oman (94), and Saudi Arabia (93) ranked above Kuwait (91)
+- Worldwide, **73 percent** said yes in 2024
+:::
+
+::: {.fragment .question-box}
+Did Kuwait become less safe in one year, or is something else moving the number? Each year's sample is about 1,000 people.
+:::
+
+<!-- Instructor enrichment. Sources: Gallup, 2024 Global Safety Report (2023 data: Kuwait 99 percent, Law and Order Index 98); Gallup, 2025 Global Safety Report (2024 data: Kuwait 91 percent, Law and Order Index 88; world 73 percent). Gallup gives a margin of error of about plus or minus 4 points for the 2024 Kuwait sample, so part of the change may be sampling error. Gallup notes that high perceived safety in the Gulf is "likely driven by more than just low crime rates," citing strong public order and visible state presence. -->
+
+<!-- ## Six Possible Explanations for the Decline in Crime -->
+
+<!-- - Community-oriented policing and crime prevention programs -->
+<!-- - A massive increase in the prison population, which at least prevents inmates from committing crimes outside prison -->
+<!-- - New surveillance technologies -->
+<!-- - Better residential and business security -->
+<!-- - The decline of the crack cocaine epidemic, which soared in the late 1980s -->
+<!-- - The aging of the population, as the number of people in their 50s increased and the number in their 20s decreased -->
+
+<!-- ::: {.small} -->
+<!-- No single explanation could account for such a marked change. Taken together, changes in public policy, public health, technology, and demographics may well explain it (Tonry 2014). -->
+<!-- ::: -->
+
+<!-- ::: {.question-box} -->
+<!-- Pick one explanation. What data would you need to show that it caused part of the decline, and did not simply happen at the same time? (Chapter 2: correlation and causation) -->
+<!-- ::: -->
+
+## Kuwait's 2025 Traffic Law and the Fall in Traffic Deaths
+
+- Kuwait's amended traffic law took effect on **22 April 2025**. Fines rose sharply: using a phone while driving went from **KD 5 to KD 75**
+- The Ministry of Interior credits stricter enforcement, more monitoring cameras, and awareness campaigns
+
+| January–June | 2024 | 2025 | Change |
+|---|---|---|---|
+| Traffic violations | 1,968,733 | 1,659,448 | −16% |
+| Traffic accidents | 2,511 | 1,383 | −45% |
+| Traffic deaths | 143 | 94 | −34% |
+
+::: {.question-box}
+Higher fines, more cameras, and awareness campaigns all arrived together. What data would you need to tell which one saved lives? Could fewer recorded violations mean anything other than better driving?
+:::
+
+<!-- Instructor enrichment. Sources: Ministry of Interior, General Traffic Department, first-half statistics (moi.gov.kw/gdt/traffic-news/details/53634; Arab Times, 12 Aug 2025); Kuwait Times (fine increases under Decree-Law No. 5 of 2025, amending Decree-Law No. 67 of 1976). The ministry also reported that camera-recorded speeding and red-light violations fell 83 percent in May 2025 against May 2024 (168,208 to 28,464). Links back to the traffic enforcement slide in the social control section. -->
+
+
+<!-- ## Feminist Scholars Point to a Countertrend in Women's Crime -->
+
+<!-- - The **proportion** of major crimes committed by **women** has increased -->
+<!-- - But **violent** crimes committed by women, which have never been common, have **declined** -->
+<!-- - Despite "mean girls" references in popular culture, every reliable measure shows that among women, fights, weapons possession, assaults, and violent injuries have plunged over the last decade (Federal Bureau of Investigation 2020; Males and Chesney-Lind 2010) -->
+
+<!-- ::: {.question-box} -->
+<!-- How can women's share of major crimes rise while their violent crime falls? Work it out with two made-up numbers. -->
+<!-- ::: -->
+
+<!-- ## International Crime Rates and Currie's Explanation for the United States {.smaller} -->
+
+<!-- - Cross-national comparisons are hard, but since the 1980s violent crime has been far more common in the **United States** than in **western Europe**. Car theft, though, is higher in England, Ireland, Denmark, and New Zealand -->
+<!-- - Homicide has risen fast in countries that supply drugs to wealthy markets: **Mexico**'s rate is about twice the U.S. rate (Luhnow 2014) -->
+<!-- - **Elliot Currie** (1985, 1998): U.S. society stresses **individual economic achievement**, has long tolerated violence, and has sharp inequality, unemployment, and drug abuse. Together these produce a climate conducive to crime -->
+
+<!-- ::: {.question-box} -->
+<!-- Currie's first factor sounds like Merton. Which of Merton's modes would an emphasis on individual economic achievement push people toward? -->
+
+<!-- Before comparing Kuwait's crime rate with another country's, what would you need to know about how each country defines, reports, and records crime? -->
+<!-- ::: -->
+
+<!-- Cut for length: the World Population Review ranking (Venezuela highest; Switzerland, Denmark, Norway, Japan, New Zealand lowest) and the Central American homicide comparison. -->
+
+<!-- # Social Policy: The Death Penalty {background-color="#1B2A4A"} -->
+
+<!-- ::: {.takeaway} -->
+<!-- Sociologists study the death penalty as a form of social control. They ask what it is meant to do, what it costs, and who receives it. -->
+<!-- ::: -->
+
+<!-- ## Looking at the Issue -->
+
+<!-- - About **20** nations still carry out executions.  -->
+<!-- - Questions scholars and politicians think about: How can the government avoid executing the innocent? Is life in prison enough punishment for a truly heinous crime? -->
+
+<!-- <!-- Schaefer describes McVeigh as having killed "hundreds"; the Oklahoma City bombing killed 168 people. -->
+
+<!-- <!-- ## Figure 7-5: Executions by State Since 1976 -->
+
+<!-- <!-- ::: {.center} -->
+<!-- <!-- ![](../../../assets/chapter_07_assets/figure_7_5_executions.svg){fig-alt="Horizontal bars of executions by state since 1976: Texas 568, Virginia 113, Oklahoma 112, Florida 99, Missouri 84, Georgia 75, Alabama 66, Ohio 56. States with 26 to 50: South Carolina 43, North Carolina 43, Arizona 37, Arkansas 31, Louisiana 28."} -->
+<!-- <!-- ::: -->
+
+<!-- <!-- ::: {.small} -->
+<!-- <!-- The federal government had 61 people on death row and the military 4. Connecticut, Maryland, and New Mexico abolished the death penalty for future cases but still have people on death row; California, Oregon, and Pennsylvania keep it, but their governors imposed moratoriums (Death Penalty Information Center 2020a). -->
+<!-- <!-- ::: -->
+
+<!-- <!-- Data from the Arabic deck's text alternative to Figure 7-5. Only states with more than 25 executions are drawn; the alternative's list of states without the death penalty repeats New Mexico, so the slide gives no count. -->
+
+<!-- ## Applying Sociology: The Functionalist View of the Death Penalty -->
+
+<!-- - **Durkheim:** sanctions reinforce society's standards. Supporters say fear of execution deters some serious crimes, and that the worst criminals deserve to die regardless -->
+<!-- - **Dysfunction, cost:** in Oklahoma, death penalty cases cost **3.2 times** as much to prosecute as cases seeking life without parole (Death Penalty Information Center 2020a) -->
+<!-- - **Changing methods:** hanging gave way to electrocution (1890), then to lethal injection in the 1970s. Each was introduced as more humane, and lethal injection is now itself questioned -->
+
+<!-- ## Applying Sociology: The Conflict View of the Death Penalty -->
+
+<!-- - Poor defendants rely on overworked, underpaid **court-appointed lawyers**. Unequal legal resources can mean the difference between life and death -->
+<!-- - As of 2020, **166** death row inmates had been **exonerated** (Death Penalty Information Center 2020b) -->
+<!-- <!-- - Studies show defendants are more likely to be sentenced to death if their victims were white rather than Black (Petrie and Coverdill 2010) -->
+
+<!-- <!-- ## Initiating Policy: Death Penalty Policy Is Moving in Two Directions -->
+
+<!-- <!-- - U.S. support stood at **56 percent** in 2019, about where it was when a national survey first asked in **1937** (Gallup 2020a) -->
+<!-- <!-- - **Broadening:** some states are considering more capital offenses, such as child molestation without murder, and certain repeat offenses -->
+<!-- <!-- - **Narrowing:** legal challenges to **lethal injection** question whether an execution can be carried out humanely. Only about **20 to 40** death sentences follow the more than **14,000** murders reported each year -->
+
+<!-- ## Take the Issue with You: What Evidence Would Answer the Deterrence Question? -->
+
+<!-- ::: {.board} -->
+<!-- Does the death penalty deter crime? If so, why are crime rates in the United States high compared with those in other nations? -->
+<!-- ::: -->
+
+<!-- - Design the study, using Chapter 2. Would you compare states with and without the death penalty, or one state before and after a change? Which control variables would you need? -->
+<!-- - Schaefer also asks: should youths convicted of violent crimes be subject to the death penalty? What is your position on the death penalty, and what is your reasoning? -->
+<!-- - Which evidence from this chapter, on cost, exonerations, or access to lawyers, would matter most to someone deciding the question? -->
+
+<!-- <!-- Keep the discussion on the evidence Schaefer presents. No one is asked to defend or reject a religious position. --> 
+
+# Deviance in Your Life and Your Field {background-color="#1B2A4A"}
+
+::: {.takeaway}
+What looked like individual character, a bad kid, a respectable executive, an obedient volunteer, follows patterns of labels, groups, opportunity, and power. You now have names for them.
+:::
+
+## Moskos's Patrol Explained with the Chapter's Concepts
+
+::: {.board}
+Use the chapter's vocabulary to explain what Moskos saw in Baltimore.
+:::
+
+- "Police don't deal with a random cross-section of society": **crime statistics** measure **police activity**, not all crime
+- A fellow officer who "has their back": **conformity** to peers, alongside **obedience** to commanders
+- Police deciding whom to stop and whom to arrest: **labeling theory**, **agents of social control**, and **differential justice**
+- Argue it two ways. **Functionalist:** enforcement marks the limits of proper behavior. **Conflict:** who decides which neighborhoods get the most patrols, and which crimes get the least attention?
+
+<!-- ## Taking Sociology to Work: Stephanie Vezzani, U.S. Secret Service {.smaller} -->
+
+<!-- - Vezzani entered the University of Akron unsure of her major but sure she wanted a career fighting crime. She began in accounting and switched to sociology when she found the department offered a concentration in law enforcement -->
+<!-- - The Secret Service protects high-ranking officials and their families, and investigates financial crimes, including counterfeiting, identity theft, and computer-based attacks on the financial, banking, and telecommunications industries. She has done both -->
+<!-- - Travel is one of the most exciting parts of the job: Russia, Turkey, Jordan, Vietnam, and South Korea, and the 2002 Winter Olympics in Salt Lake City, where she protected athletes in the Olympic Village -->
+<!-- - She uses sociology daily when she interviews suspects, witnesses, and victims: "It is critical in the field of law enforcement to have an understanding of people's relationships and the beliefs and value systems that contribute to their decision making" -->
+
+<!-- ::: {.question-box} -->
+<!-- Schaefer asks: besides an awareness of different beliefs, values, and cultures, what else might sociology offer those who serve in law enforcement? Law enforcement is a relatively new career option for women. What special strengths might a woman bring to police work? -->
+<!-- ::: -->
+
+## Sociology in Your Major
+
+- **Medicine:** Goffman's stigma affects who seeks care and who hides a diagnosis. Milgram's teachers obeyed a man in a technician's coat; hospitals run on white coats and orders
+- **Engineering:** speed bumps and traffic cameras are social control built into the road
+- **Business:** white-collar and corporate crime, embezzlement punished more lightly than petty theft, and Merton's ritualist in every bureaucracy
+- **Computer science:** cybercrime, identity theft, music piracy that carries no stigma, and virtual reality replications of Milgram
+
+<!-- Instructor enrichment. -->
+
+## Before You Leave
+
+- **Deviance** violates a group's standards. It is socially defined, changes over time, and may carry a **stigma** (Goffman)
+- **Social control** runs from informal to formal sanctions. Milgram separated **conformity** to peers from **obedience** to authority, and almost two-thirds of his subjects obeyed
+- **Law** is governmental social control. **Control theory** (Hirschi): our bonds to others keep most of us conforming
+- **Perspectives:** functionalist (Durkheim, Merton), interactionist (Sutherland, Shaw and McKay, Becker, Chambliss), conflict (Quinney)
+- **Crime** comes in six types. **Statistics** undercount it, and most people think crime is rising even when it falls
+- The **death penalty** debate turns on deterrence, cost, unequal legal defense, and wrongful convictions
+
+::: {.small}
+Next: Chapter 8, Stratification and Social Mobility.
 :::
