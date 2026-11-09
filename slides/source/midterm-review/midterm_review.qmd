@@ -1,0 +1,66 @@
+---
+title: "Midterm Review"
+subtitle: "Dr. Fatima Alqabandi · Kuwait University"
+author: "Chapters 1–7 · Based on Richard T. Schaefer, *Sociology: A Brief Introduction*, 14th ed."
+output-file: midterm-review.html
+format:
+  revealjs:
+    theme: [default, ku_sociology_style.scss]
+    embed-resources: true
+    slide-number: true
+    center-title-slide: true
+    transition: fade
+    controls: false
+    progress: true
+    width: 1500
+    height: 1000
+    title-slide-attributes:
+      data-background-color: "#1B2A4A"
+---
+
+## What the Midterm Covers
+
+- **Chapters 1–7**: 44 questions, 1 point each
+- Multiple choice and true/false. Choose the **one best answer**
+- Most questions describe a short situation, often set in Kuwait, and ask which concept, study, or perspective it shows
+
+::: {.takeaway}
+Knowing a definition is not enough. Practise spotting each concept in an everyday example.
+:::
+
+## Concepts to Review in Each Chapter {.smaller}
+
+| Chapter | Review |
+|---|---|
+| **1** Understanding Sociology | Sociological imagination · micro, meso, macro, and global levels · Durkheim on suicide and anomie · Weber's verstehen and ideal type · Marx's alienation · manifest and latent functions |
+| **2** Sociological Research | Independent, dependent, and control variables · correlation and causation · random, convenience, and snowball samples · surveys, participant observation, experiments, existing sources |
+| **3** Culture | Ethnocentrism and cultural relativism · culture shock · norms and sanctions · nonverbal communication · subculture, argot, counterculture · invention, diffusion, culture lag |
+| **4** Socialization | Cooley's looking-glass self · Mead's preparatory, play, and game stages · agents of socialization · anticipatory socialization and resocialization |
+| **5** Social Structure | Ascribed, achieved, and master statuses · primary and secondary groups · trained incapacity, goal displacement, and the Peter principle · Michels's iron law of oligarchy |
+| **6** Media | Gatekeeping · conferral of status · narcotizing dysfunction · opinion leaders and influencers · filter bubble and egocasting · digital divide |
+| **7** Deviance | Deviance as socially defined · formal and informal sanctions · Milgram's obedience study · Goffman's stigma · law as a social process |
+
+## Pairs of Terms That Are Easy to Confuse {.smaller}
+
+| Pair | The question that separates them |
+|---|---|
+| Manifest or latent function | Is it open and stated, or unintended and less visible? |
+| Independent or dependent variable | Which one is the cause, and which one is affected? |
+| Ethnocentrism or cultural relativism | Is another culture judged by your standards, or understood by its own? |
+| Formal or informal sanction | Does it come from an official body, or from people's everyday reactions? |
+| Anticipatory socialization or resocialization | Is the person rehearsing a future role, or discarding an old way of life? |
+| Ascribed or achieved status | Was the position assigned by society, or earned? |
+| Role conflict or role strain | Do the demands come from two positions, or from one? |
+| Filter bubble or egocasting | Did the platform do the filtering, or did the user? |
+
+## Functionalism, Conflict Theory, and Interactionism Appear in Every Chapter
+
+| Perspective | The question it asks |
+|---|---|
+| **Functionalist** | What does this practice do to keep society stable? |
+| **Conflict** | Who benefits, who bears the costs, and who has the power to make the rules? |
+| **Interactionist** | What does this mean to the people involved in everyday interaction? |
+
+::: {.question-box}
+When a question asks which perspective a sociologist is using, ask yourself which of these three questions the sociologist is trying to answer.
+:::
