@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-labelledby="title desc">
+  <title id="title">Landtman: ranking among the Kiwai Papuans</title>
+  <desc id="desc">Three stacked bands, each set slightly lower than the one above. Top: a little more high, warriors, harpooners, and sorcerers. Middle: most villagers, who did the same work and lived in similar housing. Bottom: down a little bit, women, the unemployed, and the unmarried, who were barred from owning land.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#1B2A4A" flood-opacity=".12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1B2A4A" stroke="none"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="590" fill="#FCFCFA"/>
+  <text x="600" y="52" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1B2A4A">LANDTMAN: RANKING AMONG THE KIWAI PAPUANS</text><rect x="150" y="110" width="900" height="110" rx="18" fill="#FFF7E3" stroke="#A47712" stroke-width="3" /><text x="190" y="158" text-anchor="start" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#A47712">“A little more high”</text><text x="190" y="194" text-anchor="start" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#25313D">Warriors, harpooners, and sorcerers</text><rect x="190" y="250" width="900" height="110" rx="18" fill="#EAF6F5" stroke="#147D79" stroke-width="3" /><text x="230" y="298" text-anchor="start" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#147D79">Most villagers</text><text x="230" y="334" text-anchor="start" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#25313D">Same work, similar housing</text><rect x="230" y="390" width="900" height="110" rx="18" fill="#F9E9E6" stroke="#C65D4B" stroke-width="3" /><text x="270" y="438" text-anchor="start" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#C65D4B">“Down a little bit”</text><text x="270" y="474" text-anchor="start" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#25313D">Women, the unemployed, and the unmarried; barred from owning land</text><text x="600" y="560" text-anchor="middle" font-family="Noto Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#6F7985">Landtman [1938] 1968, as reported in Schaefer. Instructor illustration.</text>
+</svg>
