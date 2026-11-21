@@ -27,11 +27,11 @@ To add a course file later, replace a coming-soon label with a Markdown link:
 | **8** | Nov. 2 & 4 | Deviance, Crime, and Social Control | [HTML](slides/ch07-deviance.html){.material-link} [PDF](slides/ch07-deviance.pdf){.material-link} | — |
 | **9** | Nov. 9 & 11 | Midterm review; midterm | Midterm review: [HTML](slides/midterm-review.html){.material-link} [PDF](slides/midterm-review.pdf){.material-link} | **Midterm examination, Nov. 11 — 25%** |
 | **10** | Nov. 16 & 18 | Stratification and Social Mobility; Global Inequality | Stratification: [HTML](slides/ch08-stratification.html){.material-link} [PDF](slides/ch08-stratification.pdf){.material-link}<br>Global inequality: [HTML](slides/ch09-global-inequality.html){.material-link} [PDF](slides/ch09-global-inequality.pdf){.material-link} | — |
-| **11** | Nov. 23 & 25 | Racial and Ethnic Inequality | [Slides coming soon]{.status-coming-soon} | — |
-| **12** | Nov. 30 & Dec. 2 | The Family and Household Diversity | [Slides coming soon]{.status-coming-soon} | — |
-| **13** | Dec. 7 & 9 | Government and the Economy | [Slides coming soon]{.status-coming-soon} | — |
-| **14** | Dec. 14 & 16 | Health, Population, and the Environment | [Slides coming soon]{.status-coming-soon} | — |
-| **15** | Dec. 21 | Social Change in the Global Community; synthesis and final-exam guidance | [Slides coming soon]{.status-coming-soon} | Final-exam preparation |
+| **11** | Nov. 23 & 25 | The Family and Household Diversity | [Slides coming soon]{.status-coming-soon} | — |
+| **12** | Nov. 30 & Dec. 2 | Government and the Economy | [Slides coming soon]{.status-coming-soon} | — |
+| **13** | Dec. 7 & 9 | Health, Population, and the Environment | [Slides coming soon]{.status-coming-soon} | — |
+| **14** | Dec. 14 & 16 | Social Change in the Global Community (Dec. 14); synthesis and final-exam guidance (Dec. 16) | [Slides coming soon]{.status-coming-soon} | Final-exam preparation |
+| **15** | Dec. 21 | Synthesis and final-exam guidance | [Slides coming soon]{.status-coming-soon} | Final-exam preparation |
 | **Final examination** | Dec. 23, 3:00–5:00 p.m. | Cumulative examination covering all assigned chapters | [Details coming soon]{.status-coming-soon} | **Final examination — 50% (both sections)** |
 
 ## How materials will appear
